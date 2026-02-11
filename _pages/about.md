@@ -263,7 +263,7 @@ redirect_from:
     <span style="font-size:16px"><strong><em>(Corresponding author *)</em></strong> </span>
     </div>
     <div class="entry">
-    - <strong>Asynchronous Federated Learning over Non-IID Data via Over-the-air Computation</strong> [<strong><a href="https://ieeexplore.ieee.org/document/11300758" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/Asynchronous_Federated_Learning_Over_Non-IID_Data_via_Over-the-Air_Computation.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/Air_FedGA_TON.html" target="_blank">BIB</a></strong>]<br>
+    - <strong>Asynchronous Federated Le Computation</strong> [<strong><a href="https://ieeexplore.ieee.org/document/11300758" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/Asynchronous_Federated_Learning_Over_Non-IID_Data_via_Over-the-Air_Computation.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/Air_FedGA_TON.html" target="_blank">BIB</a></strong>]<br>
       <strong>Qianpiao Ma</strong>, Xiaozhu Song, Junlong Zhou, Haibo Wang, Yunming Liao, Jianchun Liu, Hongli Xu<br>
       <em>IEEE Transactions on Networking (TON), 2025</em><span class="ccf-badge">CCF-A</span>
     </div>
@@ -317,7 +317,7 @@ redirect_from:
     </div>
 
     <div class="entry">
-    - <strong>FedCD: A Hybrid Federated Learning Framework for Efficient Training With IoT Devices</strong> [<strong><a href="https://ieeexplore.ieee.org/document/10443215" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/FedCD_A_Hybrid_Federated_Learning_Framework_for_Efficient_Training_With_IoT_Devices.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/FedCD.html" target="_blank">BIB</a></strong>]<br>
+    - <strong>Visualizing Multi-Document Semantics via Open Domain Information Extraction</strong> [<strong><a href="https://link.springer.com/content/pdf/10.1007/978-3-030-10997-4_54.pdf" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.gith" target="_blank">PDF</a></strong>][<strong><a href="https://scholar.googleusercontent.com/scholar.bib?q=info:nz1nIXxBmx0J:scholar.google.com/&output=citation&scisdr=Cn0tIthPEOe77za2fmM:AHkA5jQAAAAAaYywZmOF5sBraLzc4l2JsPacKkE&scisig=AHkA5jQAAAAAaYywZmgvzaMhtzg-OL5UAqm7FO0&scisf=4&ct=citation&cd=-1&hl=zh-CN" target="_blank">BIB</a></strong>]<br>
       Jianchun Liu, Yujia Huo, Pengcheng Qu, Sun Xu, Zhi Liu, <strong>Qianpiao Ma*</strong>, Jinyang Huang<br>
       <em>IEEE Internet of Things Journal (IOT), 2024, 11(11): 20040-20050</em><span class="cas-badge">中科院二区</span>
     </div>
