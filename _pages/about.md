@@ -318,7 +318,7 @@ redirect_from:
 
     <div class="entry">
     - <strong>Visualizing Multi-Document Semantics via Open Domain Information Extraction</strong> [<strong><a href="https://link.springer.com/content/pdf/10.1007/978-3-030-10997-4_54.pdf" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.gith" target="_blank">PDF</a></strong>][<strong><a href="https://scholar.googleusercontent.com/scholar.bib?q=info:nz1nIXxBmx0J:scholar.google.com/&output=citation&scisdr=Cn0tIthPEOe77za2fmM:AHkA5jQAAAAAaYywZmOF5sBraLzc4l2JsPacKkE&scisig=AHkA5jQAAAAAaYywZmgvzaMhtzg-OL5UAqm7FO0&scisf=4&ct=citation&cd=-1&hl=zh-CN" target="_blank">BIB</a></strong>]<br>
-      Jianchun Liu, Yujia Huo, Pengcheng Qu, Sun Xu, Zhi Liu, <strong>Qianpiao Ma*</strong>, Jinyang Huang<br>
+      <strong>Yongpan Sheng*</strong>, Zenglin Xu, Yafang Wang, Xiangyu Zhang, Jia Jia, Zhonghui You, and Gerard de Melo<br>
       <em>IEEE Internet of Things Journal (IOT), 2024, 11(11): 20040-20050</em><span class="cas-badge">中科院二区</span>
     </div>
   </div>
