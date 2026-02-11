@@ -311,11 +311,11 @@ redirect_from:
     </div>
 
     <div class="entry">
-    - <strong>Multi-document semantic relation extraction for news analytics</strong> [<strong><a href="[https:/9878](https://link.springer.com/content/pdf/10.1007/s11280-020-00790-2.pdf)" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/Distributed_Strategy_for_Collaborative_Traffic_Measurement_in_a_Multi_Controller_SDN.pdf" target="_blank">PDF</a></strong>][<strong><a href="[https://qianpiao.github.io/cite/SDNMCM.html](https://scholar.googleusercontent.com/scholar.bib?q=info:5BarsBPGR3wJ:scholar.google.com/&output=citation&scisdr=Cn0tIthPEOe77zazs2U:AHkA5jQAAAAAaYy1q2UsoNvoBDRaE_sm4ahRfgg&scisig=AHkA5jQAAAAAaYy1q4V3BMckjDkPVq1H9AeMylI&scisf=4&ct=citation&cd=-1&hl=zh-CN)" target="_blank">BIB</a></strong>]<br>
+    - <strong>Multi-document semantic relation extraction for news analytics</strong> [<strong><a href="https://link.springer.com/content/pdf/10.1007/s11280-020-00790-2.pdf" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.gith" target="_blank">PDF</a></strong>][<strong><a href="https://scholar.googleusercontent.com/scholar.bib?q=info:5BarsBPGR3wJ:scholar.google.com/&output=citation&scisdr=Cn0tIthPEOe77zazs2U:AHkA5jQAAAAAaYy1q2UsoNvoBDRaE_sm4ahRfgg&scisig=AHkA5jQAAAAAaYy1q4V3BMckjDkPVq1H9AeMylI&scisf=4&ct=citation&cd=-1&hl=zh-CN" target="_blank">BIB</a></strong>]<br>
       <strong>Yongpan Sheng</strong>, Zenglin Xu, Yafang Wang, and Gerard de Melo*<br>
       <em>World Wide Web: Internet and Web Information Systems (WWW Journal), 2024, 11(3): 2450-2461</em><span class="ccf-badge">CCF-B</span>
     </div>
-    
+
 
     <div class="entry">
     - <strong>Visualizing Multi-Document Semantics via Open Domain Information Extraction</strong> [<strong><a href="https://link.springer.com/content/pdf/10.1007/978-3-030-10997-4_54.pdf" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.gith" target="_blank">PDF</a></strong>][<strong><a href="https://scholar.googleusercontent.com/scholar.bib?q=info:nz1nIXxBmx0J:scholar.google.com/&output=citation&scisdr=Cn0tIthPEOe77za2fmM:AHkA5jQAAAAAaYywZmOF5sBraLzc4l2JsPacKkE&scisig=AHkA5jQAAAAAaYywZmgvzaMhtzg-OL5UAqm7FO0&scisf=4&ct=citation&cd=-1&hl=zh-CN" target="_blank">BIB</a></strong>]<br>
