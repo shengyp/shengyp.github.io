@@ -547,7 +547,7 @@ redirect_from:
 
 <div style="text-align: justify; text-indent: -1.5em;">
   <ul style="list-style-position: inside;">
-    <li><span style="font-size:16px">国家自然科学基金委员会, 青年基金, 62402537, 面向预训练模型的边缘联邦学习关键技术研究, 2025-01-01 至 2027-12-31, 30万元</span></li>
+    <li><span style="font-size:16px">国家自然科学基金委员会, 青年基金, 62402537, 面向预训练模型的边缘联邦学习关键技术研究, 2025-01-01 至 2027-12-31. Computer Networks</span></li>
     <li><span style="font-size:16px">中央高校基本科研业务费, 基础研究专项, 30925010408, 面向端侧设备的联邦微调关键技术研究, 2025-06-01 至 2027-06-30, 10万元</span></li>
     <li><span style="font-size:16px">江苏省人社厅, 江苏省卓越博士后计划（揭榜领题）, JB23085, 大规模异构网络下的边缘智能关键技术研究, 2023-5-1 至2025-4-30, 30万元</span></li>
   </ul>
@@ -570,6 +570,15 @@ redirect_from:
 <ul id="services-list" style="font-size:16px; padding-left: 20px;">
 
   <!-- 默认显示 -->
+  <h3 style="
+    color: #0084f2;
+    padding-left: 5px;
+    margin: 30px 0 5px;
+    border-left: 5px solid #0084f2;">Publicity chair</h3>
+    <ul>
+      <li><strong>Publicity Chair</strong>, China Conference on Knowledge Graph and Semantic Computing (<a href="https://sigkg.cn/ccks2023/"><strong><u><font color="#874e26">CCKS 2023</font></u></strong></a>), Shenyang, China, August 24-27, 2023</li>
+      <li><strong>Publicity Chair</strong>, 2025 6th International Conference on Natural Language Processing and Artificial Intelligence (<a href="https://nlpai.org/index.html"><strong><u><font color="#874e26">NLPAI 2025</font></u></strong></a>), Chongqing, China, Jnue 13-16, 2025</li>
+    </ul>
   <li>IEEE Journal on Selected Areas in Communications</li>
   <li>IEEE Transactions on Networking</li>
   <li>IEEE Transactions on Mobile Computing</li>
