@@ -537,10 +537,6 @@ redirect_from:
 </style>
 
 
-
-
-
-
 ## 🏆 Grants {#grants}
 
 **主持项目**
@@ -579,16 +575,71 @@ redirect_from:
       <li><strong>Publicity Chair</strong>, China Conference on Knowledge Graph and Semantic Computing (<a href="https://sigkg.cn/ccks2023/"><strong><u><font color="#874e26">CCKS 2023</font></u></strong></a>), Shenyang, China, August 24-27, 2023</li>
       <li><strong>Publicity Chair</strong>, 2025 6th International Conference on Natural Language Processing and Artificial Intelligence (<a href="https://nlpai.org/index.html"><strong><u><font color="#874e26">NLPAI 2025</font></u></strong></a>), Chongqing, China, Jnue 13-16, 2025</li>
     </ul>
-  <li>IEEE Journal on Selected Areas in Communications</li>
-  <li>IEEE Transactions on Networking</li>
-  <li>IEEE Transactions on Mobile Computing</li>
-  <li>IEEE Transactions on Parallel and Distributed Systems</li>
-  <li>IEEE Transactions on Services Computing</li>
-  <li>IEEE Transactions on Wireless Communications</li>
-  <li>IEEE Transactions on Neural Networks and Learning Systems</li>
-  <li>IEEE Transactions on Intelligent Transportation Systems</li>
-  <li>计算机学报</li>
-  <li>Computer Networks</li>
+
+  <h3 style="
+    color: #0084f2;
+    padding-left: 5px;
+    margin: 30px 0 5px;
+    border-left: 5px solid #0084f2;">Local chair</h3>
+  <ul>
+    <li><strong>Local Chair</strong>, China Conference on Knowledge Graph and Semantic Computing (<a href="https://sigkg.cn/ccks-ijckg2024/"><strong><u><font color="#874e26">CCKS 2024</font></u></strong></a>), Chongqing, China, September 19th-22nd, 2024</li>
+  </ul>
+  <h3 style="
+    color: #0084f2;
+    padding-left: 5px;
+    margin: 30px 0 5px;
+    border-left: 5px solid #0084f2;">Co-chair</h3>
+  <ul>
+    <li><strong>Co-chair</strong>, The 2023 International Conference on Cyber-physical Social Intelligence (<a href="https://www.agist.org/iccsi2023/files/Accepted_Special_Sessions/S03.pdf"><strong><u><font color="#874e26">ICCSI 2023, Special Session: Big Data Techniques for Computer Vision</font></u></strong></a>), Xian, China, October 20th-23th, 2023</li>
+</ul>
+
+  <h3 style="
+    color: #0084f2;
+    padding-left: 5px;
+    margin: 30px 0 5px;
+    border-left: 5px solid #0084f2;">Area Chair</h3>
+  <ul>
+    <li><strong>Area Chair</strong>, The 2026 International Joint Conference on Neural Networks (<a href="https://attend.ieee.org/wcci-2026/ijcnn-2026-topics/"><strong><u><font color="#874e26">IJCNN 2026</font></u></strong></a>), MECC Maastricht, the Netherlands, June 21st-26th, 2026</li>
+    <li><strong>Area Chair</strong>, China Conference on Knowledge Graph and Semantic Computing (<a href="https://sigkg.cn/ccks2026/"><strong><u><font color="#874e26">CCKS 2026</font></u></strong></a>), Xian, China, August 21st-23rd, 2026</li>
+    <li><strong>Area Chair</strong>, The 2025 International Joint Conference on Neural Networks (<a href="https://2025.ijcnn.org/"><strong><u><font color="#874e26">IJCNN 2025</font></u></strong></a>), Rome, Italy, June 30-July 5, 2025</li>
+  </ul>
+
+  <h3 style="
+    color: #0084f2;
+    padding-left: 5px;
+    margin: 30px 0 5px;
+    border-left: 5px solid #0084f2;">Program Committee</h3>
+  <ul>
+<!-- 2026.01.07 收到PC邀请 -->
+      <li><strong>PC Member</strong>, The 10th APWeb-WAIM Joint International Conference on Web and Big Data (<a href="https://conferences.sigappfr.org/APWEB2026/"><strong><u><font color="#874e26">APWeb-WAIM 2026</font></u></strong></a>), Danang, Vietnam, September 7th-9th, 2026</li>
+      <li><strong>PC Member</strong>, The Web Conference 2026 Demo Track (<a href="https://www2026.thewebconf.org/calls/demos.html"><strong><u><font color="#874e26">WWW 2026 Demo Track</font></u></strong></a>), Dubai, United Arab Emirates, April 13th-17th, 2026</li>
+      <li><strong>PC Member</strong>, The 31st International Conference on Database Systems for Advanced Applications (<a href="https://dasfaa2026.github.io"><strong><u><font color="#874e26">DASFAA 2026</font></u></strong></a>), Jeju, Korea, April 27th-30th, 2026</li>
+      <li><strong>PC Member</strong>, The 30th Pacific-Asia Conference on Knowledge Discovery and Data Mining (<a href="https://pakdd2026.org/"><strong><u><font color="#874e26">PAKDD 2026</font></u></strong></a>), Hong Kong SAR, China, June 9th-12th, 2026</li>
+      <li><strong>PC Member</strong>, The 32nd International Conference on MultiMedia Modeling (<a href="https://mmm2026.cz/"><strong><u><font color="#874e26">MMM 2026</font></u></strong></a>), Prague, Czech Republic, January 29th-31st, 2026</li>
+      <li><strong>PC Member</strong>, The 19th China Conference on Knowledge Graph and Semantic Computing (<a href="https://sigkg.cn/ccks2025/"><strong><u><font color="#874e26">CCKS 2025</font></u></strong></a>), Fuzhou, China, September 19th-21st, 2025</li>
+      <li><strong>PC Member</strong>, The 32nd International Conference on Neural Information Processing (<a href="https://iconip2025.apnns.org/"><strong><u><font color="#874e26">ICONIP 2025</font></u></strong></a>), Okinawa, Japan, November 20th-24th, 2025</li>
+      <li><strong>PC Member</strong>, The 14th International Joint Conference on Knowledge Graphs (<a href="https://ijckg2025.github.io/"><strong><u><font color="#874e26">IJCKG 2025</font></u></strong></a>), Heraklion, Grete, Greece, October 15-17, 2025</li>
+      <li><strong>PC Member</strong>, The International World Wide Web Conference (<a href="https://www2025.thewebconf.org/"><strong><u><font color="#874e26">WWW 2025</font></u></strong></a>), Australia, April 28-May 2, 2025</li>
+      <li><strong>PC Member</strong>, The 34th International Joint Conference on Artificial Intelligence (<a href="https://2025.ijcai.org/"><strong><u><font color="#874e26">IJCAI 2025</font></u></strong></a>), Montreal, Canada, August 16th-22th, 2025</li>
+      <li><strong>PC Member</strong>, The 31st International Conference on Neural Information Processing (<a href="https://www.iconip2024.org/"><strong><u><font color="#874e26">ICONIP 2024</font></u></strong></a>), Auckland, New Zealand, December 2nd-6th, 2024</li>
+      <li><strong>PC Member</strong>, The 8th APWeb-WAIM International Joint Conference on Web and Big Data (<a href="https://apweb2024.zjnu.edu.cn/"><strong><u><font color="#874e26">APWeb-WAIM 2024</font></u></strong></a>), Jinhua, China, August 30-Septemper 1, 2024</li>
+      <li><strong>PC Member</strong>, The 33rd International Joint  Conference on Artificial Intelligence (<a href="https://ijcai24.org/"><strong><u><font color="#874e26">IJCAI 2024</font></u></strong></a>), Jeju Island, South Korea, August 3rd-9th, 2024</li>
+      <li><strong>PC Member</strong>, 2024 SIAM International Conference on Data Mining (<a href="https://www.siam.org/conferences/cm/conference/sdm24"><strong><u><font color="#874e26">SDM 2024</font></u></strong></a>), Westin Houston, TX, U.S., April 18-20, 2024</li>
+      <li><strong>PC Member</strong>, The 29th International Conference on Database Systems for Advanced Applications (<a href="https://www.dasfaa2024.org/"><strong><u><font color="#874e26">DASFAA 2024</font></u></strong></a>), Gifu, Japan, May 13-16, 2024</li>
+      <li><strong>PC Member</strong>, China Conference on Knowledge Graph and Semantic Computing (<a href="https://sigkg.cn/ccks2023/"><strong><u><font color="#874e26">CCKS 2023</font></u></strong></a>), Shenyang, China, August 24-27, 2023</li>
+      <li><strong>PC Member</strong>, The 22nd China National Conference on Computational Linguistics (<a href="http://cips-cl.org/static/CCL2023/index.html"><strong><u><font color="#874e26">CCL 2023</font></u></strong></a>), Haerbing, China, August 3-5, 2023</li>
+      <li><strong>PC Member</strong>, The 7th APWeb-WAIM International Joint Conference on Web and Big Data (<a href="http://www.apweb-waim2023.com/"><strong><u><font color="#874e26">APWeb-WAIM 2023</font></u></strong></a>), Wuhan, China, October 6-8, 2023</li>
+      <li><strong>PC Member</strong>, The 28th International Conference on Database Systems for Advanced Applications (<a href="http://www.tjudb.cn/dasfaa2023/"><strong><u><font color="#874e26">DASFAA 2023</font></u></strong></a>), Tianjin, China, April 17-20, 2023</li>
+      <li><strong>PC Member</strong>, The 21st China National Conference on Computational Linguistics (<a href="http://cips-cl.org/static/CCL2022/index.html"><strong><u><font color="#874e26">CCL 2022</font></u></strong></a>), Nanchang, China, October 14-16, 2022</li>
+      <li><strong>PC Member</strong>, The 8th International Conference on Data Mining (<a href="https://csit2022.org/dami/index"><strong><u><font color="#874e26">DaMi 2022</font></u></strong></a>), Chennai, India, August 20-21, 2022</li>
+      <li><strong>PC Member</strong>, The 29th International Conference on Neural Information Processing (<a href="https://iconip2022.apnns.org/"><strong><u><font color="#874e26">ICONIP 2022</font></u></strong></a>), New Delhi, India, November 22-26, 2022</li>
+      <li><strong>PC Member</strong>, China Conference on Knowledge Graph and Semantic Computing (<a href="http://sigkg.cn/ccks2022/"><strong><u><font color="#874e26">CCKS 2022</font></u></strong></a>), Qinhuangdao, China, August 25-28, 2022</li>
+      <li><strong>PC Member</strong>, The 2023 International Conference on Images, Signals, and Computing (<a href="http://icisc-conf.org/"><strong><u><font color="#874e26">ICISC 2023</font></u></strong></a>), Chengdu, China, April 15-17, 2023</li>
+      <li><strong>PC Member</strong>, International Conference Advanced Data Mining and Applications (<a href="https://adma2022.uqcloud.net/index.html"><strong><u><font color="#874e26">ADMA 2022</font></u></strong></a>), Brisbane, Australia, 30th November-2nd December, 2022</li>
+      <li><strong>PC Member</strong>, The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (<a href="https://2022.ecmlpkdd.org/"><strong><u><font color="#874e26">ECML-PKDD 2022</font></u></strong></a>), Grenoble, France, September 19-23, 2022</li>
+      <li><strong>PC Member</strong>, The 4th Asia Pacific Web and Web-Age Information Management Joint Conference on Web and Big Data (<a href="http://www.tjudb.cn/apwebwaim2020/node/20"><strong><u><font color="#874e26">APWeb-WAIM 2020</font></u></strong></a>), Tianjin, China, August 12-14, 2020</li>
+      <li><strong>PC Member</strong>, The 5th Asia Pacific Web and Web-Age Information Management Joint Conference on Web and Big Data (<a href="http://139.159.245.147/program_committee"><strong><u><font color="#874e26">APWeb-WAIM 2021</font></u></strong></a>), Guangzhou, China, August 23-25, 2021</li>
+  </ul>
 
   <!-- 隐藏部分 -->
   <li class="extra-services" style="display:none;">
