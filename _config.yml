@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Qianpiao Ma - Homepage"
+title                    : "Yongpan Sheng - Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -21,23 +21,23 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "qianpiao.png"
-  name             : "Qianpiao Ma (马千飘)"
+  avatar           : "AX2A0615.jpg"
+  name             : "Yongpan Sheng (盛泳潘)"
   pronouns         : # example: "she/her"  
-  bio              : "Associate Professor, Nanjing University of Science and Technology"
-  location         : "Nanjing, Jiangsu, China"
-  employer         : "NJUST"
+  bio              : "Lecturer, Southwest University"
+  location         : "Chongqing, Chongqing, China"
+  employer         : "SWU"
   uri              : # URL
-  email            : "maqianpiao@njust.edu.cn"
+  email            : "shengyp2011@163.com"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=1EHfdQ8AAAAJ&hl=en&oi=sra"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=DSIemtYAAAAJ"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0001-8684-3495"
+  orcid            : "https://orcid.org/0000-0002-9606-2999"
   semantic         : # URL
   pubmed           : # URL
-  researchgate     : "https://www.researchgate.net/profile/Qianpiao-Ma"
+  researchgate     : "https://www.researchgate.net/profile/Yongpan-Sheng"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
