@@ -302,15 +302,14 @@ redirect_from:
       <strong>Yongpan Sheng</strong>, Zenglin Xu, Yafang Wang, Xiangyu Zhang, Jia Jia, Zhonghui You, and Gerard de Melo*<br>
       <em>The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD-18). Dublin, Ireland, September 10-14, 2018</em><span class="ccf-badge">CCF-B</span>
     </div>   
-  </div>
 
-
+  
     <div class="entry">
     - <strong>知识图谱技术综述</strong> [<strong><a href="https://www.juestc.uestc.edu.cn/cn/article/doi/10.3969/j.issn.1001-0548.2016.04.012" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/异构边缘计算环境下异步联邦学习的节点分组与分时调度策略.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/FedGA.html" target="_blank">BIB</a></strong>]<br>
       徐增林, <strong>盛泳潘</strong>, 贺丽荣, 王雅芳<br>
       <em>电子科技大学学报, 2023, 44(11): 79-93</em>
     </div>
-    
+  </div>
 
   <!-- Full -->
   <div class="tab-content full-content">
