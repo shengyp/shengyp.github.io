@@ -557,6 +557,7 @@ redirect_from:
     <li><span style="font-size:16px">国家自然科学基金委员会, 联合基金项目, U25A20442, 边云协同的多模态行为可信感知与稳健解析研究, 2026-01-01 至 2029-12-31, 258万元</span></li>
     <li><span style="font-size:16px">国家自然科学基金委员会, 重点项目, 62132019, 边缘侧大数据计算基础理论与技术, 2022-01-01 至 2026-12-31, 298万元</span></li>
     <li><span style="font-size:16px">国家自然科学基金委员会, 重大研究计划, 92367104, 工业互联网生成式人工智能方法与关键技术, 2024-01-01 至 2026-12-31, 80万元</span></li>
+    <li><span style="font-size:16px">国家自然科学基金委员会, 重大研究计划, 92367104, 工业互联网生成式人工智能方法与关键技术, 2024-01-01 至 2026-12-31, 80万元</span></li>
   </ul>
 </div>
 
@@ -637,8 +638,8 @@ redirect_from:
       <li><strong>PC Member</strong>, The 2023 International Conference on Images, Signals, and Computing (<a href="http://icisc-conf.org/"><strong><u><font color="#874e26">ICISC 2023</font></u></strong></a>), Chengdu, China, April 15-17, 2023</li>
       <li><strong>PC Member</strong>, International Conference Advanced Data Mining and Applications (<a href="https://adma2022.uqcloud.net/index.html"><strong><u><font color="#874e26">ADMA 2022</font></u></strong></a>), Brisbane, Australia, 30th November-2nd December, 2022</li>
       <li><strong>PC Member</strong>, The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (<a href="https://2022.ecmlpkdd.org/"><strong><u><font color="#874e26">ECML-PKDD 2022</font></u></strong></a>), Grenoble, France, September 19-23, 2022</li>
-      <li><strong>PC Member</strong>, The 4th Asia Pacific Web and Web-Age Information Management Joint Conference on Web and Big Data (<a href="http://www.tjudb.cn/apwebwaim2020/node/20"><strong><u><font color="#874e26">APWeb-WAIM 2020</font></u></strong></a>), Tianjin, China, August 12-14, 2020</li>
       <li><strong>PC Member</strong>, The 5th Asia Pacific Web and Web-Age Information Management Joint Conference on Web and Big Data (<a href="http://139.159.245.147/program_committee"><strong><u><font color="#874e26">APWeb-WAIM 2021</font></u></strong></a>), Guangzhou, China, August 23-25, 2021</li>
+      <li><strong>PC Member</strong>, The 4th Asia Pacific Web and Web-Age Information Management Joint Conference on Web and Big Data (<a href="http://www.tjudb.cn/apwebwaim2020/node/20"><strong><u><font color="#874e26">APWeb-WAIM 2020</font></u></strong></a>), Tianjin, China, August 12-14, 2020</li>
   </ul>
 
   <!-- 隐藏部分 -->
