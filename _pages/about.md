@@ -265,7 +265,7 @@ redirect_from:
 
     <div class="entry">
     - <strong>Enhancing Uncertain Knowledge Graph Embedding by Learning Graph Structure-Aware Context and Fused-Triple Confidence Information with an Encoder-Decoder Framework</strong> [<strong><a href="https://ieeexplore.ieee.org/document/10314029" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/Fully_Distributed_Task_Offloading_in_Vehicular_Edge_Computing.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/FDTO.html" target="_blank">BIB</a></strong>]<br>
-      Yujie Song, <strong>Yongpan Sheng</strong>*, Lirong He, and Tao Jia<br> 
+      Yujie Song, <strong>Yongpan Sheng</strong>*, Lirong He, Tao Jia<br> 
       <em>Data Intelligence (DI), 2026</em><span class="cas-badge">中科院二区</span>
     </div>
 
