@@ -262,53 +262,33 @@ redirect_from:
     <div class="entry">
     <span style="font-size:16px"><strong><em>(Corresponding author *)</em></strong> </span>
     </div>
+
     <div class="entry">
-    - <strong>Asynchronous Federated Le Computation</strong> [<strong><a href="https://ieeexplore.ieee.org/document/11300758" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/Asynchronous_Federated_Learning_Over_Non-IID_Data_via_Over-the-Air_Computation.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/Air_FedGA_TON.html" target="_blank">BIB</a></strong>]<br>
-      <strong>Qianpiao Ma</strong>, Xiaozhu Song, Junlong Zhou, Haibo Wang, Yunming Liao, Jianchun Liu, Hongli Xu<br>
-      <em>IEEE Transactions on Networking (TON), 2025</em><span class="ccf-badge">CCF-A</span>
+    - <strong>Enhancing Uncertain Knowledge Graph Embedding by Learning Graph Structure-Aware Context and Fused-Triple Confidence Information with an Encoder-Decoder Framework</strong> [<strong><a href="https://ieeexplore.ieee.org/document/10314029" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/Fully_Distributed_Task_Offloading_in_Vehicular_Edge_Computing.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/FDTO.html" target="_blank">BIB</a></strong>]<br>
+      Yujie Song, <strong>Yongpan Sheng</strong>*, Lirong He, and Tao Jia<br> 
+      <em>Data Intelligence (DI), 2026</em><span class="cas-badge">中科院二区</span>
     </div>
 
     <div class="entry">
-    - <strong>FedUC: A Unified Clustering Approach for Hierarchical Federated Learning</strong> [<strong><a href="https://ieeexplore.ieee.org/document/10439630" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/FedUC_A_Unified_Clustering_Approach_for_Hierarchical_Federated_Learning.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/FedUC.html" target="_blank">BIB</a></strong>]<br>
-      <strong>Qianpiao Ma</strong>, Yang Xu, Hongli Xu, Jianchun Liu, Liusheng Huang<br>
-      <em>IEEE Transactions on Mobile Computing (TMC), 2024, 23(10): 9737-9756</em><span class="ccf-badge">CCF-A</span><span class="cas-badge">中科院一区</span>
+    - <strong>Can Language Models Capture Human Writing Preferences on Text Summarization?</strong> [<strong><a href="https://ieeexplore.ieee.org/document/11300758" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/Asynchronous_Federated_Learning_Over_Non-IID_Data_via_Over-the-Air_Computation.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/Air_FedGA_TON.html" target="_blank">BIB</a></strong>]<br>
+      Jingbao Luo, Ming Liu, Ran Liu, <strong>Yongpan Sheng</strong>, Xin Hu, Gang Li, WupengNjust<br>
+      <em>The 63th Annual Meeting of the Association for Computional Linguistics (Findings of ACL-25). Vienna, Austria, July 27th-August 1st, 2025</em><span class="ccf-badge">CCF-A</span>
     </div>
+    
 
     <div class="entry">
-    - <strong>FedSA: A Semi-Asynchronous Federated Learning Mechanism in Heterogeneous Edge Computing</strong> [<strong><a href="https://ieeexplore.ieee.org/document/9562538" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/FedSA_A_Semi-Asynchronous_Federated_Learning_Mechanism_in_Heterogeneous_Edge_Computing.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/FedSA.html" target="_blank">BIB</a></strong>]<br>
-      <strong>Qianpiao Ma</strong>, Yang Xu, Hongli Xu, Zhida Jiang, Liusheng Huang, He Huang<br>
-      <em>IEEE Journal on Selected Areas in Communications (JSAC), 2021, 39(12): 3654-3672</em><span class="ccf-badge">CCF-A</span><span class="cas-badge">中科院一区</span>
+    - <strong>A Novel Suicide Risk Detection Method via Graph Context-Based Encoding and Adaptive Aggregation</strong> [<strong><a href="https://ieeexplore.ieee.org/document/11300758" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/Asynchronous_Federated_Learning_Over_Non-IID_Data_via_Over-the-Air_Computation.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/Air_FedGA_TON.html" target="_blank">BIB</a></strong>]<br>
+      Xianming Zhang, <strong>Yongpan Sheng</strong>*, Lirong He, Xiangwei Lai, Yongbin Qin, Tao Jia<br>
+      <em>The 7th International Conference on Natural Language Processing (ICNLP-25). Guangzhou, China, March 21-23, 2025</em><span class="ccf-badge">Best Paper Award</span>
     </div>
+    
 
     <div class="entry">
-    - <strong>异构边缘计算环境下异步联邦学习的节点分组与分时调度策略</strong> [<strong><a href="https://www.infocomm-journal.com/txxb/CN/10.11959/j.issn.1000-436x.2023196" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/异构边缘计算环境下异步联邦学习的节点分组与分时调度策略.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/FedGA.html" target="_blank">BIB</a></strong>]<br>
-      <strong>马千飘</strong>, 贾庆民, 刘建春, 徐宏力, 谢人超, 黄韬<br>
-      <em>通信学报, 2023, 44(11): 79-93</em><span class="ccf-badge">CCF-T1</span>
+    - <strong>CEGRL-TKGR: A Causal Enhanced Graph Representation Learning Framework for Temporal Knowledge Graph Reasoning</strong> [<strong><a href="https://ieeexplore.ieee.org/document/11078505" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/Air-FedGA_A_Grouping_Asynchronous_Federated_Learning_Mechanism_Exploiting_Over-The-Air_Computation.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/Air_FedGA.html" target="_blank">BIB</a></strong>]<br>
+      Jinze Sun, <strong>Yongpan Sheng</strong>*, Lirong He, Yongbin Qin, Ming Liu, and Tao Jia<br>
+      <em>Bridging Neurons and Symbols for Natural Language Processing and Knowledge Graphs Reasoning@COLING (COLING NeusymBridge Workshop-25). Abu Dhabi, UAE from January 19th to 24th, 2025</em><span class="ccf-badge">CCF-B</span>
     </div>
 
-    <div class="entry">
-    - <strong>Air-FedGA: A Grouping Asynchronous Federated Learning Mechanism Exploiting Over-the-air Computation</strong> [<strong><a href="https://ieeexplore.ieee.org/document/11078505" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/Air-FedGA_A_Grouping_Asynchronous_Federated_Learning_Mechanism_Exploiting_Over-The-Air_Computation.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/Air_FedGA.html" target="_blank">BIB</a></strong>]<br>
-      <strong>Qianpiao Ma</strong>, Junlong Zhou, Xiangpeng Hou, Jianchun Liu, Hongli Xu, Jianeng Miao, Qingmin Jia<br>
-      <em>IEEE International Parallel and Distributed Processing Symposium (IPDPS), Milano, Italy, 2025: 1-12</em><span class="ccf-badge">CCF-B</span>
-    </div>
-
-    <div class="entry">
-    - <strong>FRACTAL: Data-aware Clustering and Communication Optimization for Decentralized Federated Learning</strong> [<strong><a href="https://ieeexplore.ieee.org/document/10535170" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/FRACTAL_Data-aware_Clustering_and_Communication_Optimization_for_Decentralized_Federated_Learning.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/FRACTAL.html" target="_blank">BIB</a></strong>]<br>
-      <strong>Qianpiao Ma*</strong>, Jianchun Liu, Hongli Xu, Qingmin Jia, Renchao Xie<br>
-      <em>IEEE Transactions on Big Data (TBD), 2025, 11(5), 2102-2118</em><span class="cas-badge">中科院二区</span>
-    </div>
-
-    <div class="entry">
-    - <strong>Fully Distributed Task Offloading in Vehicular Edge Computing</strong> [<strong><a href="https://ieeexplore.ieee.org/document/10314029" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/Fully_Distributed_Task_Offloading_in_Vehicular_Edge_Computing.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/FDTO.html" target="_blank">BIB</a></strong>]<br>
-      <strong>Qianpiao Ma*</strong>, Hongli Xu, Haibo Wang, Yang Xu, Qingmin Jia, Chunming Qiao<br>
-      <em>IEEE Transactions on Vehicular Technology (TVT), 2024, 73(4), 5630-5646</em><span class="cas-badge">中科院二区</span>
-    </div>
-
-    <div class="entry">
-    - <strong>CADER: Cost-Efficient Cloud Application Deployment with Tenant Requirement Guarantee in Multi-Clouds</strong> [<strong><a href="https://ieeexplore.ieee.org/document/11219081" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/CADER_Cost-Efficient_Cloud_Application_Deployment_With_Tenant_Requirement_Guarantee_in_Multi-Clouds.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/CADER.html" target="_blank">BIB</a></strong>]<br>
-       Huaqing Tu, Ziqiang Hua, <strong>Qianpiao Ma*</strong>, Hanguang Luo, Tao Zou, Gongming Zhao, Hongli Xu<br>
-      <em>IEEE Transactions on Cloud Computing (TCC), 2025, 13(4): 1091-1104</em><span class="cas-badge">中科院二区</span>
-    </div>
 
     <div class="entry">
     - <strong>Multi-document semantic relation extraction for news analytics</strong> [<strong><a href="https://link.springer.com/content/pdf/10.1007/s11280-020-00790-2.pdf" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.gith" target="_blank">PDF</a></strong>][<strong><a href="https://scholar.googleusercontent.com/scholar.bib?q=info:5BarsBPGR3wJ:scholar.google.com/&output=citation&scisdr=Cn0tIthPEOe77zazs2U:AHkA5jQAAAAAaYy1q2UsoNvoBDRaE_sm4ahRfgg&scisig=AHkA5jQAAAAAaYy1q4V3BMckjDkPVq1H9AeMylI&scisf=4&ct=citation&cd=-1&hl=zh-CN" target="_blank">BIB</a></strong>]<br>
@@ -321,8 +301,16 @@ redirect_from:
     - <strong>Visualizing Multi-Document Semantics via Open Domain Information Extraction</strong> [<strong><a href="https://link.springer.com/content/pdf/10.1007/978-3-030-10997-4_54.pdf" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.gith" target="_blank">PDF</a></strong>][<strong><a href="https://scholar.googleusercontent.com/scholar.bib?q=info:nz1nIXxBmx0J:scholar.google.com/&output=citation&scisdr=Cn0tIthPEOe77za2fmM:AHkA5jQAAAAAaYywZmOF5sBraLzc4l2JsPacKkE&scisig=AHkA5jQAAAAAaYywZmgvzaMhtzg-OL5UAqm7FO0&scisf=4&ct=citation&cd=-1&hl=zh-CN" target="_blank">BIB</a></strong>]<br>
       <strong>Yongpan Sheng</strong>, Zenglin Xu, Yafang Wang, Xiangyu Zhang, Jia Jia, Zhonghui You, and Gerard de Melo*<br>
       <em>The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD-18). Dublin, Ireland, September 10-14, 2018</em><span class="ccf-badge">CCF-B</span>
-    </div>
+    </div>   
   </div>
+
+
+    <div class="entry">
+    - <strong>知识图谱技术综述</strong> [<strong><a href="https://www.juestc.uestc.edu.cn/cn/article/doi/10.3969/j.issn.1001-0548.2016.04.012" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/异构边缘计算环境下异步联邦学习的节点分组与分时调度策略.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/FedGA.html" target="_blank">BIB</a></strong>]<br>
+      徐增林, <strong>盛泳潘</strong>, 贺丽荣, 王雅芳<br>
+      <em>电子科技大学学报, 2023, 44(11): 79-93</em>
+    </div>
+    
 
   <!-- Full -->
   <div class="tab-content full-content">
