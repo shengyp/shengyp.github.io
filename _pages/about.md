@@ -312,27 +312,6 @@ redirect_from:
 
 
     <div class="entry">
-    - <strong>Special Issue of Information Network Mining and Applications</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
-    <strong>Yongpan Sheng</strong>, Hao Wang, <a href="https://fangyixiang.github.io/index.html" target="_blank">Yixiang Fang</a><br>
-    <em>Arxiv</em>
-    </div>
-
-
-    <div class="entry">
-    - <strong>Enhancing User Suicide Risk Detection by Modeling Effects of Emotional Arousal in Short- and Long-Term Expressions in Their Posts</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
-    Xianming Zhang, <strong>Yongpan Sheng</strong>*, Lirong He, Ming Liu, and Xiangwei Lai<br>
-    <em>Under review</em>
-    </div>
-
-
-    <div class="entry">
-    - <strong>Enhancing Temporal Knowledge Graph Reasoning by Jointly Learning History-Aware Event and Graph-Aware Structural Representations</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
-    Lingfang Chen, <strong>Yongpan Sheng</strong>*, Lirong He, and Ming Liu<br>
-    <em>Under review</em>
-    </div>
-
-
-    <div class="entry">
     - <strong>PerRec-Generator: An End-To-End Framework Fusing Historical User Preferences for Personalized Recipe Generation with Advanced Decoder Design and Supervised Contrastive Learning</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
     Yingnan Wang, <strong>Yongpan Sheng</strong>*, Lirong He, Gengjie Jia, and Tao Jia<br>
     <em>Under review</em>
@@ -525,7 +504,7 @@ redirect_from:
     - <strong>A Robust Softmax Regression for Multi-class Classification with Self-Paced Learning</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
     Yazhou Ren, Peng Zhao, <strong>Yongpan Sheng</strong>, Dezhong Yao, and Zenglin Xu<br>
     <em>The 26th International Joint Conference on Artificial Intelligence (IJCAI-17). Melbourne, Australia, August 19-25 2017</em><span class="ccf-badge">CCF-A</span>
-</div>
+    </div>
 
  
     <div class="entry">
@@ -540,11 +519,10 @@ redirect_from:
     Xiaojia Pan, Lei Wu, Dean Wu, and <strong>Yongpan Sheng</strong><br>
     <em>The 12nd International Computer Conference on Wavelet Active Media Technology and Information Processing (ICCWAMTIP-15). Chengdu, China, December 18-20 2016</em><span class="cas-badge">EI Indexed</span>
     </div>
-
-  </div>
   </div>
 
-  <!-- Full -->
+
+ <!-- Full -->
   <div class="tab-content full-content">
     <div class="entry">
     <span style="font-size:16px"><strong><em>(Corresponding author *)</em></strong> </span>
@@ -704,6 +682,7 @@ redirect_from:
       <em>IEEE 6th International Conference on Cloud Computing and Big Data Analytics (ICCCBDA), 2021: 369-374</em>
     </div>
   </div>
+
 </div>
 
 <style>
