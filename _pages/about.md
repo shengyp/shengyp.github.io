@@ -418,10 +418,10 @@ redirect_from:
     <div class="entry">
     <span style="font-size:16px"><strong><em>(Corresponding author *)</em></strong> </span>
     </div>
-    
-    <strong>2025</strong>
 
-<div class="entry">
+    <strong>2026</strong>
+
+    <div class="entry">
     - <strong>PerRec-Generator: An End-To-End Framework Fusing Historical User Preferences for Personalized Recipe Generation with Advanced Decoder Design and Supervised Contrastive Learning</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
     Yingnan Wang, <strong>Yongpan Sheng</strong>*, Lirong He, Gengjie Jia, and Tao Jia<br>
     <em>Under review</em>
@@ -431,20 +431,6 @@ redirect_from:
     <div class="entry">
     - <strong>Agri-RelEx: A Sentence-Level Relation Extraction Framework from Agricultural Text with Attention-Guided and Multi-Scale Graph Convolutional Network</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
     Tangyunzhi Jiang, <strong>Yongpan Sheng</strong>*, Yiting Wang, Lirong He, Ming Liu, and Hui Zhang<br>
-    <em>Under review</em>
-    </div>
-
-
-    <div class="entry">
-    - <strong>Evaluating Understanding and Relation Extraction Capability of Large Language Models: A Case Study on Chinese Agricultural-Aware Datasets</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
-    Sha Hu, Jianglin Dai, Lirong He, Hui Zhang, and <strong>Yongpan Sheng</strong>*<br>
-    <em>Under review</em>
-    </div>
-
-
-    <div class="entry">
-    - <strong>Evaluating Reasoning Capability of Large Language Models on Chinese Agricultural-Aware Textual Datasets: A Preliminary Study</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
-    Yujie Song, <strong>Yongpan Sheng</strong>*, Lirong He, Xiangwei Lai<br>
     <em>Under review</em>
     </div>
 
@@ -463,6 +449,22 @@ redirect_from:
     </div>
 
 
+<!-- 2025 -->
+    <strong>2025</strong>
+    <div class="entry">
+    - <strong>Evaluating Understanding and Relation Extraction Capability of Large Language Models: A Case Study on Chinese Agricultural-Aware Datasets</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    Sha Hu, Jianglin Dai, Lirong He, Hui Zhang, and <strong>Yongpan Sheng</strong>*<br>
+    <em>Under review</em>
+    </div>
+
+
+    <div class="entry">
+    - <strong>Evaluating Reasoning Capability of Large Language Models on Chinese Agricultural-Aware Textual Datasets: A Preliminary Study</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    Yujie Song, <strong>Yongpan Sheng</strong>*, Lirong He, Xiangwei Lai<br>
+    <em>Under review</em>
+    </div>
+
+
     <div class="entry">
     - <strong>An LLM-based Framework for Domain-Specific Information Extraction: A Case Study in Computer Science and Chemistry</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="https://alta2025.alta.asn.au/assets/papers/8.pdf" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
     Xungang Gu, Yangjie Tian, Li Ning, Meng Liu, Ruohua Xu, He Zhang*, Hanqiu Liu, <strong>Yongpan Sheng</strong>, Ming Liu<br>
@@ -471,7 +473,7 @@ redirect_from:
 
 
     <div class="entry">
-    - <strong>FeaLearner: A Novel Framework of Self-Adaptive Feature Learning and Selection for Suicide Risk Detection from Users’ Social Media Posts</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    - <strong>FeaLearner: A Novel Framework of Self-Adaptive Feature Learning and Selection for Suicide Risk Detection from Users’ Social Media Posts</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="https://link.springer.com/chapter/10.1007/978-981-95-3456-2_15" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
     Xianming Zhang, <strong>Yongpan Sheng</strong>*, Lirong He, Ming Liu, and Xiangwei Lai<br>
     <em>The 21st International Conference on Advanced Data Mining and Applications (ADMA-25). Kyoto, Japan, October 22nd-24th, 2025</em><span class="ccf-badge">CCF-C</span>
     </div>
@@ -483,7 +485,8 @@ redirect_from:
     <em>Arxiv</em>
     </div>
 
-    
+
+        
     <div class="entry">
     - <strong>TKGR-GPRSCL: Enhance Temporal Knowledge Graph Reasoning with Graph Structure-Aware Path Representation and Supervised Contrastive Learning</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
     Lizhu Xiong, <strong>Yongpan Sheng</strong>*, and Lirong He<br>
@@ -574,12 +577,6 @@ redirect_from:
     
     
     <strong>2023</strong>
-    
-    <div class="entry">
-    - <strong>异构边缘计算环境下异步联邦学习的节点分组与分时调度策略</strong> [<strong><a href="https://www.infocomm-journal.com/txxb/CN/10.11959/j.issn.1000-436x.2023196" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/异构边缘计算环境下异步联邦学习的节点分组与分时调度策略.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/FedGA.html" target="_blank">BIB</a></strong>]<br>
-      <strong>马千飘</strong>, 贾庆民, 刘建春, 徐宏力, 谢人超, 黄韬<br>
-      <em>通信学报, 2023, 44(11): 79-93</em><span class="ccf-badge">CCF-T1</span>
-    </div>
     
     <div class="entry">
     - <strong>FedCD: A Hybrid Centralized-Decentralized Architecture for Efficient Federated Learning</strong> [<strong><a href="https://ieeexplore.ieee.org/document/10476088" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/FedCD_A_Hybrid_Centralized_Decentralized_Architecture_for_Efficient_Federated_Learning.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/FedCD_ICPADS.html" target="_blank">BIB</a></strong>]<br>
