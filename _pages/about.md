@@ -541,21 +541,6 @@ redirect_from:
     <em>The 12nd International Computer Conference on Wavelet Active Media Technology and Information Processing (ICCWAMTIP-15). Chengdu, China, December 18-20 2016</em><span class="cas-badge">EI Indexed</span>
     </div>
 
- 
-    <div class="entry">
-    - <strong>Review on Knowledge Graph Techniques</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
-    Zenglin Xu, <strong>Yongpan Sheng</strong>, Lirong He, and Yafang Wang<br>
-    <em>Journal of University of Electronic Science and Technology of China (JUESTC)</em><span class="cas-badge">(SELECTED) In Chinese</span>
-    </div>
-
- 
-    <div class="entry">
-    - <strong>TKGR-RHETNE: A New Temporal Knowledge Graph Reasoning Model via Jointly Modeling Relevant Historical Event and Temporal Neighborhood Event Context</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
-    Jinze Sun, <strong>Yongpan Sheng</strong>, Ling Zhan, and Lirong He<br>
-    <em>2023.05.28, China</em><span class="cas-badge">Submitted</span>
-    </div>
-
-
   </div>
   </div>
 
