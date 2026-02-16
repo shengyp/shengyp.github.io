@@ -719,9 +719,7 @@ redirect_from:
       <em>IEEE 6th International Conference on Cloud Computing and Big Data Analytics (ICCCBDA), 2021: 369-374</em>
     </div>
   </div>
-
 </div>
-
 
 <style>
 /* hide radios */
