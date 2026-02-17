@@ -11,7 +11,7 @@ redirect_from:
 ## 📜 About {#about}
 
 <p style="text-align: justify;">
-<span style="font-size:16px">I am an Associate Professor at the School of Computer Science and Engineering, <a href="https://www.njust.edu.cn/" target="_blank">Nanjing University of Science and Technology (NJUST)</a>, affiliated with Prof. <a href="https://www.junlongzhou.team/" target="_blank">Junlong Zhou</a>'s research team. I received my Ph.D. at the School of Computer Science and Technology, <a href="https://www.ustc.edu.cn/" target="_blank">University of Science and Technology of China (USTC)</a> in June 2022, supervised by Prof. <a href="http://cs.ustc.edu.cn/2020/0828/c23235a460083/page.htm" target="_blank">Hongli Xu</a> and Prof. <a href="https://cs.ustc.edu.cn/2020/0828/c23235a460081/page.htm" target="_blank">Liusheng Huang</a>. Prior to that, I received my B.S. degree from USTC in 2014. From July 2022 to July 2024, I served as a post-doctoral researcher at <a href="https://www.pmlabs.com.cn/" target="_blank">Purple Mountain Laboratories</a>. I have published more than 20 papers in top journals and conferences, including IEEE JSAC, IEEE TMC, IEEE INFOCOM, IEEE/ACM ToN. My research interests include <strong>edge intelligence</strong>, <strong>federated learning</strong>, and <strong>distributed machine learning</strong>.</span>
+  <span style="font-size:16px">I am currently a lecturer at the College of Computer and Information Science, <a href="https://www.swu.edu.cn/" target="_blank">Southwest University (SU)</a>. Prior to that, he was a Research Assistant at School of Big Data and Software Engineering, <a href="https://www.cqu.edu.cn/" target="_blank">Chongqing University (CQU)</a> from Sep. 2020 to Aug. 2023. In educationally, I obtained my Ph.D. degree in Computer Architecture from the School of Computer Science and Engineering, <a href="https://https://www.uestc.edu.cn/" target="_blank">University of Electronic Science and Technology of China (UESTC)</a> on Aug. 2020, under the supervisor of Prof. <a href="https://scholar.google.com/citations?hl=en&user=gF0H9nEAAAAJ" target="_blank">Zenglin Xu</a>. During my Ph.D. degree pursuing, he joined the Research Practicum Program of University of New South Wales (UNSW), as a joint training Ph.D. candidate working with Prof. Wei Wang from Oct. 2017 to Oct. 2018. Prior to that, I received my Bachelor's Degree in Network Engineering from <a href="https://www.cuit.edu.cn/" target="_blank">Chengdu University of Information Technology (CUIT)</a>, and Master's Degree in Software Engineering from <a href="https://https://www.uestc.edu.cn/" target="_blank">University of Electronic Science and Technology of China (UESTC)</a> in 2011 and 2014, respectively. I have published more than 50 papers in top journals and conferences, including IEEE JSAC, IEEE TMC, IEEE INFOCOM, IEEE/ACM ToN. My research interests include <strong>knowledge graphs</strong>, <strong>knowledge-enhanced LLM</strong>, <strong>agricultural-aware data mining and computation</strong>, <strong>food computation</strong>, and <strong>code understanding and representation</strong>.</span>
 </p>
 
  
@@ -21,26 +21,31 @@ redirect_from:
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">2024.08 - now</td>
     <td style="border: none; padding: 8px;">Nanjing University of Science and Technology</td>
-    <td style="border: none; padding: 8px;">Associate Professor</td>
+    <td style="border: none; padding: 8px;">Southwest University</td>
   </tr>
   <tr style="border: none;">
-    <td style="border: none; padding: 8px;">2022.07 - 2024.07</td>
+    <td style="border: none; padding: 8px;">2023.09 - now</td>
     <td style="border: none; padding: 8px;">Purple Mountain Laboratories</td>
-    <td style="border: none; padding: 8px;">Post-doctoral Researcher</td>
+    <td style="border: none; padding: 8px;">Lecturer</td>
   </tr>
   <tr style="border: none;">
-    <td style="border: none; padding: 8px;">2019.09 - 2022.06</td>
-    <td style="border: none; padding: 8px;">University of Science and Technology of China, <a href="https://int-ustc.github.io/" target="_blank">USTC-INT Group</a></td>
+    <td style="border: none; padding: 8px;">2020.09 - 2023.08</td>
+    <td style="border: none; padding: 8px;">Chongqing University</td>
+    <td style="border: none; padding: 8px;">Research Assistant</td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none; padding: 8px;">2014.09 - 2020.08</td>
+    <td style="border: none; padding: 8px;">University of Electronic Science and Technology of China</td>
     <td style="border: none; padding: 8px;">Ph.D.</td>
   </tr>
   <tr style="border: none;">
-    <td style="border: none; padding: 8px;">2017.09 - 2019.06</td>
-    <td style="border: none; padding: 8px;">University of Science and Technology of China, USTC-INT Group</td>
+    <td style="border: none; padding: 8px;">2011.09 - 2014.07</td>
+    <td style="border: none; padding: 8px;">University of Electronic Science and Technology of China</td>
     <td style="border: none; padding: 8px;">M.S.</td>
   </tr>
   <tr style="border: none;">
-    <td style="border: none; padding: 8px;">2010.09 - 2014.06</td>
-    <td style="border: none; padding: 8px;">University of Science and Technology of China</td>
+    <td style="border: none; padding: 8px;">2007.09 - 2011.07</td>
+    <td style="border: none; padding: 8px;">University of Electronic Science and Technology of China</td>
     <td style="border: none; padding: 8px;">B.S.</td>
   </tr>
 </table>
@@ -669,10 +674,10 @@ redirect_from:
 
   <!-- 隐藏部分 -->
   <li class="extra-services" style="display:none;">
-    Journal of Systems Architecture: Embedded Software Design
+    Journal of Sy
   </li>
   <li class="extra-services" style="display:none;">
-    Information Sciences
+    Informati
   </li>
   <li class="extra-services" style="display:none;">
     IEEE Transactions on Big Data
