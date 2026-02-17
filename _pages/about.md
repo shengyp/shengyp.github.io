@@ -350,11 +350,11 @@ redirect_from:
 
 <!-- 2025 -->
     <strong>2025</strong>
-    <div class="entry">
+<!--     <div class="entry">
     - <strong>Evaluating Understanding and Relation Extraction Capability of Large Language Models: A Case Study on Chinese Agricultural-Aware Datasets</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
     Sha Hu, Jianglin Dai, Lirong He, Hui Zhang, and <strong>Yongpan Sheng</strong>*<br>
     <em>Under review</em>
-    </div>
+    </div> -->
 
 
     <div class="entry">
@@ -415,13 +415,6 @@ redirect_from:
     <em>The 13th CCF International Conference on Natural Language Processing and Chinese Computing (NLPCC-24). Hangzhou, China, November 1-3, 2024</em><span class="ccf-badge">CCF-C</span>
     </div>
 
-
-
-    <div class="entry">
-    - <strong>Yoga: Adaptive layer-wise model aggregation for decentralized federated learning</strong> [<strong><a href="https://ieeexplore.ieee.org/document/10309973" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/YOGA_Adaptive_Layer-Wise_Model_Aggregation_for_Decentralized_Federated_Learning.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/Yoga.html" target="_blank">BIB</a></strong>]<br>
-      Jun Liu, Jianchun Liu, Hongli Xu, Yunming Liao, Zhiyuan Wang, <strong>Qianpiao Ma</strong><br>
-      <em>IEEE/ACM Transactions on Networking (TON), 2024, 32(2): 1768-1780</em><span class="ccf-badge">CCF-A</span>
-    </div>
     
 
 <!-- 2023 -->
@@ -432,8 +425,9 @@ redirect_from:
     <em>The 2023 International Conference on Neural Information Processing (ICONIP-23). Changsha, China, November 20-23, 2023</em><span class="ccf-badge">CCF-C</span>
     </div>
     
-    
-    <strong>Before 2022</strong>
+ 
+ <!-- 2022 --> 
+    <strong>2022</strong>
     <div class="entry">
     - <strong>An advanced NMF-based approach for single cell data clustering</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
     Peng Zhao, <strong>Yongpan Sheng</strong>, and Xiaohui Zhan*<br>
@@ -448,13 +442,30 @@ redirect_from:
     </div>
  
 
+    <strong>2021</strong>
     <div class="entry">
     - <strong>A Framework for Graph-based Multi-Document Relation Exploration: A Case Study on the News Datasets</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
     <strong>Yongpan Sheng</strong>, and Haojie Huang<br>
     <em>The Annual Conference of the 8th National Conference on Social Media Processing (SMP-19). Shenzhen, China, August 16-18 2019</em>
     </div>
 
- 
+
+    <strong>2020</strong> 
+    <div class="entry">
+    - <strong>TKGFrame: A Two-Phase Framework for Temporal-Aware Knowledge Graph Completion</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    Jiasheng Zhang, <strong>Yongpan Sheng</strong>*, Zheng Wang, and Jie Shao<br>
+    <em>The 4th Asia Pacific Web and Web-Age Information Management Joint Conference on Web and Big Data (APWeb-WAIM-20). Tianjin, China, August 12-14, 2020</em>
+    </div>
+
+
+    <div class="entry">
+    - <strong>面向知识图谱的学习算法研究与应用</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CDFD&dbname=CDFDLAST2021&filename=1020354617.nh&v=oMy0dWvtjcXNyI6akpSHi6ok3oycZvF%25mmd2FjmzfZewldyCwyzhAnnfFpjzJFiCSS1oQ" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    <strong>Yongpan Sheng</strong><br>
+    <em>电子科技大学</em><span class="cas-badge">博士学位论文</span>
+    </div>
+
+
+    <strong>Before 2020</strong> 
     <div class="entry">
     - <strong>Coherence and Salience-Based Multi-Document Relationship Mining</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
     <strong>Yongpan Sheng</strong>, and Zenglin Xu<br>
@@ -508,13 +519,6 @@ redirect_from:
     - <strong>Ant colony Optimization of Virtual Machine Placement for Data Latency Minimization in Cloud Systems</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
     Xiaojia Pan, Lei Wu, Dean Wu, and <strong>Yongpan Sheng</strong><br>
     <em>The 12nd International Computer Conference on Wavelet Active Media Technology and Information Processing (ICCWAMTIP-15). Chengdu, China, December 18-20 2016</em><span class="cas-badge">EI Indexed</span>
-    </div>
-
-
-    <div class="entry">
-    - <strong>Research and Application of Learning Methods for Knowledge Graphs</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
-    <strong>Yongpan Sheng</strong><br>
-    <em>Chengdu: University of Electronic Science and Technology of China</em><span class="cas-badge">Doctoral Dissertation, In Chinese</span>
     </div>
 
  
