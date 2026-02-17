@@ -356,7 +356,6 @@ redirect_from:
     <em>Under review</em>
     </div> -->
 
-
     <div class="entry">
     - <strong>Evaluating Reasoning Capability of Large Language Models on Chinese Agricultural-Aware Textual Datasets: A Preliminary Study</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
     Yujie Song, <strong>Yongpan Sheng</strong>*, Lirong He, Xiangwei Lai<br>
@@ -422,12 +421,11 @@ redirect_from:
     </div>
 
  
-
     <strong>2021</strong>
     <div class="entry">
     - <strong>An advanced NMF-based approach for single cell data clustering</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
     Peng Zhao, <strong>Yongpan Sheng</strong>, and Xiaohui Zhan*<br>
-    <em>The 2022 2nd International Conference on Information Communication and Software Engineering (ICICSE-22). Chongqing, China, March 18-20 2022</em><span class="cas-badge">EI Indexed</span>
+    <em>The 2022 2nd International Conference on Information Communication and Software Engineering (ICICSE-22). Chongqing, China, March 18-20 2022</em>
     </div>
 
 
@@ -439,11 +437,10 @@ redirect_from:
 
 
     <div class="entry">
-    - <strong>HA-D3QN: Embedding Virtual Private Cloud in Cloud Data Centers with Heuristic Assisted Deep Reinforcement Learning</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    - <strong>HA-D3QN: Embedding Virtual Private Cloud in Cloud Data Centers with Heuristic Assisted Deep Reinforcement Learning</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="https://www.sciencedirect.com/science/article/pii/S0167739X2300208X" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
     Meng Chen, Jiaxin Hou, <strong>Yongpan Sheng</strong>, Yingbo Wu*, Sen Wang, Jianyuan Lu, and Qilin Fan<br>
     <em>Future Generation Computer Systems (FGCS)</em><span class="cas-badge">中科院二区</span>
     </div>
-
 
 
     <strong>2020</strong> 
@@ -455,8 +452,8 @@ redirect_from:
 
 
     <div class="entry">
-    - <strong>面向知识图谱的学习算法研究与应用</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CDFD&dbname=CDFDLAST2021&filename=1020354617.nh&v=oMy0dWvtjcXNyI6akpSHi6ok3oycZvF%25mmd2FjmzfZewldyCwyzhAnnfFpjzJFiCSS1oQ" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
-    <strong>Yongpan Sheng</strong><br>
+    - <strong>面向知识图谱的学习算法研究与应用</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CDFD&dbname=CDFDLAST2021&filename=1020354617.nh&v=oMy0dWvtjcXNyI6akpSHi6ok3oycZvF%25mmd2FjmzfZewldyCwyzhAnnfFpjzJFiCSS1oQ" target="_blank">PDF</a></strong>]<br>
+    <strong>盛泳潘</strong><br>
     <em>电子科技大学</em><span class="cas-badge">博士学位论文</span>
     </div>
 
@@ -521,7 +518,7 @@ redirect_from:
     <div class="entry">
     - <strong>Ant colony Optimization of Virtual Machine Placement for Data Latency Minimization in Cloud Systems</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
     Xiaojia Pan, Lei Wu, Dean Wu, and <strong>Yongpan Sheng</strong><br>
-    <em>The 12nd International Computer Conference on Wavelet Active Media Technology and Information Processing (ICCWAMTIP-15). Chengdu, China, December 18-20 2016</em><span class="cas-badge">EI Indexed</span>
+    <em>The 12nd International Computer Conference on Wavelet Active Media Technology and Information Processing (ICCWAMTIP-15). Chengdu, China, December 18-20 2016</em>
     </div>
 
  
@@ -530,7 +527,6 @@ redirect_from:
     <strong>Yongpan Sheng</strong>, Tianxing Wu, and Xin Wang<br>
     <em>The 9th Joint International Semantic Technology Conference (JIST-19). Hangzhou, China, November 25-27 2019</em>
     </div>
-
   </div>
 
 </div>
@@ -603,9 +599,9 @@ redirect_from:
 
 <div style="text-align: justify; text-indent: -1.5em;">
   <ul style="list-style-position: inside;">
-    <li><span style="font-size:16px">国家自然科学基金委员会, 青年基金, 62402537, 面向预训练模型的边缘联邦学习关键技术研究, 2025-01-01 至 2027-12-31. Computer Networks</span></li>
-    <li><span style="font-size:16px">中央高校基本科研业务费, 基础研究专项, 30925010408, 面向端侧设备的联邦微调关键技术研究, 2025-06-01 至 2027-06-30, 10万元</span></li>
-    <li><span style="font-size:16px">江苏省人社厅, 江苏省卓越博士后计划（揭榜领题）, JB23085, 大规模异构网络下的边缘智能关键技术研究, 2023-5-1 至2025-4-30, 30万元</span></li>
+    <li><span style="font-size:16px">重庆市教育委员会, 2024年度市教委科学技术研究计划 (重点项目), 低碳效视域下的农作物知识图谱构建关键技术研究, 2024-06-01至2027-06-30. </span></li>
+    <li><span style="font-size:16px">重庆市科学技术局, 2022年度重庆市自然科学基金 (面上项目), 面向开放环境的知识图谱构建方法研究, 2022-09-01至2026-07-30. </span></li>
+    <li><span style="font-size:16px">国家自然科学基金委员会, 青年科学基金项目, 面向非结构化文本数据的开放域知识图谱构建方法研究, 2023-01-01 至 2025-12-31. </span></li><span class="cas-badge">已结题</span>
   </ul>
 </div>
 
@@ -614,7 +610,7 @@ redirect_from:
 
 <div style="text-align: justify; text-indent: -1.5em;">
   <ul style="list-style-position: inside;">
-    <li><span style="font-size:16px">国家自然科学基金委员会, 联合基金项目, U25A20442, 边云协同的多模态行为可信感知与稳健解析研究, 2026-01-01 至 2029-12-31, 258万元</span></li>
+    <li><span style="font-size:16px">2025年度重庆市自然科学基金创新发展联合基金（市教委）项目, 高等教育领域大模型关键技术研究, 2025-12-01 至 2028-12-31.</span></li>
     <li><span style="font-size:16px">国家自然科学基金委员会, 重点项目, 62132019, 边缘侧大数据计算基础理论与技术, 2022-01-01 至 2026-12-31, 298万元</span></li>
     <li><span style="font-size:16px">国家自然科学基金委员会, 重大研究计划, 92367104, 工业互联网生成式人工智能方法与关键技术, 2024-01-01 至 2026-12-31, 80万元</span></li>
     <li><span style="font-size:16px">国家自然科学基金委员会, 重大研究计划, 92367104, 工业互联网生成式人工智能方法与关键技术, 2024-01-01 至 2026-12-31, 80万元</span></li>
@@ -654,11 +650,7 @@ redirect_from:
     <li><strong>Co-chair</strong>, The 2023 International Conference on Cyber-physical Social Intelligence (<a href="https://www.agist.org/iccsi2023/files/Accepted_Special_Sessions/S03.pdf"><strong><u><font color="#874e26">ICCSI 2023, Special Session: Big Data Techniques for Computer Vision</font></u></strong></a>), Xian, China, October 20th-23th, 2023</li>
 </ul>
 
-  <h3 style="
-    color: #0084f2;
-    padding-left: 5px;
-    margin: 30px 0 5px;
-    border-left: 5px solid #0084f2;">Area Chair</h3>
+
   <ul>
     <li><strong>Area Chair</strong>, The 2026 International Joint Conference on Neural Networks (<a href="https://attend.ieee.org/wcci-2026/ijcnn-2026-topics/"><strong><u><font color="#874e26">IJCNN 2026</font></u></strong></a>), MECC Maastricht, the Netherlands, June 21st-26th, 2026</li>
     <li><strong>Area Chair</strong>, China Conference on Knowledge Graph and Semantic Computing (<a href="https://sigkg.cn/ccks2026/"><strong><u><font color="#874e26">CCKS 2026</font></u></strong></a>), Xian, China, August 21st-23rd, 2026</li>
