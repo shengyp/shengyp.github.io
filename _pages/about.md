@@ -385,13 +385,6 @@ redirect_from:
     </div>
 
 
-    <div class="entry">
-    - <strong>Physical-priors-guided DehazeFormer</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
-    Hao Zhou, Zekai Chen, Yun Liu, <strong>Yongpan Sheng</strong>, Wenqi Ren, and Hailing Xiong<br>
-    <em>Knowledge-Based Systems (KBS)</em><span class="cas-badge">IF = 8.038, CCF-C, JCR Q1, 中科院 Q1</span>
-    </div>
-
-
  <!-- 2024 -->
     <strong>2024</strong>
     <div class="entry">
@@ -419,8 +412,14 @@ redirect_from:
     </div>
     
  
+
  <!-- 2022 --> 
     <strong>2022</strong>
+    <div class="entry">
+    - <strong>Physical-priors-guided DehazeFormer</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    Hao Zhou, Zekai Chen, Yun Liu, <strong>Yongpan Sheng</strong>, Wenqi Ren, and Hailing Xiong<br>
+    <em>Knowledge-Based Systems (KBS)</em><span class="cas-badge">中科院一区</span>
+    </div>
 
  
 
@@ -433,17 +432,18 @@ redirect_from:
 
 
     <div class="entry">
-    - <strong>HA-D3QN: Embedding Virtual Private Cloud in Cloud Data Centers with Heuristic Assisted Deep Reinforcement Learning</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
-    Meng Chen, Jiaxin Hou, <strong>Yongpan Sheng</strong>, Yingbo Wu*, Sen Wang, Jianyuan Lu, and Qilin Fan<br>
-    <em>Future Generation Computer Systems (FGCS)</em><span class="cas-badge">IF = 7.307 in 2022, JCR Q1, 中科院 Q1</span>
+    - <strong>Temporal knowledge graph representation learning with local and global evolutions</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    Jiasheng Zhang, Shuang Liang, <strong>Yongpan Sheng</strong>, and Jie Shao*<br>
+    <em>Knowledge-Based Systems (KBS)</em><span class="cas-badge">中科院一区</span>
     </div>
 
 
     <div class="entry">
-    - <strong>Temporal knowledge graph representation learning with local and global evolutions</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
-    Jiasheng Zhang, Shuang Liang, <strong>Yongpan Sheng</strong>, and Jie Shao*<br>
-    <em>Knowledge-Based Systems (KBS)</em><span class="cas-badge">IF = 8.038, CCF-C, JCR Q1, 中科院 Q1</span>
+    - <strong>HA-D3QN: Embedding Virtual Private Cloud in Cloud Data Centers with Heuristic Assisted Deep Reinforcement Learning</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    Meng Chen, Jiaxin Hou, <strong>Yongpan Sheng</strong>, Yingbo Wu*, Sen Wang, Jianyuan Lu, and Qilin Fan<br>
+    <em>Future Generation Computer Systems (FGCS)</em><span class="cas-badge">中科院二区</span>
     </div>
+
 
 
     <strong>2020</strong> 
