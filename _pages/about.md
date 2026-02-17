@@ -11,7 +11,7 @@ redirect_from:
 ## 📜 About {#about}
 
 <p style="text-align: justify;">
-  <span style="font-size:16px">I am currently a lecturer at the College of Computer and Information Science, <a href="https://www.swu.edu.cn/" target="_blank">Southwest University (SU)</a>. Prior to that, he was a Research Assistant at School of Big Data and Software Engineering, <a href="https://www.cqu.edu.cn/" target="_blank">Chongqing University (CQU)</a> from Sep. 2020 to Aug. 2023. In educationally, I obtained my Ph.D. degree in Computer Architecture from the School of Computer Science and Engineering, <a href="https://https://www.uestc.edu.cn/" target="_blank">University of Electronic Science and Technology of China (UESTC)</a> on Aug. 2020, under the supervisor of Prof. <a href="https://scholar.google.com/citations?hl=en&user=gF0H9nEAAAAJ" target="_blank">Zenglin Xu</a>. During my Ph.D. degree pursuing, he joined the Research Practicum Program of University of New South Wales (UNSW), as a joint training Ph.D. candidate working with Prof. Wei Wang from Oct. 2017 to Oct. 2018. Prior to that, I received my Bachelor's Degree in Network Engineering from <a href="https://www.cuit.edu.cn/" target="_blank">Chengdu University of Information Technology (CUIT)</a>, and Master's Degree in Software Engineering from <a href="https://https://www.uestc.edu.cn/" target="_blank">University of Electronic Science and Technology of China (UESTC)</a> in 2011 and 2014, respectively. I have published more than 50 papers in top journals and conferences, including IEEE JSAC, IEEE TMC, IEEE INFOCOM, IEEE/ACM ToN. My research interests include <strong>knowledge graphs</strong>, <strong>knowledge-enhanced LLM</strong>, <strong>agricultural-aware data mining and computation</strong>, <strong>food computation</strong>, and <strong>code understanding and representation</strong>.</span>
+  <span style="font-size:16px">I am currently a lecturer at the College of Computer and Information Science, <a href="https://www.swu.edu.cn/" target="_blank">Southwest University (SU)</a>. Prior to that, he was a Research Assistant at School of Big Data and Software Engineering, <a href="https://www.cqu.edu.cn/" target="_blank">Chongqing University (CQU)</a> from Sep. 2020 to Aug. 2023. In educationally, I obtained my Ph.D. degree in Computer Architecture from the School of Computer Science and Engineering, <a href="https://https://www.uestc.edu.cn/" target="_blank">University of Electronic Science and Technology of China (UESTC)</a> on Aug. 2020, under the supervisor of Prof. <a href="https://scholar.google.com/citations?hl=en&user=gF0H9nEAAAAJ" target="_blank">Zenglin Xu</a>. During my Ph.D. degree pursuing, I joined the Research Practicum Program of <a href="https://www.unsw.edu.au/" target="_blank">University of New South Wales (UNSW)</a>, as a joint training Ph.D. candidate working with Prof. Wei Wang from Oct. 2017 to Oct. 2018. Prior to that, I received my Bachelor's Degree in Network Engineering from <a href="https://www.cuit.edu.cn/" target="_blank">Chengdu University of Information Technology (CUIT)</a>, and Master's Degree in Software Engineering from UESTC in 2011 and 2014, respectively. I have published more than 50 papers in top journals and conferences, including IEEE JSAC, IEEE TMC, IEEE INFOCOM, IEEE/ACM ToN. My research interest lies in <strong>knowledge graphs</strong>, <strong>knowledge-enhanced LLM</strong>, <strong>agricultural-aware data mining and computation</strong>, <strong>food computation</strong>, and <strong>code understanding and representation</strong>.</span>
 </p>
 
  
@@ -385,7 +385,7 @@ redirect_from:
     <div class="entry">
     - <strong>Semantic-Path Guided Graph Neural Network for Heterogeneous Graph Embedding</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
     Lirong He, <strong>Yongpan Sheng</strong>*, Hekai Zhang, and Meng Chen<br>
-    <em>Entropy (Entropy)</em><span class="cas-badge">Minor for Accepted</span>
+    <em>Entropy (Entropy)</em>
     </div>
 
 
@@ -606,7 +606,7 @@ redirect_from:
   <ul style="list-style-position: inside;">
     <li><span style="font-size:16px">重庆市教育委员会, 2024年度市教委科学技术研究计划 (重点项目), 低碳效视域下的农作物知识图谱构建关键技术研究, 2024-06-01至2027-06-30. </span></li>
     <li><span style="font-size:16px">重庆市科学技术局, 2022年度重庆市自然科学基金 (面上项目), 面向开放环境的知识图谱构建方法研究, 2022-09-01至2026-07-30. </span></li>
-    <li><span style="font-size:16px">国家自然科学基金委员会, 青年科学基金项目, 面向非结构化文本数据的开放域知识图谱构建方法研究, 2023-01-01 至 2025-12-31. <span class="cas-badge">已结题</span></span></li>
+    <li><span style="font-size:16px">国家自然科学基金委员会, 青年科学基金项目 (C类)[原青年科学基金项目], 面向非结构化文本数据的开放域知识图谱构建方法研究, 2023-01-01 至 2025-12-31. <span class="cas-badge">已结题</span></span></li>
   </ul>
 </div>
 
