@@ -392,13 +392,6 @@ redirect_from:
     </div>
 
 
-    <div class="entry">
-    - <strong>HA-D3QN: Embedding Virtual Private Cloud in Cloud Data Centers with Heuristic Assisted Deep Reinforcement Learning</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
-    Meng Chen, Jiaxin Hou, <strong>Yongpan Sheng</strong>, Yingbo Wu*, Sen Wang, Jianyuan Lu, and Qilin Fan<br>
-    <em>Future Generation Computer Systems (FGCS)</em><span class="cas-badge">IF = 7.307 in 2022, JCR Q1, 中科院 Q1</span>
-    </div>
-
-
  <!-- 2024 -->
     <strong>2024</strong>
     <div class="entry">
@@ -428,6 +421,10 @@ redirect_from:
  
  <!-- 2022 --> 
     <strong>2022</strong>
+
+ 
+
+    <strong>2021</strong>
     <div class="entry">
     - <strong>An advanced NMF-based approach for single cell data clustering</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
     Peng Zhao, <strong>Yongpan Sheng</strong>, and Xiaohui Zhan*<br>
@@ -436,17 +433,16 @@ redirect_from:
 
 
     <div class="entry">
+    - <strong>HA-D3QN: Embedding Virtual Private Cloud in Cloud Data Centers with Heuristic Assisted Deep Reinforcement Learning</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    Meng Chen, Jiaxin Hou, <strong>Yongpan Sheng</strong>, Yingbo Wu*, Sen Wang, Jianyuan Lu, and Qilin Fan<br>
+    <em>Future Generation Computer Systems (FGCS)</em><span class="cas-badge">IF = 7.307 in 2022, JCR Q1, 中科院 Q1</span>
+    </div>
+
+
+    <div class="entry">
     - <strong>Temporal knowledge graph representation learning with local and global evolutions</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
     Jiasheng Zhang, Shuang Liang, <strong>Yongpan Sheng</strong>, and Jie Shao*<br>
     <em>Knowledge-Based Systems (KBS)</em><span class="cas-badge">IF = 8.038, CCF-C, JCR Q1, 中科院 Q1</span>
-    </div>
- 
-
-    <strong>2021</strong>
-    <div class="entry">
-    - <strong>A Framework for Graph-based Multi-Document Relation Exploration: A Case Study on the News Datasets</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
-    <strong>Yongpan Sheng</strong>, and Haojie Huang<br>
-    <em>The Annual Conference of the 8th National Conference on Social Media Processing (SMP-19). Shenzhen, China, August 16-18 2019</em>
     </div>
 
 
@@ -480,6 +476,13 @@ redirect_from:
     </div>
 
  
+    <div class="entry">
+    - <strong>A Framework for Graph-based Multi-Document Relation Exploration: A Case Study on the News Datasets</strong> [<strong><a href="https://conference.cipsc.org.cn/smp2019/accepted-papers.html" target="_blank">PDF</a></strong>]<br>
+    <strong>Yongpan Sheng</strong>, and Haojie Huang<br>
+    <em>The Annual Conference of the 8th National Conference on Social Media Processing (SMP-19). Shenzhen, China, August 16-18 2019</em>
+    </div>
+
+
     <div class="entry">
     - <strong>A Qos-driven Approach for Cloud Service Addressing Attribute of Security</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
     Han Xu*, Xiwei Qiu, <strong>Yongpan Sheng</strong>, Liang Luo, and Yanping Xiang*<br>
