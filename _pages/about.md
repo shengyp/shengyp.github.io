@@ -309,33 +309,186 @@ redirect_from:
       徐增林, <strong>盛泳潘</strong>, 贺丽荣, 王雅芳<br>
       <em>电子科技大学学报, 2023, 44(11): 79-93</em>
     </div>
+  </div>
 
 
+ <!-- Full -->
+  <div class="tab-content full-content">
+    <div class="entry">
+    <span style="font-size:16px"><strong><em>(Corresponding author *)</em></strong> </span>
+    </div>
+
+    <strong>2026</strong>
+
+    <div class="entry">
+    - <strong>PerRec-Generator: An End-To-End Framework Fusing Historical User Preferences for Personalized Recipe Generation with Advanced Decoder Design and Supervised Contrastive Learning</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    Yingnan Wang, <strong>Yongpan Sheng</strong>*, Lirong He, Gengjie Jia, and Tao Jia<br>
+    <em>Under review</em>
+    </div>
+
+
+    <div class="entry">
+    - <strong>Agri-RelEx: A Sentence-Level Relation Extraction Framework from Agricultural Text with Attention-Guided and Multi-Scale Graph Convolutional Network</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    Tangyunzhi Jiang, <strong>Yongpan Sheng</strong>*, Yiting Wang, Lirong He, Ming Liu, and Hui Zhang<br>
+    <em>Under review</em>
+    </div>
+
+
+    <div class="entry">
+    - <strong>Agri-RelExIns: A Comprehensive Schema-Based Instruction Dataset for Agricultural-Aware Relation Extraction</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    Jianglin Dai, Sha Hu*, Lirong He, Hui Zhang, and <strong>Yongpan Sheng</strong>*<br>
+    <em>2025 IEEE International Conference on Big Data (IEEE Bigdata-25). Macau SAR, China, December 8th-11st, 2025</em><span class="ccf-badge">CCF-C</span>
+    </div>
+
+
+    <div class="entry">
+    - <strong>ConLM: A Global and Emotion Coherence-Based Context Learning Model for Suicide Risk Detection</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    Zhuping Ding, <strong>Yongpan Sheng</strong>*, Yiran Wang, Lirong He, Ming Liu<br>
+    <em>2025 IEEE International Conference on Big Data (IEEE Bigdata-25). Macau SAR, China, December 8th-11st, 2025</em><span class="ccf-badge">CCF-C</span>
+    </div>
+
+
+<!-- 2025 -->
+    <strong>2025</strong>
+    <div class="entry">
+    - <strong>Evaluating Understanding and Relation Extraction Capability of Large Language Models: A Case Study on Chinese Agricultural-Aware Datasets</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    Sha Hu, Jianglin Dai, Lirong He, Hui Zhang, and <strong>Yongpan Sheng</strong>*<br>
+    <em>Under review</em>
+    </div>
+
+
+    <div class="entry">
+    - <strong>Evaluating Reasoning Capability of Large Language Models on Chinese Agricultural-Aware Textual Datasets: A Preliminary Study</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    Yujie Song, <strong>Yongpan Sheng</strong>*, Lirong He, Xiangwei Lai<br>
+    <em>Under review</em>
+    </div>
+
+
+    <div class="entry">
+    - <strong>An LLM-based Framework for Domain-Specific Information Extraction: A Case Study in Computer Science and Chemistry</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="https://alta2025.alta.asn.au/assets/papers/8.pdf" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    Xungang Gu, Yangjie Tian, Li Ning, Meng Liu, Ruohua Xu, He Zhang*, Hanqiu Liu, <strong>Yongpan Sheng</strong>, Ming Liu<br>
+    <em>The 23rd Annual Workshop of the Australasian Language Technology Association (ALTA-25). Sydney, Australia, November 26nd-28th, 2025</em>
+    </div>
+
+
+    <div class="entry">
+    - <strong>FeaLearner: A Novel Framework of Self-Adaptive Feature Learning and Selection for Suicide Risk Detection from Users’ Social Media Posts</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="https://link.springer.com/chapter/10.1007/978-981-95-3456-2_15" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    Xianming Zhang, <strong>Yongpan Sheng</strong>*, Lirong He, Ming Liu, and Xiangwei Lai<br>
+    <em>The 21st International Conference on Advanced Data Mining and Applications (ADMA-25). Kyoto, Japan, October 22nd-24th, 2025</em><span class="ccf-badge">CCF-C</span>
+    </div>
+
+
+
+
+    <div class="entry">
+    - <strong>Semantic-Path Guided Graph Neural Network for Heterogeneous Graph Embedding</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    Lirong He, <strong>Yongpan Sheng</strong>*, Hekai Zhang, and Meng Chen<br>
+    <em>Entropy (Entropy)</em><span class="cas-badge">Minor for Accepted</span>
+    </div>
+
+
+    <div class="entry">
+    - <strong>Physical-priors-guided DehazeFormer</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    Hao Zhou, Zekai Chen, Yun Liu, <strong>Yongpan Sheng</strong>, Wenqi Ren, and Hailing Xiong<br>
+    <em>Knowledge-Based Systems (KBS)</em><span class="cas-badge">IF = 8.038, CCF-C, JCR Q1, 中科院 Q1</span>
+    </div>
+
+
+    <div class="entry">
+    - <strong>An advanced NMF-based approach for single cell data clustering</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    Peng Zhao, <strong>Yongpan Sheng</strong>, and Xiaohui Zhan*<br>
+    <em>The 2022 2nd International Conference on Information Communication and Software Engineering (ICICSE-22). Chongqing, China, March 18-20 2022</em><span class="cas-badge">EI Indexed</span>
+    </div>
+
+
+    <div class="entry">
+    - <strong>Temporal knowledge graph representation learning with local and global evolutions</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    Jiasheng Zhang, Shuang Liang, <strong>Yongpan Sheng</strong>, and Jie Shao*<br>
+    <em>Knowledge-Based Systems (KBS)</em><span class="cas-badge">IF = 8.038, CCF-C, JCR Q1, 中科院 Q1</span>
+    </div>
+
+
+    <div class="entry">
+    - <strong>HA-D3QN: Embedding Virtual Private Cloud in Cloud Data Centers with Heuristic Assisted Deep Reinforcement Learning</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    Meng Chen, Jiaxin Hou, <strong>Yongpan Sheng</strong>, Yingbo Wu*, Sen Wang, Jianyuan Lu, and Qilin Fan<br>
+    <em>Future Generation Computer Systems (FGCS)</em><span class="cas-badge">IF = 7.307 in 2022, JCR Q1, 中科院 Q1</span>
+    </div>
+
+
+    <div class="entry">
+    - <strong>Dynamic Task Offloading and Resource Allocation for Energy-Harvesting End-Edge-Cloud Computing Systems</strong> [<strong><a href="https://www.sciencedirect.com/science/article/abs/pii/S1383762125001419" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/Dynamic_task_offloading_and_resource_allocation_for_energy-harvesting_end–edge–cloud_computing_systems.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/DTORA.html" target="_blank">BIB</a></strong>]<br>
+      Xiaozhu Song, <strong>Qianpiao Ma</strong>, Zheng Gan, Liying Li, Peijin Cong, and Junlong Zhou<br>
+      <em>Journal of Systems Architecture: Embedded Software Design, 2025, 103469</em><span class="ccf-badge">CCF-B</span>
+    </div>
     
-
-
+    
+    <strong>2024</strong>
+    
     <div class="entry">
-    - <strong>TKGFrame: A Two-Phase Framework for Temporal-Aware Knowledge Graph Completion</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
-    Jiasheng Zhang, <strong>Yongpan Sheng</strong>*, Zheng Wang, and Jie Shao<br>
-    <em>The 4th Asia Pacific Web and Web-Age Information Management Joint Conference on Web and Big Data (APWeb-WAIM-20). Tianjin, China, August 12-14 2020</em><span class="ccf-badge">CCF-C</span>
+    - <strong>A Survey on the Real Power of ChatGPT</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    Ming Liu*, Ran Liu, Ye Zhu, Hua Wang, Youyang Qu, Rongsheng Li, <strong>Yongpan Sheng</strong>, and Wray Buntine<br>
+    <em>Arxiv</em>
+    </div>
+
+
+        
+    <div class="entry">
+    - <strong>TKGR-GPRSCL: Enhance Temporal Knowledge Graph Reasoning with Graph Structure-Aware Path Representation and Supervised Contrastive Learning</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    Lizhu Xiong, <strong>Yongpan Sheng</strong>*, and Lirong He<br>
+    <em>The 13th CCF International Conference on Natural Language Processing and Chinese Computing (NLPCC-24). Hangzhou, China, November 1-3, 2024</em><span class="ccf-badge">CCF-C</span>
     </div>
 
 
     <div class="entry">
-    - <strong>A Hybrid Neural Network Model for Hypernym-hyponym Relation Identification</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
-    <strong>Yongpan Sheng</strong>#, Lirong He#, and Jie Shao<br>
-    <em>Information Sciences (IS)</em><span class="cas-badge">IF = 5.910, CCF-B, JCR Q1, 中科院 Q1 (In Press)</span>
+    - <strong>TKGR-RHETNE: A New Temporal Knowledge Graph Reasoning Model via Jointly Modeling Relevant Historical Event and Temporal Neighborhood Event Context</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    Jinze Sun, <strong>Yongpan Sheng</strong>*, Ling Zhan, and Lirong He<br>
+    <em>The 2023 International Conference on Neural Information Processing (ICONIP-23). Changsha, China, November 20-23, 2023</em><span class="ccf-badge">CCF-C</span>
     </div>
 
 
     <div class="entry">
-    - <strong>Joint semantics and data-driven path representation for knowledge graph reasoning</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
-    Guanglin Niu, Bo Li, Yongfei Zhang*, <strong>Yongpan Sheng</strong>, Chuan Shi, Jingyang Li, and Shiliang Pu<br>
-    <em>Neurocomputing (Neurocomputing)</em><span class="cas-badge">IF = 5.719, CCF-C, JCR Q1, 中科院 Q1</span>
+    - <strong>FedUC: A Unified Clustering Approach for Hierarchical Federated Learning</strong> [<strong><a href="https://ieeexplore.ieee.org/document/10439630" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/FedUC_A_Unified_Clustering_Approach_for_Hierarchical_Federated_Learning.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/FedUC.html" target="_blank">BIB</a></strong>]<br>
+      <strong>Qianpiao Ma</strong>, Yang Xu, Hongli Xu, Jianchun Liu, Liusheng Huang<br>
+      <em>IEEE Transactions on Mobile Computing (TMC), 2024, 23(10): 9737-9756</em><span class="ccf-badge">CCF-A</span><span class="cas-badge">中科院一区</span>
     </div>
-
-
+    
     <div class="entry">
+    - <strong>Distributed Strategy for Collaborative Traffic Measurement in a Multi-Controller SDN</strong> [<strong><a href="https://ieeexplore.ieee.org/document/10109878" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/Distributed_Strategy_for_Collaborative_Traffic_Measurement_in_a_Multi_Controller_SDN.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/SDNMCM.html" target="_blank">BIB</a></strong>]<br>
+      Da Yao, <strong>Qianpiao Ma*</strong>, Haibo Wang, Min Chen, Hongli Xu<br>
+      <em>IEEE Transactions on Network Science and Engineering (TNSE), 2024, 11(3): 2450-2461</em><span class="cas-badge">中科院二区</span>
+    </div>
+    
+    <div class="entry">
+    - <strong>FedCD: A Hybrid Federated Learning Framework for Efficient Training With IoT Devices</strong> [<strong><a href="https://ieeexplore.ieee.org/document/10443215" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/FedCD_A_Hybrid_Federated_Learning_Framework_for_Efficient_Training_With_IoT_Devices.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/FedCD.html" target="_blank">BIB</a></strong>]<br>
+      Jianchun Liu, Yujia Huo, Pengcheng Qu, Sun Xu, Zhi Liu, <strong>Qianpiao Ma*</strong>, Jinyang Huang<br>
+      <em>IEEE Internet of Things Journal (IOT), 2024, 11(11): 20040-20050</em><span class="cas-badge">中科院二区</span>
+    </div>
+    
+    <div class="entry">
+    - <strong>Yoga: Adaptive layer-wise model aggregation for decentralized federated learning</strong> [<strong><a href="https://ieeexplore.ieee.org/document/10309973" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/YOGA_Adaptive_Layer-Wise_Model_Aggregation_for_Decentralized_Federated_Learning.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/Yoga.html" target="_blank">BIB</a></strong>]<br>
+      Jun Liu, Jianchun Liu, Hongli Xu, Yunming Liao, Zhiyuan Wang, <strong>Qianpiao Ma</strong><br>
+      <em>IEEE/ACM Transactions on Networking (TON), 2024, 32(2): 1768-1780</em><span class="ccf-badge">CCF-A</span>
+    </div>
+    
+    <div class="entry">
+    - <strong>Towards Communication-Efficient Federated Graph Learning: An Adaptive Client Selection Perspective</strong> [<strong><a href="https://ieeexplore.ieee.org/document/10682905" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/Towards_Communication-Efficient_Federated_Graph_Learning_An_Adaptive_Client_Selection_Perspective.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/CE_FGL.html" target="_blank">BIB</a></strong>]<br>
+      Xianjun Gao, Jianchun Liu, Hongli Xu, <strong>Qianpiao Ma</strong>, Lun Wang<br>
+      <em>IEEE/ACM International Workshop on Quality of Service (IWQoS), Guangzhou, China, 2024: 1-10</em><span class="ccf-badge">CCF-B</span>
+    </div>
+    
+    
+    <strong>2023</strong>
+    
+    <div class="entry">
+    - <strong>FedCD: A Hybrid Centralized-Decentralized Architecture for Efficient Federated Learning</strong> [<strong><a href="https://ieeexplore.ieee.org/document/10476088" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/FedCD_A_Hybrid_Centralized_Decentralized_Architecture_for_Efficient_Federated_Learning.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/FedCD_ICPADS.html" target="_blank">BIB</a></strong>]<br>
+      Pengcheng Qu, Jianchun Liu, Zhiyuan Wang, <strong>Qianpiao Ma</strong>, Jinyang Huang<br>
+      <em>IEEE 29th International Conference on Parallel and Distributed Systems (ICPADS), IEEE, 2023: 964-971</em><span class="ccf-badge">CCF-C</span>
+    </div>
+    
+    
+    <strong>Before 2022</strong>
+    
+        <div class="entry">
     - <strong>Research and Application of Learning Methods for Knowledge Graphs</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
     <strong>Yongpan Sheng</strong><br>
     <em>Chengdu: University of Electronic Science and Technology of China</em><span class="cas-badge">Doctoral Dissertation, In Chinese</span>
@@ -409,206 +562,6 @@ redirect_from:
     - <strong>Ant colony Optimization of Virtual Machine Placement for Data Latency Minimization in Cloud Systems</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
     Xiaojia Pan, Lei Wu, Dean Wu, and <strong>Yongpan Sheng</strong><br>
     <em>The 12nd International Computer Conference on Wavelet Active Media Technology and Information Processing (ICCWAMTIP-15). Chengdu, China, December 18-20 2016</em><span class="cas-badge">EI Indexed</span>
-    </div>
-  </div>
-
-
- <!-- Full -->
-  <div class="tab-content full-content">
-    <div class="entry">
-    <span style="font-size:16px"><strong><em>(Corresponding author *)</em></strong> </span>
-    </div>
-
-    <strong>2026</strong>
-
-    <div class="entry">
-    - <strong>PerRec-Generator: An End-To-End Framework Fusing Historical User Preferences for Personalized Recipe Generation with Advanced Decoder Design and Supervised Contrastive Learning</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
-    Yingnan Wang, <strong>Yongpan Sheng</strong>*, Lirong He, Gengjie Jia, and Tao Jia<br>
-    <em>Under review</em>
-    </div>
-
-
-    <div class="entry">
-    - <strong>Agri-RelEx: A Sentence-Level Relation Extraction Framework from Agricultural Text with Attention-Guided and Multi-Scale Graph Convolutional Network</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
-    Tangyunzhi Jiang, <strong>Yongpan Sheng</strong>*, Yiting Wang, Lirong He, Ming Liu, and Hui Zhang<br>
-    <em>Under review</em>
-    </div>
-
-
-    <div class="entry">
-    - <strong>Agri-RelExIns: A Comprehensive Schema-Based Instruction Dataset for Agricultural-Aware Relation Extraction</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
-    Jianglin Dai, Sha Hu*, Lirong He, Hui Zhang, and <strong>Yongpan Sheng</strong>*<br>
-    <em>2025 IEEE International Conference on Big Data (IEEE Bigdata-25). Macau SAR, China, December 8th-11st, 2025</em><span class="ccf-badge">CCF-C</span>
-    </div>
-
-
-    <div class="entry">
-    - <strong>ConLM: A Global and Emotion Coherence-Based Context Learning Model for Suicide Risk Detection</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
-    Zhuping Ding, <strong>Yongpan Sheng</strong>*, Yiran Wang, Lirong He, Ming Liu<br>
-    <em>2025 IEEE International Conference on Big Data (IEEE Bigdata-25). Macau SAR, China, December 8th-11st, 2025</em><span class="ccf-badge">CCF-C</span>
-    </div>
-
-
-<!-- 2025 -->
-    <strong>2025</strong>
-    <div class="entry">
-    - <strong>Evaluating Understanding and Relation Extraction Capability of Large Language Models: A Case Study on Chinese Agricultural-Aware Datasets</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
-    Sha Hu, Jianglin Dai, Lirong He, Hui Zhang, and <strong>Yongpan Sheng</strong>*<br>
-    <em>Under review</em>
-    </div>
-
-
-    <div class="entry">
-    - <strong>Evaluating Reasoning Capability of Large Language Models on Chinese Agricultural-Aware Textual Datasets: A Preliminary Study</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
-    Yujie Song, <strong>Yongpan Sheng</strong>*, Lirong He, Xiangwei Lai<br>
-    <em>Under review</em>
-    </div>
-
-
-    <div class="entry">
-    - <strong>An LLM-based Framework for Domain-Specific Information Extraction: A Case Study in Computer Science and Chemistry</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="https://alta2025.alta.asn.au/assets/papers/8.pdf" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
-    Xungang Gu, Yangjie Tian, Li Ning, Meng Liu, Ruohua Xu, He Zhang*, Hanqiu Liu, <strong>Yongpan Sheng</strong>, Ming Liu<br>
-    <em>The 23rd Annual Workshop of the Australasian Language Technology Association (ALTA-25). Sydney, Australia, November 26nd-28th, 2025</em>
-    </div>
-
-
-    <div class="entry">
-    - <strong>FeaLearner: A Novel Framework of Self-Adaptive Feature Learning and Selection for Suicide Risk Detection from Users’ Social Media Posts</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="https://link.springer.com/chapter/10.1007/978-981-95-3456-2_15" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
-    Xianming Zhang, <strong>Yongpan Sheng</strong>*, Lirong He, Ming Liu, and Xiangwei Lai<br>
-    <em>The 21st International Conference on Advanced Data Mining and Applications (ADMA-25). Kyoto, Japan, October 22nd-24th, 2025</em><span class="ccf-badge">CCF-C</span>
-    </div>
-
-
-    <div class="entry">
-    - <strong>A Survey on the Real Power of ChatGPT</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
-    Ming Liu*, Ran Liu, Ye Zhu, Hua Wang, Youyang Qu, Rongsheng Li, <strong>Yongpan Sheng</strong>, and Wray Buntine<br>
-    <em>Arxiv</em>
-    </div>
-
-
-        
-    <div class="entry">
-    - <strong>TKGR-GPRSCL: Enhance Temporal Knowledge Graph Reasoning with Graph Structure-Aware Path Representation and Supervised Contrastive Learning</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
-    Lizhu Xiong, <strong>Yongpan Sheng</strong>*, and Lirong He<br>
-    <em>The 13th CCF International Conference on Natural Language Processing and Chinese Computing (NLPCC-24). Hangzhou, China, November 1-3, 2024</em><span class="ccf-badge">CCF-C</span>
-    </div>
-
-
-    <div class="entry">
-    - <strong>TKGR-RHETNE: A New Temporal Knowledge Graph Reasoning Model via Jointly Modeling Relevant Historical Event and Temporal Neighborhood Event Context</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
-    Jinze Sun, <strong>Yongpan Sheng</strong>*, Ling Zhan, and Lirong He<br>
-    <em>The 2023 International Conference on Neural Information Processing (ICONIP-23). Changsha, China, November 20-23, 2023</em><span class="ccf-badge">CCF-C</span>
-    </div>
-
-
-    <div class="entry">
-    - <strong>Semantic-Path Guided Graph Neural Network for Heterogeneous Graph Embedding</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
-    Lirong He, <strong>Yongpan Sheng</strong>*, Hekai Zhang, and Meng Chen<br>
-    <em>Entropy (Entropy)</em><span class="cas-badge">Minor for Accepted</span>
-    </div>
-
-
-    <div class="entry">
-    - <strong>Physical-priors-guided DehazeFormer</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
-    Hao Zhou, Zekai Chen, Yun Liu, <strong>Yongpan Sheng</strong>, Wenqi Ren, and Hailing Xiong<br>
-    <em>Knowledge-Based Systems (KBS)</em><span class="cas-badge">IF = 8.038, CCF-C, JCR Q1, 中科院 Q1</span>
-    </div>
-
-
-    <div class="entry">
-    - <strong>An advanced NMF-based approach for single cell data clustering</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
-    Peng Zhao, <strong>Yongpan Sheng</strong>, and Xiaohui Zhan*<br>
-    <em>The 2022 2nd International Conference on Information Communication and Software Engineering (ICICSE-22). Chongqing, China, March 18-20 2022</em><span class="cas-badge">EI Indexed</span>
-    </div>
-
-
-    <div class="entry">
-    - <strong>Temporal knowledge graph representation learning with local and global evolutions</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
-    Jiasheng Zhang, Shuang Liang, <strong>Yongpan Sheng</strong>, and Jie Shao*<br>
-    <em>Knowledge-Based Systems (KBS)</em><span class="cas-badge">IF = 8.038, CCF-C, JCR Q1, 中科院 Q1</span>
-    </div>
-
-
-    <div class="entry">
-    - <strong>HA-D3QN: Embedding Virtual Private Cloud in Cloud Data Centers with Heuristic Assisted Deep Reinforcement Learning</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
-    Meng Chen, Jiaxin Hou, <strong>Yongpan Sheng</strong>, Yingbo Wu*, Sen Wang, Jianyuan Lu, and Qilin Fan<br>
-    <em>Future Generation Computer Systems (FGCS)</em><span class="cas-badge">IF = 7.307 in 2022, JCR Q1, 中科院 Q1</span>
-    </div>
-
-
-    <div class="entry">
-    - <strong>Dynamic Task Offloading and Resource Allocation for Energy-Harvesting End-Edge-Cloud Computing Systems</strong> [<strong><a href="https://www.sciencedirect.com/science/article/abs/pii/S1383762125001419" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/Dynamic_task_offloading_and_resource_allocation_for_energy-harvesting_end–edge–cloud_computing_systems.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/DTORA.html" target="_blank">BIB</a></strong>]<br>
-      Xiaozhu Song, <strong>Qianpiao Ma</strong>, Zheng Gan, Liying Li, Peijin Cong, and Junlong Zhou<br>
-      <em>Journal of Systems Architecture: Embedded Software Design, 2025, 103469</em><span class="ccf-badge">CCF-B</span>
-    </div>
-    
-    
-    <strong>2024</strong>
-    
-    <div class="entry">
-    - <strong>FedUC: A Unified Clustering Approach for Hierarchical Federated Learning</strong> [<strong><a href="https://ieeexplore.ieee.org/document/10439630" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/FedUC_A_Unified_Clustering_Approach_for_Hierarchical_Federated_Learning.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/FedUC.html" target="_blank">BIB</a></strong>]<br>
-      <strong>Qianpiao Ma</strong>, Yang Xu, Hongli Xu, Jianchun Liu, Liusheng Huang<br>
-      <em>IEEE Transactions on Mobile Computing (TMC), 2024, 23(10): 9737-9756</em><span class="ccf-badge">CCF-A</span><span class="cas-badge">中科院一区</span>
-    </div>
-    
-    <div class="entry">
-    - <strong>Distributed Strategy for Collaborative Traffic Measurement in a Multi-Controller SDN</strong> [<strong><a href="https://ieeexplore.ieee.org/document/10109878" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/Distributed_Strategy_for_Collaborative_Traffic_Measurement_in_a_Multi_Controller_SDN.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/SDNMCM.html" target="_blank">BIB</a></strong>]<br>
-      Da Yao, <strong>Qianpiao Ma*</strong>, Haibo Wang, Min Chen, Hongli Xu<br>
-      <em>IEEE Transactions on Network Science and Engineering (TNSE), 2024, 11(3): 2450-2461</em><span class="cas-badge">中科院二区</span>
-    </div>
-    
-    <div class="entry">
-    - <strong>FedCD: A Hybrid Federated Learning Framework for Efficient Training With IoT Devices</strong> [<strong><a href="https://ieeexplore.ieee.org/document/10443215" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/FedCD_A_Hybrid_Federated_Learning_Framework_for_Efficient_Training_With_IoT_Devices.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/FedCD.html" target="_blank">BIB</a></strong>]<br>
-      Jianchun Liu, Yujia Huo, Pengcheng Qu, Sun Xu, Zhi Liu, <strong>Qianpiao Ma*</strong>, Jinyang Huang<br>
-      <em>IEEE Internet of Things Journal (IOT), 2024, 11(11): 20040-20050</em><span class="cas-badge">中科院二区</span>
-    </div>
-    
-    <div class="entry">
-    - <strong>Yoga: Adaptive layer-wise model aggregation for decentralized federated learning</strong> [<strong><a href="https://ieeexplore.ieee.org/document/10309973" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/YOGA_Adaptive_Layer-Wise_Model_Aggregation_for_Decentralized_Federated_Learning.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/Yoga.html" target="_blank">BIB</a></strong>]<br>
-      Jun Liu, Jianchun Liu, Hongli Xu, Yunming Liao, Zhiyuan Wang, <strong>Qianpiao Ma</strong><br>
-      <em>IEEE/ACM Transactions on Networking (TON), 2024, 32(2): 1768-1780</em><span class="ccf-badge">CCF-A</span>
-    </div>
-    
-    <div class="entry">
-    - <strong>Towards Communication-Efficient Federated Graph Learning: An Adaptive Client Selection Perspective</strong> [<strong><a href="https://ieeexplore.ieee.org/document/10682905" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/Towards_Communication-Efficient_Federated_Graph_Learning_An_Adaptive_Client_Selection_Perspective.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/CE_FGL.html" target="_blank">BIB</a></strong>]<br>
-      Xianjun Gao, Jianchun Liu, Hongli Xu, <strong>Qianpiao Ma</strong>, Lun Wang<br>
-      <em>IEEE/ACM International Workshop on Quality of Service (IWQoS), Guangzhou, China, 2024: 1-10</em><span class="ccf-badge">CCF-B</span>
-    </div>
-    
-    
-    <strong>2023</strong>
-    
-    <div class="entry">
-    - <strong>FedCD: A Hybrid Centralized-Decentralized Architecture for Efficient Federated Learning</strong> [<strong><a href="https://ieeexplore.ieee.org/document/10476088" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/FedCD_A_Hybrid_Centralized_Decentralized_Architecture_for_Efficient_Federated_Learning.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/FedCD_ICPADS.html" target="_blank">BIB</a></strong>]<br>
-      Pengcheng Qu, Jianchun Liu, Zhiyuan Wang, <strong>Qianpiao Ma</strong>, Jinyang Huang<br>
-      <em>IEEE 29th International Conference on Parallel and Distributed Systems (ICPADS), IEEE, 2023: 964-971</em><span class="ccf-badge">CCF-C</span>
-    </div>
-    
-    <div class="entry">
-    - <strong>自智算力网络: 架构, 技术与展望</strong> [<strong><a href="https://www.infocomm-journal.com/wlw/CN/Y2023/V7/I4/1" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/自智算力网络：架构、技术与展望.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/zizhi.html" target="_blank">BIB</a></strong>]<br>
-      周晓茂, 贾庆民, 胡玉姣, 郭凯, <strong>马千飘</strong>, 刘辉, 谢人超<br>
-      <em>物联网学报, 2023, 7(4): 1-12</em><span class="ccf-badge">CCF-T2</span>
-    </div>
-    
-    
-    <strong>Before 2022</strong>
-    
-    <div class="entry">
-    - <strong>FedSA: A Semi-Asynchronous Federated Learning Mechanism in Heterogeneous Edge Computing</strong> [<strong><a href="https://ieeexplore.ieee.org/document/9562538" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/FedSA_A_Semi-Asynchronous_Federated_Learning_Mechanism_in_Heterogeneous_Edge_Computing.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/FedSA.html" target="_blank">BIB</a></strong>]<br>
-      <strong>Qianpiao Ma</strong>, Yang Xu, Hongli Xu, Zhida Jiang, Liusheng Huang, He Huang<br>
-      <em>IEEE Journal on Selected Areas in Communications (JSAC), 2021, 39(12): 3654-3672</em><span class="ccf-badge">CCF-A</span><span class="cas-badge">中科院一区</span>
-    </div>
-    
-    <div class="entry">
-    - <strong>Lightweight flow distribution for collaborative traffic measurement in software defined networks</strong> [<strong><a href="https://ieeexplore.ieee.org/document/8737516" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/Lightweight_Flow_Distribution_for_Collaborative_Traffic_Measurement_in_Software_Defined_Networks.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/Lightweight.html" target="_blank">BIB</a></strong>]<br>
-      Hongli Xu, Shigang Chen, <strong>Qianpiao Ma</strong>, Liusheng Huang<br>
-      <em>IEEE Conference on Computer Communications (INFOCOM), Paris, France, 2019: 1108-1116</em><span class="ccf-badge">CCF-A</span>
-    </div>
-    
-    <div class="entry">
-    - <strong>Service Placement Considering Robustness and Dynamic in Edge Computing</strong> [<strong><a href="https://ieeexplore.ieee.org/document/9442568" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/Service_Placement_Considering_Robustness_and_Dynamic_in_Edge_Computing.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/RTSO.html" target="_blank">BIB</a></strong>]<br>
-      Yang Liu, <strong>Qianpiao Ma</strong><br>
-      <em>IEEE 6th International Conference on Cloud Computing and Big Data Analytics (ICCCBDA), 2021: 369-374</em>
     </div>
   </div>
 
