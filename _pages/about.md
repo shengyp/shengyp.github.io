@@ -11,7 +11,7 @@ redirect_from:
 ## 📜 About {#about}
 
 <p style="text-align: justify;">
-  <span style="font-size:16px">I am currently a lecturer at the College of Computer and Information Science, <a href="https://www.swu.edu.cn/" target="_blank">Southwest University (SU)</a>. Prior to that, he was a Research Assistant at School of Big Data and Software Engineering, <a href="https://www.cqu.edu.cn/" target="_blank">Chongqing University (CQU)</a> from Sep. 2020 to Aug. 2023. In educationally, I obtained my Ph.D. degree in Computer Architecture from the School of Computer Science and Engineering, <a href="https://https://www.uestc.edu.cn/" target="_blank">University of Electronic Science and Technology of China (UESTC)</a> on Aug. 2020, under the supervisor of Prof. <a href="https://scholar.google.com/citations?hl=en&user=gF0H9nEAAAAJ" target="_blank">Zenglin Xu</a>. During my Ph.D. degree pursuing, I joined the Research Practicum Program of <a href="https://www.unsw.edu.au/" target="_blank">University of New South Wales (UNSW)</a>, as a joint training Ph.D. candidate working with Prof. Wei Wang from Oct. 2017 to Oct. 2018. Prior to that, I received my Bachelor's Degree in Network Engineering from <a href="https://www.cuit.edu.cn/" target="_blank">Chengdu University of Information Technology (CUIT)</a>, and Master's Degree in Software Engineering from UESTC in 2011 and 2014, respectively. I have published more than 50 papers in top journals and conferences, including IEEE JSAC, IEEE TMC, IEEE INFOCOM, IEEE/ACM ToN. My research interest lies in <strong>knowledge graphs</strong>, <strong>knowledge-enhanced LLM</strong>, <strong>agricultural-aware data mining and computation</strong>, <strong>food computation</strong>, and <strong>code understanding and representation</strong>.</span>
+  <span style="font-size:16px">I am currently a lecturer at the College of Computer and Information Science, <a href="https://www.swu.edu.cn/" target="_blank">Southwest University (SU)</a>. Prior to that, he was a Research Assistant at School of Big Data and Software Engineering, <a href="https://www.cqu.edu.cn/" target="_blank">Chongqing University (CQU)</a> from Sep. 2020 to Aug. 2023. In educationally, I obtained my Ph.D. Degree in Computer Architecture from the School of Computer Science and Engineering, <a href="https://https://www.uestc.edu.cn/" target="_blank">University of Electronic Science and Technology of China (UESTC)</a> on Aug. 2020, under the supervisor of Prof. <a href="https://scholar.google.com/citations?hl=en&user=gF0H9nEAAAAJ" target="_blank">Zenglin Xu</a>. During my Ph.D. degree pursuing, I joined the Research Practicum Program of <a href="https://www.unsw.edu.au/" target="_blank">University of New South Wales (UNSW)</a>, as a joint training Ph.D. candidate working with Prof. <a href="https://www.cse.ust.hk/~weiwcs/" target="_blank">Wei Wang</a> from Oct. 2017 to Oct. 2018. Prior to that, I received my Bachelor's Degree in Network Engineering from <a href="https://www.cuit.edu.cn/" target="_blank">Chengdu University of Information Technology (CUIT)</a>, and Master's Degree in Software Engineering from UESTC in 2011 and 2014, respectively. I have published more than 50 papers in top journals and conferences, including IEEE JSAC, IEEE TMC, IEEE INFOCOM, IEEE/ACM ToN. My research interest lies in <strong>knowledge graphs</strong>, <strong>knowledge-enhanced LLM</strong>, <strong>agricultural-aware data mining and computation</strong>, <strong>food computation</strong>, and <strong>code understanding and representation</strong>.</span>
 </p>
 
  
@@ -19,14 +19,14 @@ redirect_from:
 
 <table style="border-collapse: collapse; width: 100%; border: none;">
   <tr style="border: none;">
-    <td style="border: none; padding: 8px;">2024.08 - now</td>
-    <td style="border: none; padding: 8px;">Nanjing University of Science and Technology</td>
+    <td style="border: none; padding: 8px;">2023.09 - now</td>
     <td style="border: none; padding: 8px;">Southwest University</td>
+    <td style="border: none; padding: 8px;">Lecturer</td>
   </tr>
   <tr style="border: none;">
-    <td style="border: none; padding: 8px;">2023.09 - now</td>
-    <td style="border: none; padding: 8px;">Purple Mountain Laboratories</td>
-    <td style="border: none; padding: 8px;">Lecturer</td>
+    <td style="border: none; padding: 8px;">2022.12 - 2023.04</td>
+    <td style="border: none; padding: 8px;">The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)</td>
+    <td style="border: none; padding: 8px;">Research Assistant</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">2020.09 - 2023.08</td>
@@ -36,7 +36,7 @@ redirect_from:
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">2014.09 - 2020.08</td>
     <td style="border: none; padding: 8px;">University of Electronic Science and Technology of China</td>
-    <td style="border: none; padding: 8px;">Ph.D.</td>
+    <td style="border: none; padding: 8px;">Ph.D. Degree</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">2011.09 - 2014.07</td>
