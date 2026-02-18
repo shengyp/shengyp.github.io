@@ -632,7 +632,7 @@ redirect_from:
 <ul id="services-list" style="font-size:16px; padding-left: 20px;">
   <!-- 默认显示 -->
     <ul>
-      <li><strong>Publicity Chair</strong>, China Conference on Knowledge Graph and Semantic Computing (<a href="https://sigkg.cn/ccks2023/"><strong><u><font color="#874e26">CCKS 2023</font></u></strong></a>), Shenyang, China, August 24-27, 2023</li>
+      <li><strong>Publicity Chair</strong>, China Conference on Knowledge Graph and Semantic Computing (<a href="https://sigkg.cn/ccks2023/" target="_blank" style="text-decoration: none">CCKS-2023</a>), Shenyang, China, August 24-27, 2023</li>
       <li><strong>Publicity Chair</strong>, 2025 6th International Conference on Natural Language Processing and Artificial Intelligence (<a href="https://nlpai.org/index.html"><strong><u><font color="#874e26">NLPAI 2025</font></u></strong></a>), Chongqing, China, Jnue 13-16, 2025</li>
       <li><strong>Local Chair</strong>, China Conference on Knowledge Graph and Semantic Computing (<a href="https://sigkg.cn/ccks-ijckg2024/"><strong><u><font color="#874e26">CCKS 2024</font></u></strong></a>), Chongqing, China, September 19th-22nd, 2024</li>
       <li><strong>Co-chair</strong>, The 2023 International Conference on Cyber-physical Social Intelligence (<a href="https://www.agist.org/iccsi2023/files/Accepted_Special_Sessions/S03.pdf"><strong><u><font color="#874e26">ICCSI 2023, Special Session: Big Data Techniques for Computer Vision</font></u></strong></a>), Xian, China, October 20th-23th, 2023</li>
