@@ -275,7 +275,7 @@ redirect_from:
     </div>
 
     <div class="entry">
-    - <strong>Can Language Models Capture Human Writing Preferences on Text Summarization?</strong> [<strong><a href="https://aclanthology.org/2025.findings-acl.315/" target="_blank">Link</a></strong>][<strong><a href="Can_Language_Models_Capture_Human_Writing_Preferences_for_Domain-Specific_Text_Summarization.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://scholar.googleusercontent.com/scholar.bib?q=info:3EBxl7R6szYJ:scholar.google.com/&output=citation&scisdr=Cl-bHryGEOe77y8ZtPA:AFtJQiwAAAAAaZUfrPCOXgb0wRwq0sVBmxG2Fb4&scisig=AFtJQiwAAAAAaZUfrFxYrkcEpAKzJ4xkr-qH_Ok&scisf=4&ct=citation&cd=-1&hl=zh-CN" target="_blank">BIB</a></strong>]<br>
+    - <strong>Can Language Models Capture Human Writing Preferences on Text Summarization?</strong> [<strong><a href="https://aclanthology.org/2025.findings-acl.315/" target="_blank">Link</a></strong>][<strong><a href="https://shengyp.github.io/files/Can_Language_Models_Capture_Human_Writing_Preferences_for_Domain-Specific_Text_Summarization.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://scholar.googleusercontent.com/scholar.bib?q=info:3EBxl7R6szYJ:scholar.google.com/&output=citation&scisdr=Cl-bHryGEOe77y8ZtPA:AFtJQiwAAAAAaZUfrPCOXgb0wRwq0sVBmxG2Fb4&scisig=AFtJQiwAAAAAaZUfrFxYrkcEpAKzJ4xkr-qH_Ok&scisf=4&ct=citation&cd=-1&hl=zh-CN" target="_blank">BIB</a></strong>]<br>
       Jingbao Luo, Ming Liu, Ran Liu, <strong>Yongpan Sheng</strong>, Xin Hu, Gang Li, WupengNjust<br>
       <em>The 63th Annual Meeting of the Association for Computional Linguistics (Findings of ACL-25). Vienna, Austria, July 27th-August 1st, 2025</em><span class="ccf-badge">CCF-A</span>
     </div>
@@ -296,14 +296,14 @@ redirect_from:
 
 
     <div class="entry">
-    - <strong>Multi-document semantic relation extraction for news analytics</strong> [<strong><a href="https://link.springer.com/content/pdf/10.1007/s11280-020-00790-2.pdf" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.gith" target="_blank">PDF</a></strong>][<strong><a href="https://scholar.googleusercontent.com/scholar.bib?q=info:5BarsBPGR3wJ:scholar.google.com/&output=citation&scisdr=Cn0tIthPEOe77zazs2U:AHkA5jQAAAAAaYy1q2UsoNvoBDRaE_sm4ahRfgg&scisig=AHkA5jQAAAAAaYy1q4V3BMckjDkPVq1H9AeMylI&scisf=4&ct=citation&cd=-1&hl=zh-CN" target="_blank">BIB</a></strong>]<br>
+    - <strong>Multi-document semantic relation extraction for news analytics</strong> [<strong><a href="https://link.springer.com/content/pdf/10.1007/s11280-020-00790-2.pdf" target="_blank">Link</a></strong>][<strong><a href="https://shengyp.github.io/files/Multi-document_semantic_relation_extraction_for_news_analytics.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://scholar.googleusercontent.com/scholar.bib?q=info:5BarsBPGR3wJ:scholar.google.com/&output=citation&scisdr=Cn0tIthPEOe77zazs2U:AHkA5jQAAAAAaYy1q2UsoNvoBDRaE_sm4ahRfgg&scisig=AHkA5jQAAAAAaYy1q4V3BMckjDkPVq1H9AeMylI&scisf=4&ct=citation&cd=-1&hl=zh-CN" target="_blank">BIB</a></strong>]<br>
       <strong>Yongpan Sheng</strong>, Zenglin Xu, Yafang Wang, and Gerard de Melo*<br>
       <em>World Wide Web: Internet and Web Information Systems (WWW Journal), 2024, 11(3): 2450-2461</em><span class="ccf-badge">CCF-B</span>
     </div>
 
 
     <div class="entry">
-    - <strong>Visualizing Multi-Document Semantics via Open Domain Information Extraction</strong> [<strong><a href="https://link.springer.com/content/pdf/10.1007/978-3-030-10997-4_54.pdf" target="_blank">Link</a></strong>][<strong><a href="https://l" target="_blank">PDF</a></strong>][<strong><a href="https://scholar.googleusercontent.com/scholar.bib?q=info:nz1nIXxBmx0J:scholar.google.com/&output=citation&scisdr=Cl9khsBPEOe77y8i65M:AFtJQiwAAAAAaZUk85IiLP0xwHCpGvGT6Uc0L4o&scisig=AFtJQiwAAAAAaZUk80XDCYCO7JzhUYer1DiRTFM&scisf=4&ct=citation&cd=-1&hl=zh-CN" target="_blank">BIB</a></strong>]<br>
+    - <strong>Visualizing Multi-Document Semantics via Open Domain Information Extraction</strong> [<strong><a href="https://link.springer.com/content/pdf/10.1007/978-3-030-10997-4_54.pdf" target="_blank">Link</a></strong>][<strong><a href="https://shengyp.github.io/files/Visualizing_Multi-document_Semantics_via_Open_Domain_Information_Extraction.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://scholar.googleusercontent.com/scholar.bib?q=info:nz1nIXxBmx0J:scholar.google.com/&output=citation&scisdr=Cl9khsBPEOe77y8i65M:AFtJQiwAAAAAaZUk85IiLP0xwHCpGvGT6Uc0L4o&scisig=AFtJQiwAAAAAaZUk80XDCYCO7JzhUYer1DiRTFM&scisf=4&ct=citation&cd=-1&hl=zh-CN" target="_blank">BIB</a></strong>]<br>
       <strong>Yongpan Sheng</strong>, Zenglin Xu, Yafang Wang, Xiangyu Zhang, Jia Jia, Zhonghui You, and Gerard de Melo*<br>
       <em>The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD-18). Dublin, Ireland, September 10-14, 2018</em><span class="ccf-badge">CCF-B</span>
     </div>   
