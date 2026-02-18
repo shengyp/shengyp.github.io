@@ -602,7 +602,7 @@ redirect_from:
 
 **主持项目**
 
-<div style="text-align: justify; text-indent: -1.5em;">
+<div style="text-align: justify; text-indent: -1.25em;">
   <ul style="list-style-position: inside;">
     <li><span style="font-size:16px">重庆市教育委员会, 2024年度市教委科学技术研究计划 (重点项目), 低碳效视域下的农作物知识图谱构建关键技术研究, 2024-06-01 至 2027-06-30. </span></li>
     <li><span style="font-size:16px">重庆市科学技术局, 2022年度重庆市自然科学基金 (面上项目), 面向开放环境的知识图谱构建方法研究, 2022-09-01 至 2026-07-30. </span></li>
@@ -613,7 +613,7 @@ redirect_from:
 
 **参与项目**
 
-<div style="text-align: justify; text-indent: -1.5em;">
+<div style="text-align: justify; text-indent: -1.25em;">
   <!-- 默认显示 -->
   <ul style="list-style-position: inside;">
     <li><span style="font-size:16px">2025年度重庆市自然科学基金创新发展联合基金（市教委）项目, 高等教育领域大模型关键技术研究, 2025-12-01 至 2028-12-31.</span></li>
@@ -629,9 +629,9 @@ redirect_from:
 ## 💼 Services {#services}
 
 
-<ul id="services-list" style="font-size:16px; padding-left: 20px;">
+<ul id="services-list" style="font-size: 14px; text-align: justify; text-indent: -1.5em; list-style-type: disc;">
   <!-- 默认显示 -->
-    <ul>
+    <ul style="list-style-type: disc; list-style-position: inside; text-align: justify; text-indent: -1.5em; padding-left: 0;">
       <li><strong>Publicity Chair</strong>, China Conference on Knowledge Graph and Semantic Computing (<a href="https://sigkg.cn/ccks2023/" target="_blank" style="text-decoration: none">CCKS-2023</a>), Shenyang, China, August 24-27, 2023</li>
       <li><strong>Publicity Chair</strong>, 2025 6th International Conference on Natural Language Processing and Artificial Intelligence (<a href="https://nlpai.org/index.html"><strong><u><font color="#874e26">NLPAI 2025</font></u></strong></a>), Chongqing, China, Jnue 13-16, 2025</li>
       <li><strong>Local Chair</strong>, China Conference on Knowledge Graph and Semantic Computing (<a href="https://sigkg.cn/ccks-ijckg2024/"><strong><u><font color="#874e26">CCKS 2024</font></u></strong></a>), Chongqing, China, September 19th-22nd, 2024</li>
