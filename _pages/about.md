@@ -11,7 +11,7 @@ redirect_from:
 ## 📜 About {#about}
 
 <p style="text-align: justify;">
-  <span style="font-size:16px">I am currently a lecturer at the College of Computer and Information Science, <a href="https://www.swu.edu.cn/" target="_blank">Southwest University (SU)</a>. Prior to that, he was a Research Assistant at School of Big Data and Software Engineering, <a href="https://www.cqu.edu.cn/" target="_blank">Chongqing University (CQU)</a> from Sep. 2020 to Aug. 2023. In educationally, I obtained my Ph.D. Degree in Computer Architecture from the School of Computer Science and Engineering, <a href="https://https://www.uestc.edu.cn/" target="_blank">University of Electronic Science and Technology of China (UESTC)</a> on Aug. 2020, under the supervisor of Prof. <a href="https://scholar.google.com/citations?hl=en&user=gF0H9nEAAAAJ" target="_blank">Zenglin Xu</a>. During my Ph.D. degree pursuing, I joined the Research Practicum Program of <a href="https://www.unsw.edu.au/" target="_blank">University of New South Wales (UNSW)</a>, as a joint training Ph.D. candidate working with Prof. <a href="https://www.cse.ust.hk/~weiwcs/" target="_blank">Wei Wang</a> from Oct. 2017 to Oct. 2018. Prior to that, I received my Bachelor's Degree in Network Engineering from <a href="https://www.cuit.edu.cn/" target="_blank">Chengdu University of Information Technology (CUIT)</a>, and Master's Degree in Software Engineering from UESTC in 2011 and 2014, respectively. I have published more than 50 papers in top journals and conferences, including IEEE JSAC, IEEE TMC, IEEE INFOCOM, IEEE/ACM ToN. My research interest lies in <strong>knowledge graphs</strong>, <strong>knowledge-enhanced LLM</strong>, <strong>agricultural-aware data mining and computation</strong>, <strong>food computation</strong>, and <strong>code understanding and representation</strong>.</span>
+  <span style="font-size:16px">I am currently a lecturer at the College of Computer and Information Science, <a href="https://www.swu.edu.cn/" target="_blank">Southwest University (SU)</a>. Prior to that, I am a Research Assistant at School of Big Data and Software Engineering, <a href="https://www.cqu.edu.cn/" target="_blank">Chongqing University (CQU)</a> from Sep. 2020 to Aug. 2023. In educationally, I obtained my Ph.D. Degree in Computer Architecture from the School of Computer Science and Engineering, <a href="https://https://www.uestc.edu.cn/" target="_blank">University of Electronic Science and Technology of China (UESTC)</a> on Aug. 2020, under the supervisor of Prof. <a href="https://scholar.google.com/citations?hl=en&user=gF0H9nEAAAAJ" target="_blank">Zenglin Xu</a>. During my Ph.D. degree pursuing, I joined the Research Practicum Program of <a href="https://www.unsw.edu.au/" target="_blank">University of New South Wales (UNSW)</a>, as a joint training Ph.D. candidate working with Prof. <a href="https://www.cse.ust.hk/~weiwcs/" target="_blank">Wei Wang</a> from Oct. 2017 to Oct. 2018. Prior to that, I received my Bachelor's Degree in Network Engineering from <a href="https://www.cuit.edu.cn/" target="_blank">Chengdu University of Information Technology (CUIT)</a>, and Master's Degree in Software Engineering from UESTC in 2011 and 2014, respectively. I have published more than 50 papers in top journals and conferences, including IEEE JSAC, IEEE TMC, IEEE INFOCOM, IEEE/ACM ToN. My research interest lies in <strong>knowledge graphs</strong>, <strong>knowledge-enhanced LLM</strong>, <strong>agricultural-aware data mining and computation</strong>, <strong>food computation</strong>, and <strong>code understanding and representation</strong>.</span>
 </p>
 
  
@@ -45,7 +45,7 @@ redirect_from:
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">2007.09 - 2011.07</td>
-    <td style="border: none; padding: 8px;">University of Electronic Science and Technology of China</td>
+    <td style="border: none; padding: 8px;">Chengdu University of Information Technology</td>
     <td style="border: none; padding: 8px;">B.S.</td>
   </tr>
 </table>
@@ -269,27 +269,27 @@ redirect_from:
     </div>
 
     <div class="entry">
-    - <strong>Enhancing Uncertain Knowledge Graph Embedding by Learning Graph Structure-Aware Context and Fused-Triple Confidence Information with an Encoder-Decoder Framework</strong> [<strong><a href="https://ieeexplore.ieee.org/document/10314029" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/Fully_Distributed_Task_Offloading_in_Vehicular_Edge_Computing.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/FDTO.html" target="_blank">BIB</a></strong>]<br>
+    - <strong>Enhancing Uncertain Knowledge Graph Embedding by Learning Graph Structure-Aware Context and Fused-Triple Confidence Information with an Encoder-Decoder Framework</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
       Yujie Song, <strong>Yongpan Sheng</strong>*, Lirong He, Tao Jia<br> 
       <em>Data Intelligence (DI), 2026</em><span class="cas-badge">中科院二区</span>
     </div>
 
     <div class="entry">
-    - <strong>Can Language Models Capture Human Writing Preferences on Text Summarization?</strong> [<strong><a href="https://ieeexplore.ieee.org/document/11300758" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/Asynchronous_Federated_Learning_Over_Non-IID_Data_via_Over-the-Air_Computation.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/Air_FedGA_TON.html" target="_blank">BIB</a></strong>]<br>
+    - <strong>Can Language Models Capture Human Writing Preferences on Text Summarization?</strong> [<strong><a href="https://aclanthology.org/2025.findings-acl.315/" target="_blank">Link</a></strong>][<strong><a href="Can_Language_Models_Capture_Human_Writing_Preferences_for_Domain-Specific_Text_Summarization.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://scholar.googleusercontent.com/scholar.bib?q=info:3EBxl7R6szYJ:scholar.google.com/&output=citation&scisdr=Cl-bHryGEOe77y8ZtPA:AFtJQiwAAAAAaZUfrPCOXgb0wRwq0sVBmxG2Fb4&scisig=AFtJQiwAAAAAaZUfrFxYrkcEpAKzJ4xkr-qH_Ok&scisf=4&ct=citation&cd=-1&hl=zh-CN" target="_blank">BIB</a></strong>]<br>
       Jingbao Luo, Ming Liu, Ran Liu, <strong>Yongpan Sheng</strong>, Xin Hu, Gang Li, WupengNjust<br>
       <em>The 63th Annual Meeting of the Association for Computional Linguistics (Findings of ACL-25). Vienna, Austria, July 27th-August 1st, 2025</em><span class="ccf-badge">CCF-A</span>
     </div>
     
 
     <div class="entry">
-    - <strong>A Novel Suicide Risk Detection Method via Graph Context-Based Encoding and Adaptive Aggregation</strong> [<strong><a href="https://ieeexplore.ieee.org/document/11300758" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/Asynchronous_Federated_Learning_Over_Non-IID_Data_via_Over-the-Air_Computation.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/Air_FedGA_TON.html" target="_blank">BIB</a></strong>]<br>
+    - <strong>A Novel Suicide Risk Detection Method via Graph Context-Based Encoding and Adaptive Aggregation</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
       Xianming Zhang, <strong>Yongpan Sheng</strong>*, Lirong He, Xiangwei Lai, Yongbin Qin, Tao Jia<br>
       <em>The 7th International Conference on Natural Language Processing (ICNLP-25). Guangzhou, China, March 21-23, 2025</em><span class="ccf-badge">Best Paper Award</span>
     </div>
     
 
     <div class="entry">
-    - <strong>CEGRL-TKGR: A Causal Enhanced Graph Representation Learning Framework for Temporal Knowledge Graph Reasoning</strong> [<strong><a href="https://ieeexplore.ieee.org/document/11078505" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/Air-FedGA_A_Grouping_Asynchronous_Federated_Learning_Mechanism_Exploiting_Over-The-Air_Computation.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/Air_FedGA.html" target="_blank">BIB</a></strong>]<br>
+    - <strong>CEGRL-TKGR: A Causal Enhanced Graph Representation Learning Framework for Temporal Knowledge Graph Reasoning</strong> [<strong><a href="https://aclanthology.org/2025.neusymbridge-1.2/" target="_blank">Link</a></strong>][<strong><a href="https://shengyp.github.io/files/CEGRL-TKGR_A_Causal_Enhanced_Graph_Representation_Learning_Framework_for_Temporal_Knowledge_Graph_Reasoning.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://scholar.googleusercontent.com/scholar.bib?q=info:ZVpu79zbDsgJ:scholar.google.com/&output=citation&scisdr=Cl9khsBPEOe77y8lnJQ:AFtJQiwAAAAAaZUjhJVn_IgNEZYkHulO09VBSbQ&scisig=AFtJQiwAAAAAaZUjhDp0_Ynwp7SGJYP1czPtpZY&scisf=4&ct=citation&cd=-1&hl=zh-CN" target="_blank">BIB</a></strong>]<br>
       Jinze Sun, <strong>Yongpan Sheng</strong>*, Lirong He, Yongbin Qin, Ming Liu, and Tao Jia<br>
       <em>Bridging Neurons and Symbols for Natural Language Processing and Knowledge Graphs Reasoning@COLING (COLING NeusymBridge Workshop-25). Abu Dhabi, UAE from January 19th to 24th, 2025</em><span class="ccf-badge">CCF-B</span>
     </div>
@@ -303,7 +303,7 @@ redirect_from:
 
 
     <div class="entry">
-    - <strong>Visualizing Multi-Document Semantics via Open Domain Information Extraction</strong> [<strong><a href="https://link.springer.com/content/pdf/10.1007/978-3-030-10997-4_54.pdf" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.gith" target="_blank">PDF</a></strong>][<strong><a href="https://scholar.googleusercontent.com/scholar.bib?q=info:nz1nIXxBmx0J:scholar.google.com/&output=citation&scisdr=Cn0tIthPEOe77za2fmM:AHkA5jQAAAAAaYywZmOF5sBraLzc4l2JsPacKkE&scisig=AHkA5jQAAAAAaYywZmgvzaMhtzg-OL5UAqm7FO0&scisf=4&ct=citation&cd=-1&hl=zh-CN" target="_blank">BIB</a></strong>]<br>
+    - <strong>Visualizing Multi-Document Semantics via Open Domain Information Extraction</strong> [<strong><a href="https://link.springer.com/content/pdf/10.1007/978-3-030-10997-4_54.pdf" target="_blank">Link</a></strong>][<strong><a href="https://l" target="_blank">PDF</a></strong>][<strong><a href="https://scholar.googleusercontent.com/scholar.bib?q=info:nz1nIXxBmx0J:scholar.google.com/&output=citation&scisdr=Cl9khsBPEOe77y8i65M:AFtJQiwAAAAAaZUk85IiLP0xwHCpGvGT6Uc0L4o&scisig=AFtJQiwAAAAAaZUk80XDCYCO7JzhUYer1DiRTFM&scisf=4&ct=citation&cd=-1&hl=zh-CN" target="_blank">BIB</a></strong>]<br>
       <strong>Yongpan Sheng</strong>, Zenglin Xu, Yafang Wang, Xiangyu Zhang, Jia Jia, Zhonghui You, and Gerard de Melo*<br>
       <em>The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD-18). Dublin, Ireland, September 10-14, 2018</em><span class="ccf-badge">CCF-B</span>
     </div>   
