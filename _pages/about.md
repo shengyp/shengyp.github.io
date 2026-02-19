@@ -633,9 +633,9 @@ redirect_from:
   <!-- 默认显示 -->
     <ul style="list-style-type: disc; list-style-position: inside; text-align: justify; text-indent: -1.5em; padding-left: 0;">
       <li><strong>Publicity Chair</strong>, China Conference on Knowledge Graph and Semantic Computing (<a href="https://sigkg.cn/ccks2023/" target="_blank" style="text-decoration: none">CCKS-2023</a>), Shenyang, China, August 24-27, 2023</li>
-      <li><strong>Publicity Chair</strong>, 2025 6th International Conference on Natural Language Processing and Artificial Intelligence (<a href="https://nlpai.org/index.html"><strong><u><font color="#874e26">NLPAI 2025</font></u></strong></a>), Chongqing, China, Jnue 13-16, 2025</li>
-      <li><strong>Local Chair</strong>, China Conference on Knowledge Graph and Semantic Computing (<a href="https://sigkg.cn/ccks-ijckg2024/"><strong><u><font color="#874e26">CCKS 2024</font></u></strong></a>), Chongqing, China, September 19th-22nd, 2024</li>
-      <li><strong>Co-chair</strong>, The 2023 International Conference on Cyber-physical Social Intelligence (<a href="https://www.agist.org/iccsi2023/files/Accepted_Special_Sessions/S03.pdf"><strong><u><font color="#874e26">ICCSI 2023, Special Session: Big Data Techniques for Computer Vision</font></u></strong></a>), Xian, China, October 20th-23th, 2023</li>
+      <li><strong>Publicity Chair</strong>, 2025 6th International Conference on Natural Language Processing and Artificial Intelligence (<a href="https://sigkg.cn/ccks2023/" target="_blank" style="text-decoration: none">NLPAI 2025</a>), Chongqing, China, Jnue 13-16, 2025</li>
+      <li><strong>Local Chair</strong>, China Conference on Knowledge Graph and Semantic Computing (<a href="https://sigkg.cn/ccks-ijckg2024/" target="_blank" style="text-decoration: none">CCKS 2024</a>), Chongqing, China, September 19th-22nd, 2024</li>
+      <li><strong>Co-Chair</strong>, The 2023 International Conference on Cyber-physical Social Intelligence (<a href="https://www.agist.org/iccsi2023/files/Accepted_Special_Sessions/S03.pdf" target="_blank" style="text-decoration: none">ICCSI 2023</a>), Xian, China, October 20th-23th, 2023</li>
       <li><strong>Area Chair</strong>, The 2026 International Joint Conference on Neural Networks (<a href="https://attend.ieee.org/wcci-2026/ijcnn-2026-topics/"><strong><u><font color="#874e26">IJCNN 2026</font></u></strong></a>), MECC Maastricht, the Netherlands, June 21st-26th, 2026</li>
       <li><strong>Area Chair</strong>, China Conference on Knowledge Graph and Semantic Computing (<a href="https://sigkg.cn/ccks2026/"><strong><u><font color="#874e26">CCKS 2026</font></u></strong></a>), Xian, China, August 21st-23rd, 2026</li>
       <li><strong>Area Chair</strong>, The 2025 International Joint Conference on Neural Networks (<a href="https://2025.ijcnn.org/"><strong><u><font color="#874e26">IJCNN 2025</font></u></strong></a>), Rome, Italy, June 30-July 5, 2025
@@ -687,12 +687,6 @@ redirect_from:
       </li>
 
   <!-- 隐藏部分 -->
-  <li class="extra-services" style="display:none;">
-    Journal of Sy
-  </li>
-  <li class="extra-services" style="display:none;">
-    Informati
-  </li>
   <li class="extra-services" style="display:none;">
     IEEE Transactions on Big Data
   </li>
