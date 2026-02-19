@@ -54,12 +54,12 @@ redirect_from:
 
 <table id="news-table" style="border-collapse: collapse; width: 100%; border: none; font-size: 14px;">
   <tr style="border: none;">
-    <td style="border: none; padding: 8px;">🎉 2025.12</td>
-    <td style="border: none; padding: 8px;">One paper <a href="https://ieeexplore.ieee.org/document/11300758" target="_blank" style="text-decoration: none">Air-FedGA</a> about federated learning via over-the-air computation accepted by <strong>IEEE TON</strong>.</td>
+    <td style="border: none; padding: 8px;">🎉 2026.02</td>
+    <td style="border: none; padding: 8px;">We are actively maintaining the paper list of <a href="https://github.com/shengyp/LLM_Advance/" target="_blank" style="text-decoration: none">LLM achievements</a>. Welcome to star, fork, and contribute.</td>
   </tr>
   <tr style="border: none;">
-    <td style="border: none; padding: 8px;">🎉 2025.12</td>
-    <td style="border: none; padding: 8px;">My co-author's paper <a href="https://ieeexplore.ieee.org/document/11288048" target="_blank" style="text-decoration: none">DUPLEX</a> about decentralized federated graph learning accepted by <strong>IEEE TMC</strong>.</td>
+    <td style="border: none; padding: 8px;">🎉 2026.01</td>
+    <td style="border: none; padding: 8px;">We are actively maintaining the paper list of <a href="https://github.com/shengyp/Recipe-Generator" target="_blank" style="text-decoration: none">Recipe-Generator</a>. Welcome to star, fork, and contribute.</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2025.11</td>
@@ -376,7 +376,7 @@ redirect_from:
 
 
     <div class="entry">
-    - <strong>FeaLearner: A Novel Framework of Self-Adaptive Feature Learning and Selection for Suicide Risk Detection from Users’ Social Media Posts</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="https://link.springer.com/chapter/10.1007/978-981-95-3456-2_15" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    - <strong>FeaLearner: A Novel Framework of Self-Adaptive Feature Learning and Selection for Suicide Risk Detection from Users’ Social Media Posts</strong> [<strong><a href="https://link.springer.com/chapter/10.1007/978-981-95-3456-2_15" target="_blank">Link</a></strong>][<strong><a href="https://github.com/shengyp/files/FeaLearner_A_Novel_Framework_of_Self-Adaptive_Feature_Learning_and_Selection_for_Suicide_Risk_Detection_from_Users’_Social_Media_Posts.pdf" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
     Xianming Zhang, <strong>Yongpan Sheng</strong>*, Lirong He, Ming Liu, and Xiangwei Lai<br>
     <em>The 21st International Conference on Advanced Data Mining and Applications (ADMA-25). Kyoto, Japan, October 22nd-24th, 2025</em><span class="ccf-badge">CCF-C</span>
     </div>
@@ -616,7 +616,7 @@ redirect_from:
 <div style="text-align: justify; text-indent: -1.25em;">
   <!-- 默认显示 -->
   <ul style="list-style-position: inside;">
-    <li><span style="font-size:16px">2025年度重庆市自然科学基金创新发展联合基金（市教委）项目, 高等教育领域大模型关键技术研究, 2025-12-01 至 2028-12-31.</span></li>
+    <li><span style="font-size:16px">2025年度重庆市自然科学基金创新发展联合基金 (市教委)项目, 高等教育领域大模型关键技术研究, 2025-12-01 至 2028-12-31.</span></li>
     <li><span style="font-size:16px">国家自然科学基金委员会, 重点项目, 62132019, 边缘侧大数据计算基础理论与技术, 2022-01-01 至 2026-12-31, 298万元</span></li>
     <li><span style="font-size:16px">国家自然科学基金委员会, 重大研究计划, 92367104, 工业互联网生成式人工智能方法与关键技术, 2024-01-01 至 2026-12-31, 80万元</span></li>
     <li><span style="font-size:16px">国家自然科学基金委员会, 重大研究计划, 92367104, 工业互联网生成式人工智能方法与关键技术, 2024-01-01 至 2026-12-31, 80万元</span></li>
@@ -632,14 +632,13 @@ redirect_from:
 <ul id="services-list" style="font-size: 14px; text-align: justify; text-indent: -1.5em; list-style-type: disc;">
   <!-- 默认显示 -->
     <ul style="list-style-type: disc; list-style-position: inside; text-align: justify; text-indent: -1.5em; padding-left: 0;">
-      <li><strong>Publicity Chair</strong>, China Conference on Knowledge Graph and Semantic Computing (<a href="https://sigkg.cn/ccks2023/" target="_blank" style="text-decoration: none">CCKS-2023</a>), Shenyang, China, August 24-27, 2023</li>
-      <li><strong>Publicity Chair</strong>, 2025 6th International Conference on Natural Language Processing and Artificial Intelligence (<a href="https://sigkg.cn/ccks2023/" target="_blank" style="text-decoration: none">NLPAI 2025</a>), Chongqing, China, Jnue 13-16, 2025</li>
-      <li><strong>Local Chair</strong>, China Conference on Knowledge Graph and Semantic Computing (<a href="https://sigkg.cn/ccks-ijckg2024/" target="_blank" style="text-decoration: none">CCKS 2024</a>), Chongqing, China, September 19th-22nd, 2024</li>
-      <li><strong>Co-Chair</strong>, The 2023 International Conference on Cyber-physical Social Intelligence (<a href="https://www.agist.org/iccsi2023/files/Accepted_Special_Sessions/S03.pdf" target="_blank" style="text-decoration: none">ICCSI 2023</a>), Xian, China, October 20th-23th, 2023</li>
-      <li><strong>Area Chair</strong>, The 2026 International Joint Conference on Neural Networks (<a href="https://attend.ieee.org/wcci-2026/ijcnn-2026-topics/"><strong><u><font color="#874e26">IJCNN 2026</font></u></strong></a>), MECC Maastricht, the Netherlands, June 21st-26th, 2026</li>
-      <li><strong>Area Chair</strong>, China Conference on Knowledge Graph and Semantic Computing (<a href="https://sigkg.cn/ccks2026/"><strong><u><font color="#874e26">CCKS 2026</font></u></strong></a>), Xian, China, August 21st-23rd, 2026</li>
-      <li><strong>Area Chair</strong>, The 2025 International Joint Conference on Neural Networks (<a href="https://2025.ijcnn.org/"><strong><u><font color="#874e26">IJCNN 2025</font></u></strong></a>), Rome, Italy, June 30-July 5, 2025
-      </li>
+      <li><strong>Publicity Chair</strong>, China Conference on Knowledge Graph and Semantic Computing (<a href="https://sigkg.cn/ccks2023/" target="_blank" style="text-decoration: none">CCKS-2023</a>), Shenyang, China, August 24-27, 2023.</li>
+      <li><strong>Publicity Chair</strong>, 2025 6th International Conference on Natural Language Processing and Artificial Intelligence (<a href="https://sigkg.cn/ccks2023/" target="_blank" style="text-decoration: none">NLPAI 2025</a>), Chongqing, China, Jnue 13-16, 2025.</li>
+      <li><strong>Local Chair</strong>, China Conference on Knowledge Graph and Semantic Computing (<a href="https://sigkg.cn/ccks-ijckg2024/" target="_blank" style="text-decoration: none">CCKS 2024</a>), Chongqing, China, September 19th-22nd, 2024.</li>
+      <li><strong>Co-Chair</strong>, The 2023 International Conference on Cyber-physical Social Intelligence (<a href="https://www.agist.org/iccsi2023/files/Accepted_Special_Sessions/S03.pdf" target="_blank" style="text-decoration: none">ICCSI 2023</a>), Xian, China, October 20th-23th, 2023.</li>
+      <li><strong>Area Chair</strong>, The 2026 International Joint Conference on Neural Networks (<a href="https://attend.ieee.org/wcci-2026/ijcnn-2026-topics/" target="_blank" style="text-decoration: none">IJCNN 2026</a>), MECC Maastricht, the Netherlands, June 21st-26th, 2026.</li>
+      <li><strong>Area Chair</strong>, China Conference on Knowledge Graph and Semantic Computing (<a href="https://sigkg.cn/ccks2026/"><strong><u><font color="#874e26">CCKS 2026</font></u></strong></a>), Xian, China, August 21st-23rd, 2026.</li>
+      <li><strong>Area Chair</strong>, The 2025 International Joint Conference on Neural Networks (<a href="https://2025.ijcnn.org/"><strong><u><font color="#874e26">IJCNN 2025</font></u></strong></a>), Rome, Italy, June 30-July 5, 2025.</li>
 <!-- 2026.01.07 收到PC邀请 -->
       <li class="extra-services" style="display:none;"><strong>PC Member</strong>, The 10th APWeb-WAIM Joint International Conference on Web and Big Data (<a href="https://conferences.sigappfr.org/APWEB2026/"><strong><u><font color="#874e26">APWeb-WAIM 2026</font></u></strong></a>), Danang, Vietnam, September 7th-9th, 2026
       </li>
