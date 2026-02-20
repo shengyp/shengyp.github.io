@@ -1087,7 +1087,7 @@ redirect_from:
 </ul>
 
 <div style="text-align: center; margin-top: 6px;">
-  <a href="#" id="toggle-services" style="font-size: 14px; color: #0066cc; text-decoration: underline; cursor: pointer;">Show more... <span id="services-arrow" style="display: inline-block; transition: transform 0.2s;">></span></a>
+  <a href="#" id="toggle-services" style="font-size: 14px; color: #0066cc; text-decoration: underline; cursor: pointer;">Show more... <span id="services-arrow" style="display: inline-block; margin-left: 15px; transition: transform 0.2s;">></span></a>
 </div>
 
 <script>
