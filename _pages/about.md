@@ -637,54 +637,356 @@ redirect_from:
       <li><strong>Local Chair</strong>, China Conference on Knowledge Graph and Semantic Computing (<a href="https://sigkg.cn/ccks-ijckg2024/" target="_blank" style="text-decoration: none">CCKS 2024</a>), Chongqing, China, September 19th-22nd, 2024.</li>
       <li><strong>Co-Chair</strong>, The 2023 International Conference on Cyber-physical Social Intelligence (<a href="https://www.agist.org/iccsi2023/files/Accepted_Special_Sessions/S03.pdf" target="_blank" style="text-decoration: none">ICCSI 2023</a>), Xian, China, October 20th-23th, 2023.</li>
       <li><strong>Area Chair</strong>, The 2026 International Joint Conference on Neural Networks (<a href="https://attend.ieee.org/wcci-2026/ijcnn-2026-topics/" target="_blank" style="text-decoration: none">IJCNN 2026</a>), MECC Maastricht, the Netherlands, June 21st-26th, 2026.</li>
-      <li><strong>Area Chair</strong>, China Conference on Knowledge Graph and Semantic Computing (<a href="https://sigkg.cn/ccks2026/"target="_blank" style="text-decoration: none">CCKS 2026</a>), Xian, China, August 21st-23rd, 2026.</li>
-      <li><strong>Area Chair</strong>, The 2025 International Joint Conference on Neural Networks (<a href="https://2025.ijcnn.org/"target="_blank" style="text-decoration: none">IJCNN 2025</a>), Rome, Italy, June 30-July 5, 2025.</li>
+      <li><strong>Area Chair</strong>, China Conference on Knowledge Graph and Semantic Computing (<a href="https://sigkg.cn/ccks2026/" target="_blank" style="text-decoration: none">CCKS 2026</a>), Xian, China, August 21st-23rd, 2026.</li>
+      <li><strong>Area Chair</strong>, The 2025 International Joint Conference on Neural Networks (<a href="https://2025.ijcnn.org/" target="_blank" style="text-decoration: none">IJCNN 2025</a>), Rome, Italy, June 30-July 5, 2025.</li>
 <!-- 2026.01.07 收到PC邀请 -->
-      <li class="extra-services" style="display:none;"><strong>PC Member</strong>, The 10th APWeb-WAIM Joint International Conference on Web and Big Data (<a href="https://conferences.sigappfr.org/APWEB2026/"target="_blank" style="text-decoration: none">APWeb-WAIM 2026</a>), Danang, Vietnam, September 7th-9th, 2026
+      <li class="extra-services" style="display:none;"><strong>PC Member</strong>, The 10th APWeb-WAIM Joint International Conference on Web and Big Data (<a href="https://conferences.sigappfr.org/APWEB2026/" target="_blank" style="text-decoration: none">APWeb-WAIM 2026</a>), Danang, Vietnam, September 7th-9th, 2026
       </li>
-      <li class="extra-services" style="display:none;"><strong>PC Member</strong>, The Web Conference 2026 Demo Track (<a href="https://www2026.thewebconf.org/calls/demos.html"target="_blank" style="text-decoration: none">WWW 2026 Demo Track</a>), Dubai, United Arab Emirates, April 13th-17th, 2026
+      <li class="extra-services" style="display:none;"><strong>PC Member</strong>, The Web Conference 2026 Demo Track (<a href="https://www2026.thewebconf.org/calls/demos.html" target="_blank" style="text-decoration: none">WWW 2026 Demo Track</a>), Dubai, United Arab Emirates, April 13th-17th, 2026
       </li>
-      <li class="extra-services" style="display:none;"><strong>PC Member</strong>, The 31st International Conference on Database Systems for Advanced Applications (<a href="https://dasfaa2026.github.io"target="_blank" style="text-decoration: none">DASFAA 2026</a>), Jeju, Korea, April 27th-30th, 2026
+      <li class="extra-services" style="display:none;"><strong>PC Member</strong>, The 31st International Conference on Database Systems for Advanced Applications (<a href="https://dasfaa2026.github.io" target="_blank" style="text-decoration: none">DASFAA 2026</a>), Jeju, Korea, April 27th-30th, 2026
       </li>
-      <li class="extra-services" style="display:none;"><strong>PC Member</strong>, The 30th Pacific-Asia Conference on Knowledge Discovery and Data Mining (<a href="https://pakdd2026.org/"target="_blank" style="text-decoration: none">PAKDD 2026</a>), Hong Kong SAR, China, June 9th-12th, 2026
+      <li class="extra-services" style="display:none;"><strong>PC Member</strong>, The 30th Pacific-Asia Conference on Knowledge Discovery and Data Mining (<a href="https://pakdd2026.org/" target="_blank" style="text-decoration: none">PAKDD 2026</a>), Hong Kong SAR, China, June 9th-12th, 2026
       </li>
-      <li class="extra-services" style="display:none;"><strong>PC Member</strong>, The 32nd International Conference on MultiMedia Modeling (<a href="https://mmm2026.cz/"target="_blank" style="text-decoration: none">MMM 2026</a>), Prague, Czech Republic, January 29th-31st, 2026
+      <li class="extra-services" style="display:none;"><strong>PC Member</strong>, The 32nd International Conference on MultiMedia Modeling (<a href="https://mmm2026.cz/" target="_blank" style="text-decoration: none">MMM 2026</a>), Prague, Czech Republic, January 29th-31st, 2026
       </li>
-      <li class="extra-services" style="display:none;"><strong>PC Member</strong>, The 19th China Conference on Knowledge Graph and Semantic Computing (<a href="https://sigkg.cn/ccks2025/"target="_blank" style="text-decoration: none">CCKS 2025</a>), Fuzhou, China, September 19th-21st, 2025
+      <li class="extra-services" style="display:none;"><strong>PC Member</strong>, The 19th China Conference on Knowledge Graph and Semantic Computing (<a href="https://sigkg.cn/ccks2025/" target="_blank" style="text-decoration: none">CCKS 2025</a>), Fuzhou, China, September 19th-21st, 2025
       </li>
-      <li class="extra-services" style="display:none;"><strong>PC Member</strong>, The 32nd International Conference on Neural Information Processing (<a href="https://iconip2025.apnns.org/"target="_blank" style="text-decoration: none">ICONIP 2025</a>), Okinawa, Japan, November 20th-24th, 2025
+      <li class="extra-services" style="display:none;"><strong>PC Member</strong>, The 32nd International Conference on Neural Information Processing (<a href="https://iconip2025.apnns.org/" target="_blank" style="text-decoration: none">ICONIP 2025</a>), Okinawa, Japan, November 20th-24th, 2025
       </li>
-      <li class="extra-services" style="display:none;"><strong>PC Member</strong>, The 14th International Joint Conference on Knowledge Graphs (<a href="https://ijckg2025.github.io/"target="_blank" style="text-decoration: none">IJCKG 2025</a>), Heraklion, Grete, Greece, October 15-17, 2025</li>
-      <li class="extra-services" style="display:none;"><strong>PC Member</strong>, The International World Wide Web Conference (<a href="https://www2025.thewebconf.org/"target="_blank" style="text-decoration: none">WWW 2025</a>), Australia, April 28-May 2, 2025</li>
-      <li class="extra-services" style="display:none;"><strong>PC Member</strong>, The 34th International Joint Conference on Artificial Intelligence (<a href="https://2025.ijcai.org/"target="_blank" style="text-decoration: none">IJCAI 2025</a>), Montreal, Canada, August 16th-22th, 2025</li>
-      <li class="extra-services" style="display:none;"><strong>PC Member</strong>, The 31st International Conference on Neural Information Processing (<a href="https://www.iconip2024.org/"target="_blank" style="text-decoration: none">ICONIP 2024</a>), Auckland, New Zealand, December 2nd-6th, 2024</li>
-      <li class="extra-services" style="display:none;"><strong>PC Member</strong>, The 8th APWeb-WAIM International Joint Conference on Web and Big Data (<a href="https://apweb2024.zjnu.edu.cn/"target="_blank" style="text-decoration: none">APWeb-WAIM 2024</a>), Jinhua, China, August 30-Septemper 1, 2024</li>
-      <li class="extra-services" style="display:none;"><strong>PC Member</strong>, The 33rd International Joint  Conference on Artificial Intelligence (<a href="https://ijcai24.org/"target="_blank" style="text-decoration: none">IJCAI 2024</a>), Jeju Island, South Korea, August 3rd-9th, 2024</li>
-      <li class="extra-services" style="display:none;"><strong>PC Member</strong>, 2024 SIAM International Conference on Data Mining (<a href="https://www.siam.org/conferences/cm/conference/sdm24"target="_blank" style="text-decoration: none">SDM 2024</a>), Westin Houston, TX, U.S., April 18-20, 2024</li>
-      <li class="extra-services" style="display:none;"><strong>PC Member</strong>, The 29th International Conference on Database Systems for Advanced Applications (<a href="https://www.dasfaa2024.org/"target="_blank" style="text-decoration: none">DASFAA 2024</a>), Gifu, Japan, May 13-16, 2024</li>
-      <li class="extra-services" style="display:none;"><strong>PC Member</strong>, China Conference on Knowledge Graph and Semantic Computing (<a href="https://sigkg.cn/ccks2023/"target="_blank" style="text-decoration: none">CCKS 2023</a>), Shenyang, China, August 24-27, 2023</li>
-      <li class="extra-services" style="display:none;"><strong>PC Member</strong>, The 22nd China National Conference on Computational Linguistics (<a href="http://cips-cl.org/static/CCL2023/index.html"target="_blank" style="text-decoration: none">CCL 2023</a>), Haerbing, China, August 3-5, 2023</li>
-      <li class="extra-services" style="display:none;"><strong>PC Member</strong>, The 7th APWeb-WAIM International Joint Conference on Web and Big Data (<a href="http://www.apweb-waim2023.com/"target="_blank" style="text-decoration: none">APWeb-WAIM 2023</a>), Wuhan, China, October 6-8, 2023</li>
-      <li class="extra-services" style="display:none;"><strong>PC Member</strong>, The 28th International Conference on Database Systems for Advanced Applications (<a href="http://www.tjudb.cn/dasfaa2023/"target="_blank" style="text-decoration: none">DASFAA 2023</a>), Tianjin, China, April 17-20, 2023</li>
-      <li class="extra-services" style="display:none;"><strong>PC Member</strong>, The 21st China National Conference on Computational Linguistics (<a href="http://cips-cl.org/static/CCL2022/index.html"target="_blank" style="text-decoration: none">CCL 2022</a>), Nanchang, China, October 14-16, 2022
+      <li class="extra-services" style="display:none;"><strong>PC Member</strong>, The 14th International Joint Conference on Knowledge Graphs (<a href="https://ijckg2025.github.io/" target="_blank" style="text-decoration: none">IJCKG 2025</a>), Heraklion, Grete, Greece, October 15-17, 2025</li>
+      <li class="extra-services" style="display:none;"><strong>PC Member</strong>, The International World Wide Web Conference (<a href="https://www2025.thewebconf.org/" target="_blank" style="text-decoration: none">WWW 2025</a>), Australia, April 28-May 2, 2025</li>
+      <li class="extra-services" style="display:none;"><strong>PC Member</strong>, The 34th International Joint Conference on Artificial Intelligence (<a href="https://2025.ijcai.org/" target="_blank" style="text-decoration: none">IJCAI 2025</a>), Montreal, Canada, August 16th-22th, 2025</li>
+      <li class="extra-services" style="display:none;"><strong>PC Member</strong>, The 31st International Conference on Neural Information Processing (<a href="https://www.iconip2024.org/" target="_blank" style="text-decoration: none">ICONIP 2024</a>), Auckland, New Zealand, December 2nd-6th, 2024</li>
+      <li class="extra-services" style="display:none;"><strong>PC Member</strong>, The 8th APWeb-WAIM International Joint Conference on Web and Big Data (<a href="https://apweb2024.zjnu.edu.cn/" target="_blank" style="text-decoration: none">APWeb-WAIM 2024</a>), Jinhua, China, August 30-Septemper 1, 2024</li>
+      <li class="extra-services" style="display:none;"><strong>PC Member</strong>, The 33rd International Joint  Conference on Artificial Intelligence (<a href="https://ijcai24.org/" target="_blank" style="text-decoration: none">IJCAI 2024</a>), Jeju Island, South Korea, August 3rd-9th, 2024</li>
+      <li class="extra-services" style="display:none;"><strong>PC Member</strong>, 2024 SIAM International Conference on Data Mining (<a href="https://www.siam.org/conferences/cm/conference/sdm24" target="_blank" style="text-decoration: none">SDM 2024</a>), Westin Houston, TX, U.S., April 18-20, 2024</li>
+      <li class="extra-services" style="display:none;"><strong>PC Member</strong>, The 29th International Conference on Database Systems for Advanced Applications (<a href="https://www.dasfaa2024.org/" target="_blank" style="text-decoration: none">DASFAA 2024</a>), Gifu, Japan, May 13-16, 2024</li>
+      <li class="extra-services" style="display:none;"><strong>PC Member</strong>, China Conference on Knowledge Graph and Semantic Computing (<a href="https://sigkg.cn/ccks2023/" target="_blank" style="text-decoration: none">CCKS 2023</a>), Shenyang, China, August 24-27, 2023</li>
+      <li class="extra-services" style="display:none;"><strong>PC Member</strong>, The 22nd China National Conference on Computational Linguistics (<a href="http://cips-cl.org/static/CCL2023/index.html" target="_blank" style="text-decoration: none">CCL 2023</a>), Haerbing, China, August 3-5, 2023</li>
+      <li class="extra-services" style="display:none;"><strong>PC Member</strong>, The 7th APWeb-WAIM International Joint Conference on Web and Big Data (<a href="http://www.apweb-waim2023.com/" target="_blank" style="text-decoration: none">APWeb-WAIM 2023</a>), Wuhan, China, October 6-8, 2023</li>
+      <li class="extra-services" style="display:none;"><strong>PC Member</strong>, The 28th International Conference on Database Systems for Advanced Applications (<a href="http://www.tjudb.cn/dasfaa2023/" target="_blank" style="text-decoration: none">DASFAA 2023</a>), Tianjin, China, April 17-20, 2023</li>
+      <li class="extra-services" style="display:none;"><strong>PC Member</strong>, The 21st China National Conference on Computational Linguistics (<a href="http://cips-cl.org/static/CCL2022/index.html" target="_blank" style="text-decoration: none">CCL 2022</a>), Nanchang, China, October 14-16, 2022
       </li>
-      <li class="extra-services" style="display:none;"><strong>PC Member</strong>, The 8th International Conference on Data Mining (<a href="https://csit2022.org/dami/index"target="_blank" style="text-decoration: none">DaMi 2022</a>), Chennai, India, August 20-21, 2022
+      <li class="extra-services" style="display:none;"><strong>PC Member</strong>, The 8th International Conference on Data Mining (<a href="https://csit2022.org/dami/index" target="_blank" style="text-decoration: none">DaMi 2022</a>), Chennai, India, August 20-21, 2022
       </li>
-      <li class="extra-services" style="display:none;"><strong>PC Member</strong>, The 29th International Conference on Neural Information Processing (<a href="https://iconip2022.apnns.org/"target="_blank" style="text-decoration: none">ICONIP 2022</a>), New Delhi, India, November 22-26, 2022
+      <li class="extra-services" style="display:none;"><strong>PC Member</strong>, The 29th International Conference on Neural Information Processing (<a href="https://iconip2022.apnns.org/" target="_blank" style="text-decoration: none">ICONIP 2022</a>), New Delhi, India, November 22-26, 2022
       </li>
-      <li class="extra-services" style="display:none;"><strong>PC Member</strong>, China Conference on Knowledge Graph and Semantic Computing (<a href="http://sigkg.cn/ccks2022/"target="_blank" style="text-decoration: none">CCKS 2022</a>), Qinhuangdao, China, August 25-28, 2022
+      <li class="extra-services" style="display:none;"><strong>PC Member</strong>, China Conference on Knowledge Graph and Semantic Computing (<a href="http://sigkg.cn/ccks2022/" target="_blank" style="text-decoration: none">CCKS 2022</a>), Qinhuangdao, China, August 25-28, 2022
       </li>
-      <li class="extra-services" style="display:none;"><strong>PC Member</strong>, The 2023 International Conference on Images, Signals, and Computing (<a href="http://icisc-conf.org/"target="_blank" style="text-decoration: none">ICISC 2023</a>), Chengdu, China, April 15-17, 2023
+      <li class="extra-services" style="display:none;"><strong>PC Member</strong>, The 2023 International Conference on Images, Signals, and Computing (<a href="http://icisc-conf.org/" target="_blank" style="text-decoration: none">ICISC 2023</a>), Chengdu, China, April 15-17, 2023
       </li>
-      <li class="extra-services" style="display:none;"><strong>PC Member</strong>, International Conference Advanced Data Mining and Applications (<a href="https://adma2022.uqcloud.net/index.html"target="_blank" style="text-decoration: none">ADMA 2022</a>), Brisbane, Australia, 30th November-2nd December, 2022
+      <li class="extra-services" style="display:none;"><strong>PC Member</strong>, International Conference Advanced Data Mining and Applications (<a href="https://adma2022.uqcloud.net/index.html" target="_blank" style="text-decoration: none">ADMA 2022</a>), Brisbane, Australia, 30th November-2nd December, 2022
       </li>
-      <li class="extra-services" style="display:none;"><strong>PC Member</strong>, The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (<a href="https://2022.ecmlpkdd.org/"target="_blank" style="text-decoration: none">ECML-PKDD 2022</a>), Grenoble, France, September 19-23, 2022
+      <li class="extra-services" style="display:none;"><strong>PC Member</strong>, The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (<a href="https://2022.ecmlpkdd.org/" target="_blank" style="text-decoration: none">ECML-PKDD 2022</a>), Grenoble, France, September 19-23, 2022
       </li>
-      <li class="extra-services" style="display:none;"><strong>PC Member</strong>, The 5th Asia Pacific Web and Web-Age Information Management Joint Conference on Web and Big Data (<a href="http://139.159.245.147/program_committee"target="_blank" style="text-decoration: none">APWeb-WAIM 2021</a>), Guangzhou, China, August 23-25, 2021
+      <li class="extra-services" style="display:none;"><strong>PC Member</strong>, The 5th Asia Pacific Web and Web-Age Information Management Joint Conference on Web and Big Data (<a href="http://139.159.245.147/program_committee" target="_blank" style="text-decoration: none">APWeb-WAIM 2021</a>), Guangzhou, China, August 23-25, 2021
       </li>
-      <li class="extra-services" style="display:none;"><strong>PC Member</strong>, The 4th Asia Pacific Web and Web-Age Information Management Joint Conference on Web and Big Data (<a href="http://www.tjudb.cn/apwebwaim2020/node/20"target="_blank" style="text-decoration: none">APWeb-WAIM 2020</a>), Tianjin, China, August 12-14, 2020
+      <li class="extra-services" style="display:none;"><strong>PC Member</strong>, The 4th Asia Pacific Web and Web-Age Information Management Joint Conference on Web and Big Data (<a href="http://www.tjudb.cn/apwebwaim2020/node/20" target="_blank" style="text-decoration: none">APWeb-WAIM 2020</a>), Tianjin, China, August 12-14, 2020
       </li>
-
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, China Conference on Knowledge Graph and Semantic Computing (<a href="https://sigkg.cn/ccks2026/" target="_blank" style="text-decoration: none">CCKS 2026</a>), Xian, China, August 21st-23rd, 2026
+      </li>
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, The 10th APWeb-WAIM Joint International Conference on Web and Big Data (<a href="https://conferences.sigappfr.org/APWEB2026/" target="_blank" style="text-decoration: none">APWeb-WAIM 2026</a>), Danang, Vietnam, September 7th-9th, 2026
+      </li>
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, IEEE International Conference on Multimedia & Expo 2026 (<a href="https://2026.ieeeicme.org/" target="_blank" style="text-decoration: none">ICME 2026</a>), Bangkok, Thailand, July 5th-9th, 2026
+      </li>
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, The Web Conference 2026 Demo Track (<a href="https://www2026.thewebconf.org/calls/demos.html" target="_blank" style="text-decoration: none">WWW 2026 Demo Track</a>), Dubai, United Arab Emirates, April 13th-17th, 2026
+      </li>
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, The 31st International Conference on Database Systems for Advanced Applications (<a href="https://dasfaa2026.github.io" target="_blank" style="text-decoration: none">DASFAA 2026</a>), Jeju, Korea, April 27th-30th, 2026
+      </li>
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, The 30th Pacific-Asia Conference on Knowledge Discovery and Data Mining (<a href="https://pakdd2026.org/" target="_blank" style="text-decoration: none">PAKDD 2026</a>), Hong Kong SAR, China, June 9th-12th, 2026
+      </li>
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, The 32nd International Conference on MultiMedia Modeling (<a href="https://mmm2026.cz/" target="_blank" style="text-decoration: none">MMM 2026</a>), Prague, Czech Republic, January 29th-31st, 2026
+      </li>
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, The 19th China Conference on Knowledge Graph and Semantic Computing (<a href="https://sigkg.cn/ccks2025/" target="_blank" style="text-decoration: none">CCKS 2025</a>), Fuzhou, China, September 19th-21st, 2025
+      </li>
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, The 32nd International Conference on Neural Information Processing (<a href="https://iconip2025.apnns.org/" target="_blank" style="text-decoration: none">ICONIP 2025</a>), Okinawa, Japan, November 20th-24th, 2025
+      </li>
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, The 24th China National Conference on Computational Linguistics (<a href="http://cips-cl.org/static/CCL2025/index.html" target="_blank" style="text-decoration: none">CCL 2025</a>), Jinan, Shandong, China, August 11st-14th, 2025
+      </li>
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, The 33rd ACM International Conference on Multimedia (<a href="https://acmmm2025.org/" target="_blank" style="text-decoration: none">ACMMM 2025</a>), Dublin, Ireland, October 27nd-31st, 2025
+      </li>
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, The 21st International Joint Conference on Knowledge Graphs (<a href="https://adma2025.github.io/" target="_blank" style="text-decoration: none">ADMA 2025</a>), Kyoto, Japan, October 22nd-24th, 2025
+      </li>
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, The 14th International Joint Conference on Knowledge Graphs (<a href="https://ijckg2025.github.io/" target="_blank" style="text-decoration: none">IJCKG 2025</a>), Heraklion, Grete, Greece, October 15-17, 2025
+      </li>
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, The 9th APWeb-WAIM International Joint Conference on Web and Big Data (<a href="https://apweb2025.sau.edu.cn/" target="_blank" style="text-decoration: none">APWeb-WAIM 2025</a>), Shenyang, China, August 28-30, 2025
+      </li>
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, IEEE International Conference on Multimedia & Expo 2025 (<a href="https://2025.ijcnn.org/" target="_blank" style="text-decoration: none">ICME 2025</a>), Nantes, France, June 30-July 4, 2025
+      </li>
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, The 2025 International Joint Conference on Neural Networks (<a href="https://2025.ijcnn.org/" target="_blank" style="text-decoration: none">IJCNN 2025</a>), Rome, Italy, June 30-July 5, 2025
+      </li>
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, The International World Wide Web Conference (<a href="https://www2025.thewebconf.org/" target="_blank" style="text-decoration: none">WWW 2025</a>), Australia, April 28-May 2, 2025
+      </li>
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, The 30th International Conference on Database Systems for Advanced Applications (<a href="https://dasfaa2025.github.io/" target="_blank" style="text-decoration: none">DASFAA 2025</a>), Singapore, May 25-28, 2025
+      </li>
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, The 31st International Conference on MultiMedia Modeling (<a href="https://mmm2025.net/" target="_blank" style="text-decoration: none">MMM 2025</a>), Jara, Japan, January 7-10, 2025
+      </li>
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, The 31st International Conference on Neural Information Processing (<a href="https://www.iconip2024.org/" target="_blank" style="text-decoration: none">ICONIP 2024</a>), Auckland, New Zealand, December 2nd-6th, 2024
+      </li>
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, The 8th APWeb-WAIM International Joint Conference on Web and Big Data (<a href="https://apweb2024.zjnu.edu.cn/" target="_blank" style="text-decoration: none">APWeb-WAIM 2024</a>), Jinhua, China, August 30-Septemper 1, 2024
+      </li>
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, ACM Multimedia 2024 (<a href="https://2024.acmmm.org/" target="_blank" style="text-decoration: none">ACM MM 2024</a>), Melbourne, Australia, October 28-November 1, 2024
+      </li>
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, The 33rd International Joint Conference on Artificial Intelligence (<a href="https://ijcai24.org/" target="_blank" style="text-decoration: none">IJCAI 2024</a>), Jeju Island, South Korea, August 3rd-9th, 2024
+      </li>
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, 2024 SIAM International Conference on Data Mining (<a href="https://www.siam.org/conferences/cm/conference/sdm24" target="_blank" style="text-decoration: none">SDM 2024</a>), Westin Houston, TX, U.S., April 18-20, 2024
+      </li>
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, The 29th International Conference on Database Systems for Advanced Applications (<a href="https://www.dasfaa2024.org/" target="_blank" style="text-decoration: none">DASFAA 2024</a>), Gifu, Japan, May 13-16, 2024
+      </li>
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, The 30th International Conference on Neural Information Processing (<a href="http://www.iconip2023.org/index.html" target="_blank" style="text-decoration: none">ICONIP 2023</a>), Changsha, China, November 20-23, 2022
+      </li>
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, The 22nd China National Conference on Computational Linguistics (<a href="http://cips-cl.org/static/CCL2023/index.html" target="_blank" style="text-decoration: none">CCL 2023</a>), Haerbing, China, August 3-5, 2023
+      </li>
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, The 7th APWeb-WAIM International Joint Conference on Web and Big Data (<a href="http://www.apweb-waim2023.com/" target="_blank" style="text-decoration: none">APWeb-WAIM 2023</a>), Wuhan, China, October 6-8, 2023
+      </li>
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, The 19th International Conference on Advanced Data Mining and Applications (<a href="https://adma2023.uqcloud.net/index.html" target="_blank" style="text-decoration: none">ADMA 2023</a>), Shenyang, China, August 21-23, 2023
+      </li>
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, The 28th International Conference on Database Systems for Advanced Applications (<a href="http://www.tjudb.cn/dasfaa2023/" target="_blank" style="text-decoration: none">DASFAA 2023</a>), Tianjin, China, April 17-20, 2023
+      </li>
+      <!-- <li><strong>Invited Reviewer</strong>, The 7th International Workshop on Graph Data Management and Analysis (<a href="https://gdma2023.github.io/index.html"><strong><u><font color="#874e26">GDMA 2023</font></u></strong></a>), Tianjin, China, April 17-20, 2023
+      </li> -->
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, The 21st China National Conference on Computational Linguistics (<a href="http://cips-cl.org/static/CCL2022/index.html" target="_blank" style="text-decoration: none">CCL 2022</a>), Nanchang, China, October 14-16, 2022
+      </li>
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, The 8th International Conference on Data Mining (<a href="https://csit2022.org/dami/index" target="_blank" style="text-decoration: none">DaMi 2022</a>), Chennai, India, August 20-21, 2022
+      </li>
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, The 29th International Conference on Neural Information Processing (<a href="https://iconip2022.apnns.org/" target="_blank" style="text-decoration: none">ICONIP 2022</a>), New Delhi, India, November 22-26, 2022
+      </li>
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, China Conference on Knowledge Graph and Semantic Computing (<a href="http://sigkg.cn/ccks2022/" target="_blank" style="text-decoration: none">CCKS 2022</a>), Qinhuangdao, China, August 25-28, 2022
+      </li>
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, The 2023 International Conference on Images, Signals, and Computing (<a href="http://icisc-conf.org/" target="_blank" style="text-decoration: none">ICISC 2023</a>), Chengdu, China, April 15-17, 2023
+      </li>
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, International Conference Advanced Data Mining and Applications (<a href="https://adma2022.uqcloud.net/index.html" target="_blank" style="text-decoration: none">ADMA 2022</a>), Brisbane, Australia, 30th November-2nd December, 2022
+      </li>
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (<a href="https://2022.ecmlpkdd.org/" target="_blank" style="text-decoration: none">ECML-PKDD 2022</a>), Grenoble, France, September 19-23, 2022
+      </li>
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, APWeb-WAIM 2022 (<a href="https://apweb-waim2022.com/" target="_blank" style="text-decoration: none">APWeb-WAIM 2022</a>)
+      </li>
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, APWeb-WAIM 2021 (<a href="http://139.159.245.147/" target="_blank" style="text-decoration: none">APWeb-WAIM 2021</a>)
+      </li>
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, APWeb-WAIM 2020 (<a href="http://www.tjudb.cn/apwebwaim2020/" target="_blank" style="text-decoration: none">APWeb-WAIM 2020</a>)
+      </li>
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, APWeb-WAIM 2019 (<a href="http://cfm.uestc.edu.cn/apwebwaim2019/" target="_blank" style="text-decoration: none">APWeb-WAIM 2019</a>)
+      </li>
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, RSBD 2019 (<a href="https://rsbd2019.wordpress.com/" target="_blank" style="text-decoration: none">RSBD 2019</a>)
+      </li>
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, CCF-ICAI 2017 (<a href="#" target="_blank" style="text-decoration: none">CCF-ICAI 2017</a>)
+      </li>
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, AAAI 2016 (<a href="http://www.aaai.org/Conferences/AAAI/aaai16.php" target="_blank" style="text-decoration: none">AAAI 2016</a>)
+      </li>
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, CCKS 2016 (<a href="http://www.ccks2016.cn/" target="_blank" style="text-decoration: none">CCKS 2016</a>)
+      </li>
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, CCPR 2016 (<a href="https://www.springer.com/cn/book/9789811030017" target="_blank" style="text-decoration: none">CCPR 2016</a>)
+      </li>
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, SSCI 2016 (<a href="http://ssci2016.cs.surrey.ac.uk/IEEE%202016.htm" target="_blank" style="text-decoration: none">SSCI 2016</a>)
+      </li>
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, CCF Big Data 2016 (<a href="http://www.scholat.com/vpost.html?pid=36931" target="_blank" style="text-decoration: none">CCF Big Data 2016</a>)
+      </li>
+<!-- 2025.12.12 收到审稿邀请 -->
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, IEEE Transactions on Neural Networks and Learning Systems (<a href="https://cis.ieee.org/publications/t-neural-networks-and-learning-systems" target="_blank" style="text-decoration: none">TNNLS</a>)
+      </li>
+<!-- 2025.07.21 收到审稿邀请 -->
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, IEEE Transactions on Artificial Intelligence (<a href="https://cis.ieee.org/publications/ieee-transactions-on-artificial-intelligence" target="_blank" style="text-decoration: none">IEEE AI</a>)
+      </li>
+<!-- 2025.07.23 收到审稿邀请 -->
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, IEEE Transactions on Knowledge and Data Engineering (<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69" target="_blank" style="text-decoration: none">IEEE TKDE</a>)
+      </li>
+<!-- 2025.07.18 收到审稿邀请 -->
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, ACM Transactions on Knowledge Discovery from Data (<a href="https://dl.acm.org/journal/tkdd" target="_blank" style="text-decoration: none">ACM TKDD</a>)
+      </li>
+<!-- 2025.06.13 收到审稿邀请 -->
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, IEEE Journal of Biomedical and Health Informatics (<a href="https://www.embs.org/jbhi/" target="_blank" style="text-decoration: none">JBHI</a>)
+      </li>
+<!-- 2025.01.20 收到审稿邀请 -->
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, IEEE Transactions on Systems, Man and Cybernetics: Systems (<a href="https://ieeexplore.ieee.org/xpl/topics.jsp?punumber=6221021" target="_blank" style="text-decoration: none">IEEE TSMC-S</a>)
+     </li>
+<!-- 2025.12.27 收到审稿邀请 -->
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, IEEE Transactions on Industrial Informatics (<a href="https://www.ieee-ies.org/pubs/transactions-on-industrial-informatics" target="_blank" style="text-decoration: none">IEEE II</a>)
+      </li>
+<!-- 2025.10.05 收到审稿邀请 -->
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, IEEE Transactions on Big Data (<a href="https://xplorestaging.ieee.org/xpl/issues?punumber=6687317&isnumber=11149634" target="_blank" style="text-decoration: none">IEEE BD</a>)
+      </li>
+<!-- 2025.03.06 收到审稿邀请 -->
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, IEEE Transactions on Consumer Electronics (<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=30" target="_blank" style="text-decoration: none">IEEE CE</a>)
+      </li>
+<!-- 2024.10.17 收到Kaizhu Huang审稿邀请 -->
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, Neural Networks (<a href="https://www.sciencedirect.com/journal/neural-networks" target="_blank" style="text-decoration: none">NN</a>)
+      </li>
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, Knowledge-Based Systems (<a href="http://www.journals.elsevier.com/" target="_blank" style="text-decoration: none">KBS</a>)
+      </li>
+<!-- 2024.09.23 收到的审稿邀请 -->
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, Information Sciences (<a href="https://www.sciencedirect.com/journal/information-sciences" target="_blank" style="text-decoration: none">IS</a>)
+      </li>
+<!-- 2024.12.01 收到的审稿邀请 -->
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, Information Fusion (<a href="https://www.sciencedirect.com/journal/information-fusion" target="_blank" style="text-decoration: none">IF</a>)
+      </li>
+<!-- 2025.12.03 收到的审稿邀请 -->
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, IEEE Internet of Things Journal (<a href="https://ieee-iotj.org/" target="_blank" style="text-decoration: none">IEEE-IOTJ</a>)
+      </li>
+<!-- 2024.07.24 收到的审稿邀请 -->
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, Computers and Electronics in Agriculture (<a href="https://www.sciencedirect.com/journal/computers-and-electronics-in-agriculture" target="_blank" style="text-decoration: none">CEA</a>)
+      </li>
+<!-- 2025.10.04 收到的审稿邀请 -->
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, Smart Agricultural Technology (<a href="https://www.sciencedirect.com/journal/smart-agricultural-technology" target="_blank" style="text-decoration: none">SAT</a>)
+      </li>
+<!-- 2025.02.10 收到的审稿邀请 -->
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, Advanced Engineering Informatics (<a href="https://www.sciencedirect.com/journal/advanced-engineering-informatics" target="_blank" style="text-decoration: none">AEI</a>)
+      </li>
+<!-- 2024.03.04 收到的审稿邀请 -->
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, Expert Systems With Applications (<a href="https://www.sciencedirect.com/journal/expert-systems-with-applications" target="_blank" style="text-decoration: none">ESWA</a>)
+      </li>
+<!-- 2024.04 收到的审稿邀请 -->
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, Engineering Applications of Artificial Intelligence (<a href="https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence" target="_blank" style="text-decoration: none">EAAI</a>)
+      </li>
+<!-- 2025.08.19 收到的审稿邀请 -->
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, Engineering Science and Technology, an International Journal (<a href="https://www.sciencedirect.com/journal/engineering-science-and-technology-an-international-journal" target="_blank" style="text-decoration: none">JESTECH</a>)
+      </li>
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, Information Processing and Management (<a href="https://www.sciencedirect.com/journal/information-processing-and-management" target="_blank" style="text-decoration: none">IPM</a>)
+      </li>
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, CAAI Transactions on Intelligence Technology (<a href="https://ietresearch.onlinelibrary.wiley.com/journal/24682322" target="_blank" style="text-decoration: none">CAAI-TIT</a>)
+      </li>
+<!-- 2025.12.26 收到的审稿邀请 --> 
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, IEEE Transactions on Emerging Topics in Computational Intelligence (<a href="https://cis.ieee.org/publications/t-emerging-topics-in-ci" target="_blank" style="text-decoration: none">IEEE-ETCI</a>)
+      </li>
+<!-- 2025.03.22 收到的审稿邀请 -->  
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, Future Generation Computer Systems (<a href="https://www.sciencedirect.com/journal/future-generation-computer-systems" target="_blank" style="text-decoration: none">Future Generation Computer Systems</a>)
+      </li>
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, Neurocomputing (<a href="https://www.sciencedirect.com/journal/neurocomputing" target="_blank" style="text-decoration: none">Neurocomputing</a>)
+      </li>
+<!-- 2024.12.28 收到的审稿邀请 -->    
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, Data & Knowledge Engineering (<a href="https://www.sciencedirect.com/journal/data-and-knowledge-engineering" target="_blank" style="text-decoration: none">DKE</a>)
+      </li>
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, Pattern Recognition Letters (<a href="https://www.journals.elsevier.com/pattern-recognition-letters/" target="_blank" style="text-decoration: none">PR Letters</a>)
+      </li>
+<!-- 2025.08.12 收到的审稿邀请 -->  
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, IEEE Transactions on Computational Social Systems (<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570650" target="_blank" style="text-decoration: none">IEEE CSS</a>)
+      </li>
+<!-- 2025.04.19 收到的审稿邀请 -->  
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, ACM Transactions on Autonomous and Adaptive Systems (<a href="https://dl.acm.org/journal/taas" target="_blank" style="text-decoration: none">IEEE TSMC-S</a>)
+      </li>
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, IEEE Access (<a href="https://ieeeaccess.ieee.org/" target="_blank" style="text-decoration: none">IEEE Access</a>)
+      </li>
+<!-- 2025.10.29 收到的审稿邀请 --> 
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, IEEE Open Journal of Engineering in Medicine and Biology (<a href="https://xplorestaging.ieee.org/xpl/mostRecentIssue.jsp?punumber=8782705" target="_blank" style="text-decoration: none">OJEMB</a>)
+      </li>
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, Applied Sciences (<a href="https://www.mdpi.com/journal/applsci" target="_blank" style="text-decoration: none">AS</a>)
+      </li>
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, Entropy (<a href="https://www.mdpi.com/journal/entropy" target="_blank" style="text-decoration: none">Entropy</a>)
+      </li>
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, Sustainability (<a href="https://www.mdpi.com/journal/sustainability" target="_blank" style="text-decoration: none">Sustainability</a>)
+      </li>
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, Data and Information Management (<a href="https://www.journals.elsevier.com/data-and-information-management" target="_blank" style="text-decoration: none">DIM</a>)
+      </li>
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, Data Intelligence (<a href="https://direct.mit.edu/dint" target="_blank" style="text-decoration: none">DIM</a>)
+      </li>
+<!-- 2023.02.12 收到的审稿邀请 -->
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, Computational Intelligence and Neuroscience (<a href="https://www.hindawi.com/journals/cin/" target="_blank" style="text-decoration: none">CIN</a>)
+      </li>
+<!-- 2023.03.15 收到的审稿邀请 -->
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, Frontiers of Computer Science (<a href="https://www.springer.com/journal/11704" target="_blank" style="text-decoration: none">FCS</a>)
+      </li>
+<!-- 2023.03.17 收到的审稿邀请 -->
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, Sensors (<a href="http://www.mdpi.com/journal/sensors/" target="_blank" style="text-decoration: none">Sensors</a>)
+      </li>
+<!-- 2023.04.28 收到的审稿邀请 -->
+      <!-- <li><strong>Invited Reviewer</strong>, Neurocomputing (<a href="https://www.sciencedirect.com/journal/neurocomputing"><strong><u><font color="#874e26">Neurocomputing</font></u></strong></a>)
+      </li> -->
+<!-- \item {计算机研究与发展}  -->
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, Journal of Computer Research and Development (<a href="https://crad.ict.ac.cn/CN/1000-1239/home.shtml" target="_blank" style="text-decoration: none">JCRD</a>)
+      </li>
+<!-- \item {电子学报} -->
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, Acta Electronica Sinica (<a href="http://www.ejournal.org.cn/" target="_blank" style="text-decoration: none">AES</a>)
+      </li>  
+<!-- \item {中文信息学报} -->
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, Journal of China Information Processing (<a href="http://jcip.cipsc.org.cn/CN/volumn/home.shtml" target="_blank" style="text-decoration: none">JCIP</a>)
+      </li>
+<!-- \item {中国图象图形学报} -->
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, Journal of Image and Graphics (<a href="http://www.cjig.cn/jig/ch/index.aspx" target="_blank" style="text-decoration: none">JIG</a>)
+      </li>
+<!-- \item {计算机科学} -->
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, Computer Science (<a href="http://www.jsjkx.com/CN/1002-137X/home.shtml" target="_blank" style="text-decoration: none">CS</a>)
+      </li>
+<!-- \item {计算机应用} -->
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, Journal of Computer Applications (<a href="http://www.joca.cn/CN/volumn/home.shtml" target="_blank" style="text-decoration: none">JCA</a>)
+      </li>
+<!-- \item {计算机集成制造系统} -->
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, Computer Integrated Manufacturing Systems (<a href="http://www.cims-journal.cn/CN/1006-5911/home.shtml" target="_blank" style="text-decoration: none">CIMS</a>)
+      </li> 
+<!-- \item {计算机应用研究} -->
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, Application Research to Computers (<a href="https://www.arocmag.com/" target="_blank" style="text-decoration: none">ARC</a>)
+      </li>
+<!-- \item {大数据} -->
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, Big Data Research (<a href="http://www.infocomm-journal.com/bdr/CN/2096-0271/home.shtml" target="_blank" style="text-decoration: none">BDR</a>)
+      </li>
+<!-- \item {通信学报} -->
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, Journal of Communications (<a href="http://www.infocomm-journal.com/txxb/CN/1000-436X/home.shtml" target="_blank" style="text-decoration: none">JC</a>)
+      </li>
+<!-- \item {电信科学} -->
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, Telecommunications Science (<a href="http://www.infocomm-journal.com/dxkx/CN/1000-0801/home.shtml" target="_blank" style="text-decoration: none">JC</a>)
+      </li>
+<!-- \item {网络与信息安全学报} -->
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, Chinese Journal of Network and Information Security (<a href="http://www.infocomm-journal.com/cjnis/CN/2096-109X/home.shtml" target="_blank" style="text-decoration: none">CJNIS</a>)
+      </li>
+<!-- \item {软件导刊} -->
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, Software Guide (<a href="http://www.rjdk.org/homeNav?lang=zh" target="_blank" style="text-decoration: none">SG</a>)
+      </li>
+<!-- \item {图书情报工作} -->
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, Library and Information Service (<a href="http://www.lis.ac.cn/CN/0252-3116/home.shtml" target="_blank" style="text-decoration: none">LIS</a>)
+      </li>
+<!-- \item {计算机与现代化} -->
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, Computer and Modernization (<a href="http://www.c-a-m.org.cn/CN/1006-2475/home.shtml" target="_blank" style="text-decoration: none">CM</a>)
+      </li>
+<!-- 2023.07.11 收到的审稿邀请 河南农业科学-->
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, Journal of Henan Agricultural Sciences (<a href="http://www.hnnykx.org.cn/CN/1004-3268/home.shtml" target="_blank" style="text-decoration: none">JHAS</a>)
+      </li>
+<!-- \item {数据挖掘} -->
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, Hans Journal of Data Mining (<a href="https://www.hanspub.org/journal/HJDM.html" target="_blank" style="text-decoration: none">HJDM</a>)
+      </li>
+<!-- \item {智能科学与技术学报} -->
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, Chinese Journal of Intelligent Science and Technology (<a href="http://www.infocomm-journal.com/znkx/CN/2096-6652/home.shtml" target="_blank" style="text-decoration: none">CJIST</a>)
+      </li>
+<!-- \item {智能系统学报} -->
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, CAAI Transactions on Intelligent Systems (<a href="http://tis.hrbeu.edu.cn" target="_blank" style="text-decoration: none">CAAI TIS</a>)
+      </li>
+<!-- \item {数据与计算发展前沿} -->
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, Frontiers of Data & Computing (<a href="http://www.jfdc.cnic.cn/CN/1674-9480/home.shtml" target="_blank" style="text-decoration: none">FDC</a>)
+      </li>
+<!-- \item {计算机工程与科学} -->
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, Computer Engineering & Science (<a href="http://manu46.magtech.com.cn/ces/CN/1007-130X/home.shtml" target="_blank" style="text-decoration: none">CES</a>)
+      </li>
+<!-- \item {武汉大学学报 (信息科学版)} -->
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, Geomatics and Information Science of Wuhan University (<a href="http://ch.whu.edu.cn/" target="_blank" style="text-decoration: none">GISWU</a>)
+      </li>
+<!-- \item {重庆大学学报 (自然科学版)} -->
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, Journal of Chongqing University (<a href="http://qks.cqu.edu.cn/cqdxzrcn/home" target="_blank" style="text-decoration: none">JCU</a>)
+      </li>
+<!-- \item {大连海事大学学报} -->
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, Journal of Dalian Maritime University (<a href="https://xb.dlmu.edu.cn/" target="_blank" style="text-decoration: none">JDMU</a>)
+      </li>
+<!-- \item {东华大学学报 (自然科学版)} -->
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, Journal of Donghua University (Natural Science) (<a href="https://dhdz.cbpt.cnki.net/WKD/WebPublication/index.aspx?mid=dhdz" target="_blank" style="text-decoration: none">JDU</a>)
+      </li>
+<!-- \item {地理学报}  -->
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, Acta Geographica Sinica (<a href="http://www.geog.com.cn/CN/0375-5444/home.shtml" target="_blank" style="text-decoration: none">AGS</a>)
+      </li>
+<!-- \item {地理信息科学学报}  -->
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, Journal of Geo-Information Science (<a href="http://www.dqxxkx.cn/CN/1560-8999/home.shtml" target="_blank" style="text-decoration: none">JGIS</a>)
+      </li>
+<!-- \item {地理与地理信息科学} -->
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, Geography and Geo-information Science (<a href="https://dlgt.cbpt.cnki.net/WKC/WebPublication/index.aspx?mid=dlgt" target="_blank" style="text-decoration: none">GGS</a>)
+      </li>
+<!-- \item {测绘科学}  -->
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, Science of Surveying and Mapping (<a href="https://chkd.cbpt.cnki.net/WKE2/WebPublication/index.aspx?mid=CHKD" target="_blank" style="text-decoration: none">SSM</a>)
+      </li>
+<!-- \item {指挥与控制学报} -->
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, Journal of Command and Control (<a href="http://jc2.org.cn/CN/volumn/current.shtml" target="_blank" style="text-decoration: none">JCC</a>)
+      </li>
+<!-- \item {航空兵器} -->
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, Aero Weaponry (<a href="https://www.aeroweaponry.avic.com/CN/1673-5048/home.shtml" target="_blank" style="text-decoration: none">AW</a>)
+      </li>
+<!-- \item {计算机测量与控制} -->
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, Computer Measurement & Control (<a href="http://www.jsjclykz.com/ch/index.aspx" target="_blank" style="text-decoration: none">CMC</a>)
+      </li>
   <!-- 隐藏部分 -->
   <li class="extra-services" style="display:none;">
     IEEE Transactions on Big Data
