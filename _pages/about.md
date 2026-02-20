@@ -607,24 +607,81 @@ redirect_from:
     <li><span style="font-size:16px">重庆市教育委员会, 2024年度市教委科学技术研究计划 (重点项目), 低碳效视域下的农作物知识图谱构建关键技术研究, 2024-06-01 至 2027-06-30. </span></li>
     <li><span style="font-size:16px">重庆市科学技术局, 2022年度重庆市自然科学基金 (面上项目), 面向开放环境的知识图谱构建方法研究, 2022-09-01 至 2026-07-30. </span></li>
     <li><span style="font-size:16px">国家自然科学基金委员会, 青年科学基金项目 (C类)[原青年科学基金项目], 面向非结构化文本数据的开放域知识图谱构建方法研究, 2023-01-01 至 2025-12-31. <span class="cas-badge">已结题</span></span></li>
+    <li class="extra-grants-hosted" style="display:none;"><span style="font-size:16px">国家自然科学基金委员会, 面上项目, 62372068, 面向农业领域的大规模知识图谱补全关键技术研究, 2024-01-01 至 2027-12-31, 50万元.</span></li>
+    <li class="extra-grants-hosted" style="display:none;"><span style="font-size:16px">重庆市科学技术局, 重庆市技术创新与应用发展专项 (重点项目), 知识图谱驱动的智慧农业关键技术研究与应用, 2023-07-01 至 2026-06-30, 30万元.</span></li>
   </ul>
 </div>
+
+<div style="text-align: center; margin-top: 6px;">
+  <a href="#" id="toggle-grants-hosted" style="font-size: 14px; color: #0066cc; text-decoration: underline; cursor: pointer;">Show more... <span id="grants-hosted-arrow" style="display: inline-block; transition: transform 0.2s;">></span></a>
+</div>
+
+<script>
+  const toggleGrantsHosted = document.getElementById('toggle-grants-hosted');
+  const grantsHostedArrow = document.getElementById('grants-hosted-arrow');
+  const extraGrantsHosted = document.querySelectorAll('.extra-grants-hosted');
+  let grantsHostedExpanded = false;
+
+  toggleGrantsHosted.addEventListener('click', function(e) {
+    e.preventDefault();
+    grantsHostedExpanded = !grantsHostedExpanded;
+
+    extraGrantsHosted.forEach(item => {
+      item.style.display = grantsHostedExpanded ? 'list-item' : 'none';
+    });
+
+    if (grantsHostedExpanded) {
+      toggleGrantsHosted.firstChild.textContent = 'Hide';
+      grantsHostedArrow.style.transform = 'rotate(180deg)';
+    } else {
+      toggleGrantsHosted.firstChild.textContent = 'Show more...';
+      grantsHostedArrow.style.transform = 'rotate(0deg)';
+    }
+  });
+</script>
 
 
 **参与项目**
 
 <div style="text-align: justify; text-indent: -1.25em;">
-  <!-- 默认显示 -->
   <ul style="list-style-position: inside;">
     <li><span style="font-size:16px">2025年度重庆市自然科学基金创新发展联合基金 (市教委)项目, 高等教育领域大模型关键技术研究, 2025-12-01 至 2028-12-31.</span></li>
     <li><span style="font-size:16px">国家自然科学基金委员会, 重点项目, 62132019, 边缘侧大数据计算基础理论与技术, 2022-01-01 至 2026-12-31, 298万元</span></li>
     <li><span style="font-size:16px">国家自然科学基金委员会, 重大研究计划, 92367104, 工业互联网生成式人工智能方法与关键技术, 2024-01-01 至 2026-12-31, 80万元</span></li>
     <li><span style="font-size:16px">国家自然科学基金委员会, 重大研究计划, 92367104, 工业互联网生成式人工智能方法与关键技术, 2024-01-01 至 2026-12-31, 80万元</span></li>
+    <li class="extra-grants-participated" style="display:none;"><span style="font-size:16px">国家自然科学基金委员会, 重大研究计划, 92267104, 面向农业大数据的智能信息抽取与知识发现, 2023-01-01 至 2025-12-31, 60万元.</span></li>
+    <li class="extra-grants-participated" style="display:none;"><span style="font-size:16px">重庆市科学技术局, 2021年度重庆市自然科学基金 (重点项目), 面向边缘计算的联邦学习优化技术研究, 2021-09-01 至 2024-08-31, 20万元.</span></li>
+    <li class="extra-grants-participated" style="display:none;"><span style="font-size:16px">教育部人文社会科学研究项目, 基于知识图谱的农业信息资源组织与语义检索关键技术研究, 2020-01-01 至 2022-12-31, 10万元.</span></li>
   </ul>
-
-  <!-- 隐藏部分 -->
-
 </div>
+
+<div style="text-align: center; margin-top: 6px;">
+  <a href="#" id="toggle-grants-participated" style="font-size: 14px; color: #0066cc; text-decoration: underline; cursor: pointer;">Show more... <span id="grants-participated-arrow" style="display: inline-block; transition: transform 0.2s;">></span></a>
+</div>
+
+<script>
+  const toggleGrantsParticipated = document.getElementById('toggle-grants-participated');
+  const grantsParticipatedArrow = document.getElementById('grants-participated-arrow');
+  const extraGrantsParticipated = document.querySelectorAll('.extra-grants-participated');
+  let grantsParticipatedExpanded = false;
+
+  toggleGrantsParticipated.addEventListener('click', function(e) {
+    e.preventDefault();
+    grantsParticipatedExpanded = !grantsParticipatedExpanded;
+
+    extraGrantsParticipated.forEach(item => {
+      item.style.display = grantsParticipatedExpanded ? 'list-item' : 'none';
+    });
+
+    if (grantsParticipatedExpanded) {
+      toggleGrantsParticipated.firstChild.textContent = 'Hide';
+      grantsParticipatedArrow.style.transform = 'rotate(180deg)';
+    } else {
+      toggleGrantsParticipated.firstChild.textContent = 'Show more...';
+      grantsParticipatedArrow.style.transform = 'rotate(0deg)';
+    }
+  });
+</script>
 
 ## 💼 Services {#services}
 
@@ -1030,11 +1087,7 @@ redirect_from:
 </ul>
 
 <div style="text-align: center; margin-top: 6px;">
-  <a href="#" id="toggle-services"
-     style="font-size: 14px; color: #0066cc; text-decoration: underline; cursor: pointer;">
-    Show more... <span id="services-arrow"
-      style="display: inline-block; transition: transform 0.2s;">></span>
-  </a>
+  <a href="#" id="toggle-services" style="font-size: 14px; color: #0066cc; text-decoration: underline; cursor: pointer;">Show more... <span id="services-arrow" style="display: inline-block; transition: transform 0.2s;">></span></a>
 </div>
 
 <script>
