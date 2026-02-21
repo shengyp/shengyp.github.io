@@ -62,12 +62,12 @@ redirect_from:
     <td style="border: none; padding: 8px;">We are actively maintaining the paper list of <a href="https://github.com/shengyp/Recipe-Generator" target="_blank" style="text-decoration: none">Recipe-Generator</a>. Welcome to star, fork, and contribute.</td>
   </tr>
   <tr style="border: none;">
-    <td style="border: none; padding: 8px;">🎉 2025.11</td>
-    <td style="border: none; padding: 8px;">One project I participated was granted by the <strong>Joint Funds of the National Natural Science Foundation of China</strong>.</td>
+    <td style="border: none; padding: 8px;">🎉 2026.01</td>
+    <td style="border: none; padding: 8px;">The National Natural Science Foundation of China (NNSFC) has become a crucial benchmark for evaluating the research output of university researchers. We are actively maintaining resources related to the <a href="https://github.com/shengyp/NNSFC" target="_blank" style="text-decoration: none">NNSFC</a>. Welcome to star, fork, and contribute.</td>
   </tr>
   <tr style="border: none;">
-    <td style="border: none; padding: 8px;">🎉 2025.11</td>
-    <td style="border: none; padding: 8px;">My co-author's paper  <a href="https://ieeexplore.ieee.org/document/11268968" target="_blank" style="text-decoration: none">FedQuad</a> about activation quantization for federated fine-tuning accepted by <strong>IEEE TMC</strong>.</td>
+    <td style="border: none; padding: 8px;">🎉 2025.12</td>
+    <td style="border: none; padding: 8px;">We are actively collecting and updating <a href="https://github.com/shengyp/Top-Tier-Conference-Achievements-Report" target="_blank" style="text-decoration: none">reports</a> on the research achievements published by various research teams at top-tier conferences.</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2025.10</td>
@@ -607,6 +607,7 @@ redirect_from:
     <li><span style="font-size:16px">重庆市教育委员会, 2024年度市教委科学技术研究计划 (重点项目), 低碳效视域下的农作物知识图谱构建关键技术研究, 2024-06-01 至 2027-06-30. </span></li>
     <li><span style="font-size:16px">重庆市科学技术局, 2022年度重庆市自然科学基金 (面上项目), 面向开放环境的知识图谱构建方法研究, 2022-09-01 至 2026-07-30. </span></li>
     <li><span style="font-size:16px">国家自然科学基金委员会, 青年科学基金项目 (C类)[原青年科学基金项目], 面向非结构化文本数据的开放域知识图谱构建方法研究, 2023-01-01 至 2025-12-31. <span class="cas-badge">已结题</span></span></li>
+  <!-- 隐藏部分 -->
     <li class="extra-grants-hosted" style="display:none;"><span style="font-size:16px">国家自然科学基金委员会, 面上项目, 62372068, 面向农业领域的大规模知识图谱补全关键技术研究, 2024-01-01 至 2027-12-31, 50万元.</span></li>
     <li class="extra-grants-hosted" style="display:none;"><span style="font-size:16px">重庆市科学技术局, 重庆市技术创新与应用发展专项 (重点项目), 知识图谱驱动的智慧农业关键技术研究与应用, 2023-07-01 至 2026-06-30, 30万元.</span></li>
   </ul>
@@ -649,6 +650,7 @@ redirect_from:
     <li><span style="font-size:16px">国家自然科学基金委员会, 重点项目, 62132019, 边缘侧大数据计算基础理论与技术, 2022-01-01 至 2026-12-31, 298万元</span></li>
     <li><span style="font-size:16px">国家自然科学基金委员会, 重大研究计划, 92367104, 工业互联网生成式人工智能方法与关键技术, 2024-01-01 至 2026-12-31, 80万元</span></li>
     <li><span style="font-size:16px">国家自然科学基金委员会, 重大研究计划, 92367104, 工业互联网生成式人工智能方法与关键技术, 2024-01-01 至 2026-12-31, 80万元</span></li>
+  <!-- 隐藏部分 -->
     <li class="extra-grants-participated" style="display:none;"><span style="font-size:16px">国家自然科学基金委员会, 重大研究计划, 92267104, 面向农业大数据的智能信息抽取与知识发现, 2023-01-01 至 2025-12-31, 60万元.</span></li>
     <li class="extra-grants-participated" style="display:none;"><span style="font-size:16px">重庆市科学技术局, 2021年度重庆市自然科学基金 (重点项目), 面向边缘计算的联邦学习优化技术研究, 2021-09-01 至 2024-08-31, 20万元.</span></li>
     <li class="extra-grants-participated" style="display:none;"><span style="font-size:16px">教育部人文社会科学研究项目, 基于知识图谱的农业信息资源组织与语义检索关键技术研究, 2020-01-01 至 2022-12-31, 10万元.</span></li>
@@ -696,6 +698,7 @@ redirect_from:
       <li><strong>Area Chair</strong>, The 2026 International Joint Conference on Neural Networks (<a href="https://attend.ieee.org/wcci-2026/ijcnn-2026-topics/" target="_blank" style="text-decoration: none">IJCNN 2026</a>), MECC Maastricht, the Netherlands, June 21st-26th, 2026.</li>
       <li><strong>Area Chair</strong>, China Conference on Knowledge Graph and Semantic Computing (<a href="https://sigkg.cn/ccks2026/" target="_blank" style="text-decoration: none">CCKS 2026</a>), Xian, China, August 21st-23rd, 2026.</li>
       <li><strong>Area Chair</strong>, The 2025 International Joint Conference on Neural Networks (<a href="https://2025.ijcnn.org/" target="_blank" style="text-decoration: none">IJCNN 2025</a>), Rome, Italy, June 30-July 5, 2025.</li>
+  <!-- 隐藏部分 -->
 <!-- 2026.01.07 收到PC邀请 -->
       <li class="extra-services" style="display:none;"><strong>PC Member</strong>, The 10th APWeb-WAIM Joint International Conference on Web and Big Data (<a href="https://conferences.sigappfr.org/APWEB2026/" target="_blank" style="text-decoration: none">APWeb-WAIM 2026</a>), Danang, Vietnam, September 7th-9th, 2026
       </li>
@@ -1044,46 +1047,6 @@ redirect_from:
 <!-- \item {计算机测量与控制} -->
       <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, Computer Measurement & Control (<a href="http://www.jsjclykz.com/ch/index.aspx" target="_blank" style="text-decoration: none">CMC</a>)
       </li>
-  <!-- 隐藏部分 -->
-  <li class="extra-services" style="display:none;">
-    IEEE Transactions on Big Data
-  </li>
-  <li class="extra-services" style="display:none;">
-    IEEE Transactions on Network and Service Management
-  </li>
-  <li class="extra-services" style="display:none;">
-    IEEE Transactions on Vehicular Technology
-  </li>
-  <li class="extra-services" style="display:none;">
-    IEEE Transactions on Green Communications and Networking
-  </li>
-  <li class="extra-services" style="display:none;">
-    IEEE Transactions on Artificial Intelligence
-  </li>
-  <li class="extra-services" style="display:none;">IEEE Internet of Things Journal</li>
-  <li class="extra-services" style="display:none;">
-    Future Generation Computer Systems
-  </li>
-  <li class="extra-services" style="display:none;">
-    Engineering Applications of Artificial Intelligence
-  </li>
-  <li class="extra-services" style="display:none;">
-    IEEE International Conference on Peer-to-Peer Computing
-  </li>
-  <li class="extra-services" style="display:none;">
-    IEEE International Conference on Cloud Computing
-  </li>
-  <li class="extra-services" style="display:none;">
-    The Journal of Supercomputing
-  </li>
-  <li class="extra-services" style="display:none;">
-    IEEE Open Journal of the Communications Society
-  </li>
-  <li class="extra-services" style="display:none;">IEEE Access</li>
-  <li class="extra-services" style="display:none;">Internet of Things</li>
-  <li class="extra-services" style="display:none;">Scientific Reports</li>
-  <li class="extra-services" style="display:none;">Sensors</li>
-
 </ul>
 
 <div style="text-align: center; margin-top: 6px;">
