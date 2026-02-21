@@ -63,11 +63,15 @@ redirect_from:
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2026.01</td>
-    <td style="border: none; padding: 8px;">The National Natural Science Foundation of China (NNSFC) has become a crucial benchmark for evaluating the research output of university researchers. We are actively maintaining resources related to the <a href="https://github.com/shengyp/NNSFC" target="_blank" style="text-decoration: none">NNSFC</a>. Welcome to star, fork, and contribute.</td>
+    <td style="border: none; padding: 8px;">The National Natural Science Foundation of China (NNSFC) has become a crucial benchmark for evaluating the research output of university researchers. We are actively maintaining <a href="https://github.com/shengyp/NNSFC" target="_blank" style="text-decoration: none">resources</a> related to the NNSFC. Welcome to star, fork, and contribute.</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2025.12</td>
-    <td style="border: none; padding: 8px;">We are actively collecting and updating <a href="https://github.com/shengyp/Top-Tier-Conference-Achievements-Report" target="_blank" style="text-decoration: none">reports</a> on the research achievements published by various research teams at top-tier conferences.</td>
+    <td style="border: none; padding: 8px;">We are actively collecting and updating reports on the research achievements published by various research teams at <a href="https://github.com/shengyp/Top-Tier-Conference-Achievements-Report" target="_blank" style="text-decoration: none">top-tier conferences</a>.</td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none; padding: 8px;">🎉 2025.11</td>
+    <td style="border: none; padding: 8px;">We are actively collecting and updating reports on <a href="https://github.com/shengyp/AITrend/" target="_blank" style="text-decoration: none">AI Trends</a> from both academia and industry.</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2025.10</td>
@@ -647,9 +651,9 @@ redirect_from:
 <div style="text-align: justify; text-indent: -1.25em;">
   <ul style="list-style-position: inside;">
     <li><span style="font-size:16px">2025年度重庆市自然科学基金创新发展联合基金 (市教委)项目, 高等教育领域大模型关键技术研究, 2025-12-01 至 2028-12-31.</span></li>
-    <li><span style="font-size:16px">国家自然科学基金委员会, 重点项目, 62132019, 边缘侧大数据计算基础理论与技术, 2022-01-01 至 2026-12-31, 298万元</span></li>
-    <li><span style="font-size:16px">国家自然科学基金委员会, 重大研究计划, 92367104, 工业互联网生成式人工智能方法与关键技术, 2024-01-01 至 2026-12-31, 80万元</span></li>
-    <li><span style="font-size:16px">国家自然科学基金委员会, 重大研究计划, 92367104, 工业互联网生成式人工智能方法与关键技术, 2024-01-01 至 2026-12-31, 80万元</span></li>
+    <li><span style="font-size:16px">国家自然科学基金委员会, 面上项目, 62132019, 边缘侧大数据计算基础理论与技术, 2022-01-01 至 2026-12-31, 298万元</span></li>
+    <li><span style="font-size:16px">国家自然科学基金委员会, 面上项目, 92367104, 工业互联网生成式人工智能方法与关键技术, 2024-01-01 至 2026-12-31, 80万元</span></li>
+    <li><span style="font-size:16px">国家自然科学基金委员会, 面上项目, 92367104, 工业互联网生成式人工智能方法与关键技术, 2024-01-01 至 2026-12-31, 80万元</span></li>
   <!-- 隐藏部分 -->
     <li class="extra-grants-participated" style="display:none;"><span style="font-size:16px">国家自然科学基金委员会, 重大研究计划, 92267104, 面向农业大数据的智能信息抽取与知识发现, 2023-01-01 至 2025-12-31, 60万元.</span></li>
     <li class="extra-grants-participated" style="display:none;"><span style="font-size:16px">重庆市科学技术局, 2021年度重庆市自然科学基金 (重点项目), 面向边缘计算的联邦学习优化技术研究, 2021-09-01 至 2024-08-31, 20万元.</span></li>
@@ -700,6 +704,7 @@ redirect_from:
       <li><strong>Area Chair</strong>, The 2025 International Joint Conference on Neural Networks (<a href="https://2025.ijcnn.org/" target="_blank" style="text-decoration: none">IJCNN 2025</a>), Rome, Italy, June 30-July 5, 2025.</li>
   <!-- 隐藏部分 -->
 <!-- 2026.01.07 收到PC邀请 -->
+      <li class="extra-services" style="display:none;"><strong>PC Member</strong>, The 34th ACM International Conference on Multimedia (<a href="https://2026.acmmm.org/index.html" target="_blank" style="text-decoration: none">ACMMM 2026</a>), Rio de Janeiro, Brazil, November 10th-14th, 2026.</li>
       <li class="extra-services" style="display:none;"><strong>PC Member</strong>, The 10th APWeb-WAIM Joint International Conference on Web and Big Data (<a href="https://conferences.sigappfr.org/APWEB2026/" target="_blank" style="text-decoration: none">APWeb-WAIM 2026</a>), Danang, Vietnam, September 7th-9th, 2026
       </li>
       <li class="extra-services" style="display:none;"><strong>PC Member</strong>, The Web Conference 2026 Demo Track (<a href="https://www2026.thewebconf.org/calls/demos.html" target="_blank" style="text-decoration: none">WWW 2026 Demo Track</a>), Dubai, United Arab Emirates, April 13th-17th, 2026
@@ -744,6 +749,7 @@ redirect_from:
       </li>
       <li class="extra-services" style="display:none;"><strong>PC Member</strong>, The 4th Asia Pacific Web and Web-Age Information Management Joint Conference on Web and Big Data (<a href="http://www.tjudb.cn/apwebwaim2020/node/20" target="_blank" style="text-decoration: none">APWeb-WAIM 2020</a>), Tianjin, China, August 12-14, 2020
       </li>
+      <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, The 34th ACM International Conference on Multimedia (<a href="https://2026.acmmm.org/index.html" target="_blank" style="text-decoration: none">ACMMM 2026</a>), Rio de Janeiro, Brazil, November 10th-14th, 2026.</li>
       <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, China Conference on Knowledge Graph and Semantic Computing (<a href="https://sigkg.cn/ccks2026/" target="_blank" style="text-decoration: none">CCKS 2026</a>), Xian, China, August 21st-23rd, 2026
       </li>
       <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, The 10th APWeb-WAIM Joint International Conference on Web and Big Data (<a href="https://conferences.sigappfr.org/APWEB2026/" target="_blank" style="text-decoration: none">APWeb-WAIM 2026</a>), Danang, Vietnam, September 7th-9th, 2026
