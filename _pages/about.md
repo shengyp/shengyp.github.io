@@ -54,13 +54,12 @@ redirect_from:
 
 <table id="news-table" style="border-collapse: collapse; width: 100%; border: none; font-size: 14px;">
   <tr style="border: none;">
-    <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2026.02</td>
-    <td style="border: none; padding: 8px;">We are actively maintaining the reading list for topics related to <a href="https://github.com/shengyp/LLM_Advance/" target="_blank" style="text-decoration: none">Knowledge Graphs and Deep Learning for Graphs</a>. Welcome to star, fork, and contribute.</td>
+    <td style="border: none; padding: 8px;">We are actively maintaining the paper list of <a href="https://github.com/shengyp/LLM_Advance/" target="_blank" style="text-decoration: none">LLM achievements</a>. Welcome to star, fork, and contribute.</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2026.02</td>
-    <td style="border: none; padding: 8px;">We are actively maintaining the paper list of <a href="https://github.com/shengyp/LLM_Advance/" target="_blank" style="text-decoration: none">LLM achievements</a>. Welcome to star, fork, and contribute.</td>
+    <td style="border: none; padding: 8px;">We are actively maintaining the reading list for topics related to <a href="https://github.com/shengyp/SciBooks/" target="_blank" style="text-decoration: none">Knowledge Graphs and Deep Learning for Graphs</a>. Welcome to star, fork, and contribute.</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2026.01</td>
