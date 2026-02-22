@@ -53,8 +53,6 @@ redirect_from:
 ## 📰 News {#news}
 
 <table id="news-table" style="border-collapse: collapse; width: 100%; border: none; font-size: 14px;">
-
-  
   <tr style="border: none;">
     <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2026.02</td>
