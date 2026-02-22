@@ -53,6 +53,13 @@ redirect_from:
 ## 📰 News {#news}
 
 <table id="news-table" style="border-collapse: collapse; width: 100%; border: none; font-size: 14px;">
+
+  
+  <tr style="border: none;">
+    <tr style="border: none;">
+    <td style="border: none; padding: 8px;">🎉 2026.02</td>
+    <td style="border: none; padding: 8px;">We are actively maintaining the reading list for topics related to <a href="https://github.com/shengyp/LLM_Advance/" target="_blank" style="text-decoration: none">Knowledge Graphs and Deep Learning for Graphs</a>. Welcome to star, fork, and contribute.</td>
+  </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2026.02</td>
     <td style="border: none; padding: 8px;">We are actively maintaining the paper list of <a href="https://github.com/shengyp/LLM_Advance/" target="_blank" style="text-decoration: none">LLM achievements</a>. Welcome to star, fork, and contribute.</td>
@@ -63,7 +70,7 @@ redirect_from:
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2026.01</td>
-    <td style="border: none; padding: 8px;">The National Natural Science Foundation of China (NNSFC) has become a crucial benchmark for evaluating the research output of university researchers. We are actively maintaining <a href="https://github.com/shengyp/NNSFC" target="_blank" style="text-decoration: none">resources</a> related to the NNSFC. Welcome to star, fork, and contribute.</td>
+    <td style="border: none; padding: 8px;">The National Natural Science Foundation of China (NNSFC) has become a crucial benchmark for evaluating the research output of university researchers. We are actively maintaining <a href="https://github.com/shengyp/NNSFC" target="_blank" style="text-decoration: none">NNSFC-specific resources</a>. Welcome to star, fork, and contribute.</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2025.12</td>
