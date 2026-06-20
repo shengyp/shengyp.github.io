@@ -11,7 +11,7 @@ redirect_from:
 ## 📜 About {#about}
 
 <p style="text-align: justify;">
-  <span style="font-size:16px">I am currently a lecturer at the College of Computer and Information Science, <a href="https://www.swu.edu.cn/" target="_blank">Southwest University (SU)</a>. Prior to that, I am a Research Assistant at School of Big Data and Software Engineering, <a href="https://www.cqu.edu.cn/" target="_blank">Chongqing University (CQU)</a> from Sep. 2020 to Aug. 2023. In educationally, I obtained my Ph.D. Degree in Computer Architecture from the School of Computer Science and Engineering, <a href="https://https://www.uestc.edu.cn/" target="_blank">University of Electronic Science and Technology of China (UESTC)</a> on Aug. 2020, under the supervisor of Prof. <a href="https://scholar.google.com/citations?hl=en&user=gF0H9nEAAAAJ" target="_blank">Zenglin Xu</a>. During my Ph.D. degree pursuing, I joined the Research Practicum Program of <a href="https://www.unsw.edu.au/" target="_blank">University of New South Wales (UNSW)</a>, as a joint training Ph.D. candidate working with Prof. <a href="https://www.cse.ust.hk/~weiwcs/" target="_blank">Wei Wang</a> from Oct. 2017 to Oct. 2018. Prior to that, I received my Bachelor's Degree in Network Engineering from <a href="https://www.cuit.edu.cn/" target="_blank">Chengdu University of Information Technology (CUIT)</a>, and Master's Degree in Software Engineering from UESTC in 2011 and 2014, respectively. I have published more than 50 papers in top journals and conferences, including IEEE JSAC, IEEE TMC, IEEE INFOCOM, IEEE/ACM ToN. My research interest lies in <strong>knowledge graphs</strong>, <strong>knowledge-enhanced LLM</strong>, <strong>agricultural-aware data mining and computation</strong>, <strong>food computation</strong>, and <strong>code understanding and representation</strong>.</span>
+  <span style="font-size:16px">I am currently a lecturer at the College of Computer and Information Science, <a href="https://www.swu.edu.cn/" target="_blank">Southwest University (SU)</a>. Prior to that, I am a Research Assistant at School of Big Data and Software Engineering, <a href="https://www.cqu.edu.cn/" target="_blank">Chongqing University (CQU)</a> from Sep. 2020 to Aug. 2023. In educationally, I obtained my Ph.D. Degree in Computer Architecture from the School of Computer Science and Engineering, <a href="https://https://www.uestc.edu.cn/" target="_blank">University of Electronic Science and Technology of China (UESTC)</a> on Aug. 2020, under the supervisor of Prof. <a href="https://scholar.google.com/citations?hl=en&user=gF0H9nEAAAAJ" target="_blank">Zenglin Xu</a>. During my Ph.D. degree pursuing, I joined the Research Practicum Program of <a href="https://www.unsw.edu.au/" target="_blank">University of New South Wales (UNSW)</a>, as a joint training Ph.D. candidate working with Prof. <a href="https://www.cse.ust.hk/~weiwcs/" target="_blank">Wei Wang</a> from Oct. 2017 to Oct. 2018. Prior to that, I received my Bachelor's Degree in Network Engineering from <a href="https://www.cuit.edu.cn/" target="_blank">Chengdu University of Information Technology (CUIT)</a>, and Master's Degree in Software Engineering from UESTC in 2011 and 2014, respectively. I have published more than 50 papers in top journals and conferences, including IE JSAC, IEEE TMC, IEEE INFOCOM, IEEE/ACM ToN. My research interest lies in <strong>knowledge graphs</strong>, <strong>knowledge-enhanced LLM</strong>, <strong>agricultural-aware data mining and computation</strong>, <strong>food computation</strong>, and <strong>code understanding and representation</strong>.</span>
 </p>
 
  
@@ -53,6 +53,10 @@ redirect_from:
 ## 📰 News {#news}
 
 <table id="news-table" style="border-collapse: collapse; width: 100%; border: none; font-size: 14px;">
+  <tr style="border: none;">
+    <td style="border: none; padding: 8px;">🎉 2026.05</td>
+    <td style="border: none; padding: 8px;">We are actively m.</td>
+  </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2026.02</td>
     <td style="border: none; padding: 8px;">We are actively maintaining the paper list of <a href="https://github.com/shengyp/LLM_Advance/" target="_blank" style="text-decoration: none">LLM achievements</a>. Welcome to star, fork, and contribute.</td>
@@ -101,10 +105,10 @@ redirect_from:
     <td style="border: none; padding: 8px;">🎉 2024.12</td>
     <td style="border: none; padding: 8px;">One paper <a href="https://ieeexplore.ieee.org/document/11078505" target="_blank" style="text-decoration: none">Air-FedGA</a> about federated learning via over-the-air computation accepted by <strong>IPDPS 2025</strong>.</td>
   </tr>
-  <tr style="border: none;">
+<!--   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2024.12</td>
     <td style="border: none; padding: 8px;">My co-author's paper <a href="https://ieeexplore.ieee.org/document/11044632" target="_blank" style="text-decoration: none">COACH</a> about end-cloud collaborative inference accepted by <strong>INFOCOM 2025</strong>.</td>
-  </tr>
+  </tr> -->
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2024.08</td>
     <td style="border: none; padding: 8px;">I have been granted the <strong>National Natural Science Foundation of China Youth Fund Project</strong>.</td>
@@ -153,14 +157,14 @@ redirect_from:
     <td style="border: none; padding: 8px;">🎉 2023.04</td>
     <td style="border: none; padding: 8px;">One paper <a href="https://ieeexplore.ieee.org/document/10109878" target="_blank" style="text-decoration: none">DMPS</a> about collaborative traffic measurement in SDN accepted by <strong>IEEE TNSE</strong>.</td>
   </tr>
-  <tr class="extra-news" style="display: none; border: none;">
+<!--   <tr class="extra-news" style="display: none; border: none;">
     <td style="border: none; padding: 8px;">🎉 2021.09</td>
     <td style="border: none; padding: 8px;">One paper <a href="https://ieeexplore.ieee.org/document/9562538" target="_blank" style="text-decoration: none">FedSA</a> about semi-asynchronous federated learning accepted by <strong>IEEE JSAC</strong>.</td>
-  </tr>
-  <tr class="extra-news" style="display: none; border: none;">
+  </tr> -->
+<!--   <tr class="extra-news" style="display: none; border: none;">
     <td style="border: none; padding: 8px;">🎉 2019.04</td>
     <td style="border: none; padding: 8px;">Oral presentation for <a href="https://ieeexplore.ieee.org/document/8737516" target="_blank" style="text-decoration: none">NSPA</a> about collaborative traffic measurement in SDN at <strong>INFOCOM 2019</strong>.</td>
-  </tr>
+  </tr> -->
 </table>
 
 <div style="text-align: center; margin-top: 8px;">
@@ -614,10 +618,18 @@ redirect_from:
   <ul style="list-style-position: inside;">
     <li><span style="font-size:16px">重庆市教育委员会, 2024年度市教委科学技术研究计划 (重点项目), 低碳效视域下的农作物知识图谱构建关键技术研究, 2024-06-01 至 2027-06-30. </span></li>
     <li><span style="font-size:16px">重庆市科学技术局, 2022年度重庆市自然科学基金 (面上项目), 面向开放环境的知识图谱构建方法研究, 2022-09-01 至 2026-07-30. </span></li>
-    <li><span style="font-size:16px">国家自然科学基金委员会, 青年科学基金项目 (C类)[原青年科学基金项目], 面向非结构化文本数据的开放域知识图谱构建方法研究, 2023-01-01 至 2025-12-31. <span class="cas-badge">已结题</span></span></li>
+    <li><span style="font-size:16px">国家自然科学基金委员会, 青年科学基金项目 (C类)[原青年科学基金项目], 面向非结构化文本数据的开放域知识图谱构建方法研究, 2023-01-01 至 2025-12-31.<span class="cas-badge">已结题</span></span></li>
   <!-- 隐藏部分 -->
-    <li class="extra-grants-hosted" style="display:none;"><span style="font-size:16px">国家自然科学基金委员会, 面上项目, 62372068, 面向农业领域的大规模知识图谱补全关键技术研究, 2024-01-01 至 2027-12-31, 50万元.</span></li>
-    <li class="extra-grants-hosted" style="display:none;"><span style="font-size:16px">重庆市科学技术局, 重庆市技术创新与应用发展专项 (重点项目), 知识图谱驱动的智慧农业关键技术研究与应用, 2023-07-01 至 2026-06-30, 30万元.</span></li>
+    <li class="extra-grants-hosted" style="display:none;"><span style="font-size:16px">河南省农业科学院农业信息技术研究所, 农田碳效知识图谱数据整理及软件开发, 2025-11-01 至 2026-12-31.</span></li>
+    <li class="extra-grants-hosted" style="display:none;"><span style="font-size:16px">新乡中灌智慧技术有限公司, 农田水效本体和知识图谱构建技术咨询设计研发, 2025-07-01 至 2025-12-31.<span class="cas-badge">已结题</span></span></li>
+    <li class="extra-grants-hosted" style="display:none;"><span style="font-size:16px">省部共建公共大数据国家重点实验室2024年度开放基金项目, 基于公共政治事件时态知识图谱的表示推理方法研究与应用, 2024-10-01 至 2026-10-31.</span></li>
+    <li class="extra-grants-hosted" style="display:none;"><span style="font-size:16px">西南大学科研启动项目, 面向新闻文本大数据的社会热点事件知识图谱构建与应用研究, 2024-01-01 至 2026-12-30.</span></li>
+    <li class="extra-grants-hosted" style="display:none;"><span style="font-size:16px">农业农村部黄淮海智慧农业技术重点实验室2023年度开放课题, 基于农业科学数据的农作物碳效知识图谱构建与可视化方法研究, 2023-01-01 至 2026-12-30.</span></li>
+    <li class="extra-grants-hosted" style="display:none;"><span style="font-size:16px">2022年度海南师范大学数据科学与智慧教育教育部重点实验室开放课题, 基于非结构化文本数据的开放域知识图谱构建方法研究, 2023-01-01 至 2026-12-30.</span></li>
+    <li class="extra-grants-hosted" style="display:none;"><span style="font-size:16px">烹饪科学四川省高等学校重点实验室2022开放基金项目, 基于多源食品数据的食谱知识图谱构建及其应用, 2023-01-01 至 2026-12-30.</span></li>
+    <li class="extra-grants-hosted" style="display:none;"><span style="font-size:16px">川菜工业化四川省高等学校工程研究中心开放基金项目（重点项目）, 经典川菜食谱知识图谱构建方法研究, 2022-09-01 至 2026-12-30.</span></li>
+    <li class="extra-grants-hosted" style="display:none;"><span style="font-size:16px">四川省哲学社会科学重点研究基地——川菜发展研究中心2022年度研究项目, “双碳”目标背景下的绿色食品知识图谱构建方法研究, 2022-07-01 至 2026-12-30.</span></li>
+    <li class="extra-grants-hosted" style="display:none;"><span style="font-size:16px">重庆地理信息与遥感应用中心项目, 缙云山森林灭火资源知识图谱系统构建与应用, 2022-01-01 至 2024-08-30.<span class="cas-badge">已结题</span></span></li>
   </ul>
 </div>
 
@@ -655,13 +667,17 @@ redirect_from:
 <div style="text-align: justify; text-indent: -1.25em;">
   <ul style="list-style-position: inside;">
     <li><span style="font-size:16px">2025年度重庆市自然科学基金创新发展联合基金 (市教委)项目, 高等教育领域大模型关键技术研究, 2025-12-01 至 2028-12-31.</span></li>
-    <li><span style="font-size:16px">国家自然科学基金委员会, 面上项目, 62132019, 边缘侧大数据计算基础理论与技术, 2022-01-01 至 2026-12-31, 298万元</span></li>
-    <li><span style="font-size:16px">国家自然科学基金委员会, 面上项目, 92367104, 工业互联网生成式人工智能方法与关键技术, 2024-01-01 至 2026-12-31, 80万元</span></li>
-    <li><span style="font-size:16px">国家自然科学基金委员会, 面上项目, 92367104, 工业互联网生成式人工智能方法与关键技术, 2024-01-01 至 2026-12-31, 80万元</span></li>
+    <li><span style="font-size:16px">国家自然科学基金委员会, 国家自然科学基金面上项目, 面向复杂装备运行状态预测的网络表示学习方法研究, 2024-01-01 至 2026-12-31. </span></li>
+    <li><span style="font-size:16px">国家自然科学基金委员会, 国家自然科学基金面上项目, 知识图谱不确定性计算与推理方法研究, 2024-01-01 至 2027-12-31.</span></li>
+    <li><span style="font-size:16px">国家自然科学基金委员会, 国家自然科学基金面上项目, 基于结构、语义先验知识的属性可控图像生成方法研究, 2022-01-01 至 2025-12-31.<span class="cas-badge">已结题</span></span></li>
   <!-- 隐藏部分 -->
-    <li class="extra-grants-participated" style="display:none;"><span style="font-size:16px">国家自然科学基金委员会, 重大研究计划, 92267104, 面向农业大数据的智能信息抽取与知识发现, 2023-01-01 至 2025-12-31, 60万元.</span></li>
-    <li class="extra-grants-participated" style="display:none;"><span style="font-size:16px">重庆市科学技术局, 2021年度重庆市自然科学基金 (重点项目), 面向边缘计算的联邦学习优化技术研究, 2021-09-01 至 2024-08-31, 20万元.</span></li>
-    <li class="extra-grants-participated" style="display:none;"><span style="font-size:16px">教育部人文社会科学研究项目, 基于知识图谱的农业信息资源组织与语义检索关键技术研究, 2020-01-01 至 2022-12-31, 10万元.</span></li>
+    <li class="extra-grants-participated" style="display:none;"><span style="font-size:16px">华为公司，2022年度CCF-华为胡杨林基金-软件工程专项, 面向研发数据的知识图谱构建技术研究, 2022-09-01 至 2023-11-31.<span class="cas-badge">已结题</span></span></li>
+    <li class="extra-grants-participated" style="display:none;"><span style="font-size:16px">首届卓越工程师大赛, “揭榜攻坚赛”项目, 基于知识图谱和模式识别技术在大型泵站可靠性模型及指标后评价体系中的研究, 2022-10-01 至 2023-06-31.<span class="cas-badge">优秀成果转化奖</span></span></li>
+    <li class="extra-grants-participated" style="display:none;"><span style="font-size:16px">教育部科技发展中心, 中国高校产学研创新基金（阿里云高校数字化创新专项）, 基于混合云架构的教育科研算力平台研究与实践, 2021-11-01 至 2022-11-31.<span class="cas-badge">已结题</span></span></li>
+    <li class="extra-grants-participated" style="display:none;"><span style="font-size:16px">四川省科技厅, 四川省科技创新创业苗子工程项目, 时序知识引导的知识图谱表示学习模型研究及应用, 2021-04-01 至 2022-03-31.<span class="cas-badge">已结题</span></span></li>
+    <li class="extra-grants-participated" style="display:none;"><span style="font-size:16px">重庆市医疗保障局, 重庆市医疗保障局项目（横向软课题）, 重庆市智慧医疗保障体系与模式研究, 2020-03-01 至 2020-12-31.<span class="cas-badge">已结题</span></span></li>
+    <li class="extra-grants-participated" style="display:none;"><span style="font-size:16px">国家重点研发计划项目, 基于公共语义模型的异构服务集成和业务协同关键技术研究（任务2，属于“川渝特大城市群服务集成与治理关键技术研究与应用示范项目”、“子课题3：大规模多源多主体城市群服务汇聚与治理技术”）, 2019-07-01 至 2023-06-31.<span class="cas-badge">已结题</span></span></li>
+    <li class="extra-grants-participated" style="display:none;"><span style="font-size:16px">国家留学基金委，国家建设高水平大学公派研究生项目, 大规模Is-A关系识别方法研究, 2017-10-01 至 2018-10-31.<span class="cas-badge">已结题</span></span></li>
   </ul>
 </div>
 
@@ -705,6 +721,8 @@ redirect_from:
       <li><strong>Co-Chair</strong>, The 2023 International Conference on Cyber-physical Social Intelligence (<a href="https://www.agist.org/iccsi2023/files/Accepted_Special_Sessions/S03.pdf" target="_blank" style="text-decoration: none">ICCSI 2023</a>), Xian, China, October 20th-23th, 2023.</li>
       <li><strong>Area Chair</strong>, The 2026 International Joint Conference on Neural Networks (<a href="https://attend.ieee.org/wcci-2026/ijcnn-2026-topics/" target="_blank" style="text-decoration: none">IJCNN 2026</a>), MECC Maastricht, the Netherlands, June 21st-26th, 2026.</li>
       <li><strong>Area Chair</strong>, China Conference on Knowledge Graph and Semantic Computing (<a href="https://sigkg.cn/ccks2026/" target="_blank" style="text-decoration: none">CCKS 2026</a>), Xian, China, August 21st-23rd, 2026.</li>
+      <li><strong>Area Chair</strong>, The 2027 International Joint Conference on Neural Networks (<a href="https://ijcnn.org/2027" target="_blank" style="text-decoration: none">IJCNN 2027</a>), Cape Town, South Africa, June 14th-18th, 2027.</li>
+      <li><strong>Area Chair</strong>, The 2026 International Joint Conference on Neural Networks (<a href="https://attend.ieee.org/wcci-2026/ijcnn-2026-topics/" target="_blank" style="text-decoration: none">IJCNN 2026</a>), MECC Maastricht, the Netherlands, June 21st-26th, 2026.</li>
       <li><strong>Area Chair</strong>, The 2025 International Joint Conference on Neural Networks (<a href="https://2025.ijcnn.org/" target="_blank" style="text-decoration: none">IJCNN 2025</a>), Rome, Italy, June 30-July 5, 2025.</li>
   <!-- 隐藏部分 -->
 <!-- 2026.01.07 收到PC邀请 -->
