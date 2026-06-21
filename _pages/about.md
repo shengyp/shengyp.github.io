@@ -11,7 +11,7 @@ redirect_from:
 ## 📜 About {#about}
 
 <p style="text-align: justify;">
-  <span style="font-size:16px">I am currently a lecturer at the College of Computer and Information Science, <a href="https://www.swu.edu.cn/" target="_blank">Southwest University (SU)</a>. Prior to that, I am a Research Assistant at School of Big Data and Software Engineering, <a href="https://www.cqu.edu.cn/" target="_blank">Chongqing University (CQU)</a> from Sep. 2020 to Aug. 2023. In educationally, I obtained my Ph.D. Degree in Computer Architecture from the School of Computer Science and Engineering, <a href="https://https://www.uestc.edu.cn/" target="_blank">University of Electronic Science and Technology of China (UESTC)</a> on Aug. 2020, under the supervisor of Prof. <a href="https://scholar.google.com/citations?hl=en&user=gF0H9nEAAAAJ" target="_blank">Zenglin Xu</a>. During my Ph.D. degree pursuing, I joined the Research Practicum Program of <a href="https://www.unsw.edu.au/" target="_blank">University of New South Wales (UNSW)</a>, as a joint training Ph.D. candidate working with Prof. <a href="https://www.cse.ust.hk/~weiwcs/" target="_blank">Wei Wang</a> from Oct. 2017 to Oct. 2018. Prior to that, I received my Bachelor's Degree in Network Engineering from <a href="https://www.cuit.edu.cn/" target="_blank">Chengdu University of Information Technology (CUIT)</a>, and Master's Degree in Software Engineering from UESTC in 2011 and 2014, respectively. I have published more than 50 papers in top journals and conferences, including IE JSAC, IEEE TMC, IEEE INFOCOM, IEEE/ACM ToN. My research interest lies in <strong>knowledge graphs</strong>, <strong>knowledge-enhanced LLM</strong>, <strong>agricultural-aware data mining and computation</strong>, <strong>food computation</strong>, and <strong>code understanding and representation</strong>.</span>
+  <span style="font-size:16px">I am currently a lecturer at the College of Computer and Information Science, <a href="https://www.swu.edu.cn/" target="_blank">Southwest University (SU)</a>. Prior to that, I am a Research Assistant at School of Big Data and Software Engineering, <a href="https://www.cqu.edu.cn/" target="_blank">Chongqing University (CQU)</a> from Sep. 2020 to Aug. 2023. In educationally, I obtained my Ph.D. Degree in Computer Architecture from the School of Computer Science and Engineering, <a href="https://https://www.uestc.edu.cn/" target="_blank">University of Electronic Science and Technology of China (UESTC)</a> on Aug. 2020, under the supervisor of Prof. <a href="https://scholar.google.com/citations?hl=en&user=gF0H9nEAAAAJ" target="_blank">Zenglin Xu</a>. During my Ph.D. degree pursuing, I joined the Research Practicum Program of <a href="https://www.unsw.edu.au/" target="_blank">University of New South Wales (UNSW)</a>, as a joint training Ph.D. candidate working with Prof. <a href="https://www.cse.ust.hk/~weiwcs/" target="_blank">Wei Wang</a> from Oct. 2017 to Oct. 2018. Prior to that, I received my Bachelor's Degree in Network Engineering from <a href="https://www.cuit.edu.cn/" target="_blank">Chengdu University of Information Technology (CUIT)</a>, and Master's Degree in Software Engineering from UESTC in 2011 and 2014, respectively. I have published more than 40 papers in major international conferences including ACL, IJCAI, ECML-PKDD, COLING, and journals like Information Sciences, WWW Journal, Cognitive Computation, Applied Intelligence. My research interest lies in <strong>knowledge graphs</strong>, <strong>knowledge-enhanced LLM</strong>, <strong>agricultural-aware data mining and computation</strong>, <strong>food computation</strong>, and <strong>code understanding and representation</strong>.</span>
 </p>
 
  
@@ -54,8 +54,12 @@ redirect_from:
 
 <table id="news-table" style="border-collapse: collapse; width: 100%; border: none; font-size: 14px;">
   <tr style="border: none;">
-    <td style="border: none; padding: 8px;">🎉 2026.05</td>
-    <td style="border: none; padding: 8px;">We are actively m.</td>
+    <td style="border: none; padding: 8px;">🎉 2026.06</td>
+    <td style="border: none; padding: 8px;">Three papers, including one paper <a href="https://ieeexplore.ieee.org/document/11219081" target="_blank" style="text-decoration: none">Agri-RelEx</a> about agricultural relation extraction, one paper <a href="https://ieeexplore.ieee.org/document/11219081" target="_blank" style="text-decoration: none">AgriREval</a> is about LLMs' reasoning capability on Chinese agricultural-aware QA datasets, and one paper <a href="https://ieeexplore.ieee.org/document/11219081" target="_blank" style="text-decoration: none">Agri</a> is about suicide risk detection integrating Emoji analysis, are accepted by <strong>BlockSys 2026</strong>.</td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none; padding: 8px;">🎉 2026.06</td>
+    <td style="border: none; padding: 8px;">Our Special Session <a href="https://shengyp.github.io/adma26-KnowLDA/" target="_blank" style="text-decoration: none">KnowLDA</a> has accepted by <a href="https://adma2026.github.io/" target="_blank" style="text-decoration: none">ADMA 2026</a>. Submissions are now open for papers, with a deadline of July 26, 2026.</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2026.02</td>
@@ -339,31 +343,48 @@ redirect_from:
 
     <div class="entry">
     - <strong>PerRec-Generator: An End-To-End Framework Fusing Historical User Preferences for Personalized Recipe Generation with Advanced Decoder Design and Supervised Contrastive Learning</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
-    Yingnan Wang, <strong>Yongpan Sheng</strong>*, Lirong He, Gengjie Jia, and Tao Jia<br>
+    Yingnan Wang, <strong>Yongpan Sheng</strong>*, Lirong He, and Gengjie Jia<br>
     <em>Under review</em>
+    </div>
+
+    <div class="entry">
+    - <strong>Temporal Knowledge Graph Reasoning via Jointly Modeling of Event Historical Evolution Context and Dynamic Subgraph Context</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    Lingfang Chen, <strong>Yongpan Sheng</strong>*, and Tao Jia<br>
+    <em>Under review</em>
+    </div>
+
+    <div class="entry">
+    - <strong>Integrating Emoji Analysis: A Novel Suicide Risk Detection Framework with Historical Emotional Context and Emoji-Enhanced Cues in Understanding Users’ Posts</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    Xingliang Wang, <strong>Yongpan Sheng</strong>*, Haobo Zhang, Qiuyue Fan, and Xiangwei Lai<br>
+    <em>The 8th International Conference on Blockchain, Artificial Intelligence, and Trustworthy Systems (BlockSys). Chengdu, China, July 29-31</em><span class="ccf-badge">CCF-C</span>
+    </div>
+
+    <div class="entry">
+    - <strong>Evaluating Reasoning Capability of Large Language Models on Chinese Agricultural-Aware QA Datasets: An Empirical Study</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    Jiaying Du, <strong>Yongpan Sheng</strong>*, Yujie Song, Xiangwei Lai<br>
+    <em>The 8th International Conference on Blockchain, Artificial Intelligence, and Trustworthy Systems (BlockSys). Chengdu, China, July 29-31</em><span class="ccf-badge">CCF-C</span>
     </div>
 
 
     <div class="entry">
     - <strong>Agri-RelEx: A Sentence-Level Relation Extraction Framework from Agricultural Text with Attention-Guided and Multi-Scale Graph Convolutional Network</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
-    Tangyunzhi Jiang, <strong>Yongpan Sheng</strong>*, Yiting Wang, Lirong He, Ming Liu, and Hui Zhang<br>
-    <em>Under review</em>
+    Tangyunzhi Jiang, <strong>Yongpan Sheng</strong>*, Yiting Wang, and Ming Liu<br>
+    <em>The 8th International Conference on Blockchain, Artificial Intelligence, and Trustworthy Systems (BlockSys). Chengdu, China, July 29-31</em><span class="ccf-badge">CCF-C</span>
     </div>
 
 
     <div class="entry">
+    - <strong>Enhancing Uncertain Knowledge Graph Embedding by Learning Graph Structure-Aware Context and Fused-Triple Confidence Information with an Encoder-Decoder Framework</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+      Yujie Song, <strong>Yongpan Sheng</strong>*, Lirong He, Tao Jia<br> 
+      <em>Data Intelligence (DI), 2026</em><span class="cas-badge">中科院二区</span>
+    </div>
+
+<!--     <div class="entry">
     - <strong>Agri-RelExIns: A Comprehensive Schema-Based Instruction Dataset for Agricultural-Aware Relation Extraction</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
     Jianglin Dai, Sha Hu*, Lirong He, Hui Zhang, and <strong>Yongpan Sheng</strong>*<br>
     <em>Under review</em>
     </div>
-
-
-    <div class="entry">
-    - <strong>ConLM: A Global and Emotion Coherence-Based Context Learning Model for Suicide Risk Detection</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
-    Zhuping Ding, <strong>Yongpan Sheng</strong>*, Yiran Wang, Lirong He, Ming Liu<br>
-    <em>Under review</em>
-    </div>
-
+     -->
 
 <!-- 2025 -->
     <strong>2025</strong>
@@ -372,12 +393,6 @@ redirect_from:
     Sha Hu, Jianglin Dai, Lirong He, Hui Zhang, and <strong>Yongpan Sheng</strong>*<br>
     <em>Under review</em>
     </div> -->
-
-    <div class="entry">
-    - <strong>Evaluating Reasoning Capability of Large Language Models on Chinese Agricultural-Aware Textual Datasets: A Preliminary Study</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
-    Yujie Song, <strong>Yongpan Sheng</strong>*, Lirong He, Xiangwei Lai<br>
-    <em>Under review</em>
-    </div>
 
 
     <div class="entry">
