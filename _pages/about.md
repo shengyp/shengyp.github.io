@@ -340,10 +340,15 @@ redirect_from:
     </div>
 
     <strong>2026</strong>
+    <div class="entry">
+    - <strong>Special Issue of Information Network Mining and Applications</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    <strong>Yongpan Sheng</strong>, Hao Wang, and Yixiang Fang<br>
+    <em>Arxiv</em>
+    </div>
 
     <div class="entry">
-    - <strong>PerRec-Generator. </strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
-    Lingfang Chen, <strong>Yongpan Sheng</strong>*, Lirong He, and Gengjie Jia<br>
+    - <strong>PerRec. </strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    Lingfang Chen, <strong>Yongpan Sheng</strong>*, and Lirong He<br>
     <em>Under review</em>
     </div>
 
@@ -374,29 +379,32 @@ redirect_from:
     <div class="entry">
     - <strong>Integrating Emoji Analysis: A Novel Suicide Risk Detection Framework with Historical Emotional Context and Emoji-Enhanced Cues in Understanding Users’ Posts</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
     Xingliang Wang, <strong>Yongpan Sheng</strong>*, Haobo Zhang, Qiuyue Fan, and Xiangwei Lai<br>
-    <em>The 8th International Conference on Blockchain, Artificial Intelligence, and Trustworthy Systems (BlockSys). Chengdu, China, July 29-31</em><span class="ccf-badge">CCF-C</span>
+    <em>The 8th International Conference on Blockchain, Artificial Intelligence, and Trustworthy Systems (BlockSys). Chengdu, China, July 29-31, 2026</em><span class="ccf-badge">CCF-C</span>
     </div>
 
     <div class="entry">
-    - <strong>Evaluating Reasoning Capability of Large Language Models on Chinese Agricultural-Aware QA Datasets: An Empirical Study</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    - <strong>AgriREval: Evaluating Reasoning Capability of Large Language Models on Chinese Agricultural-Aware QA Datasets: An Empirical Study</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
     Jiaying Du, <strong>Yongpan Sheng</strong>*, Yujie Song, Xiangwei Lai<br>
-    <em>The 8th International Conference on Blockchain, Artificial Intelligence, and Trustworthy Systems (BlockSys). Chengdu, China, July 29-31</em><span class="ccf-badge">CCF-C</span>
+    <em>The 8th International Conference on Blockchain, Artificial Intelligence, and Trustworthy Systems (BlockSys). Chengdu, China, July 29-31, 2026</em><span class="ccf-badge">CCF-C</span>
     </div>
-
 
     <div class="entry">
     - <strong>Agri-RelEx: A Sentence-Level Relation Extraction Framework from Agricultural Text with Attention-Guided and Multi-Scale Graph Convolutional Network</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
     Tangyunzhi Jiang, <strong>Yongpan Sheng</strong>*, Yiting Wang, and Ming Liu<br>
-    <em>The 8th International Conference on Blockchain, Artificial Intelligence, and Trustworthy Systems (BlockSys). Chengdu, China, July 29-31</em><span class="ccf-badge">CCF-C</span>
+    <em>The 8th International Conference on Blockchain, Artificial Intelligence, and Trustworthy Systems (BlockSys). Chengdu, China, July 29-31, 2026</em><span class="ccf-badge">CCF-C</span>
     </div>
 
-
     <div class="entry">
-    - <strong>Enhancing Uncertain Knowledge Graph Embedding by Learning Graph Structure-Aware Context and Fused-Triple Confidence Information with an Encoder-Decoder Framework</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
-      Yujie Song, <strong>Yongpan Sheng</strong>*, Lirong He, Tao Jia<br> 
+    - <strong>Enhancing Uncertain Knowledge Graph Embedding via Graph Structure-Aware Context and Fused-Triple Confidence Information Learning within an Encoder-Decoder Framework</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+      Yujie Song, <strong>Yongpan Sheng</strong>*, Lirong He, and Tao Jia<br> 
       <em>Data Intelligence (DI), 2026</em><span class="cas-badge">中科院二区</span>
     </div>
 
+    <div class="entry">
+    - <strong>Multi-view Attention Fusion of Heterogeneous Hypergraph with Dynamic Behavioral Profiling for Personalized Learning Resource Recommendation</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+      Tao Xie, Yan Li, <strong>Yongpan Sheng</strong>, and Jian Liao<br> 
+      <em>Under review</em>
+    </div>
 <!--     <div class="entry">
     - <strong>Agri-RelExIns: A Comprehensive Schema-Based Instruction Dataset for Agricultural-Aware Relation Extraction</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
     Jianglin Dai, Sha Hu*, Lirong He, Hui Zhang, and <strong>Yongpan Sheng</strong>*<br>
