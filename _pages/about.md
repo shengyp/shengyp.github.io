@@ -342,6 +342,18 @@ redirect_from:
     <strong>2026</strong>
 
     <div class="entry">
+    - <strong>PerRec-Generator. </strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    Lingfang Chen, <strong>Yongpan Sheng</strong>*, Lirong He, and Gengjie Jia<br>
+    <em>Under review</em>
+    </div>
+
+    <div class="entry">
+    - <strong>FeaLearner 2.0: Enhancing Suicide Risk Detection with Dual Cross-Attention Transformer Networks and Mixture of Experts</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    Qiuyue Fan, <strong>Yongpan Sheng</strong>*, Jianqiang Zhu, Xingliang Wang, and Ming Liu<br>
+    <em>Under review</em>
+    </div>
+
+    <div class="entry">
     - <strong>PerRec-Generator: An End-To-End Framework Fusing Historical User Preferences for Personalized Recipe Generation with Advanced Decoder Design and Supervised Contrastive Learning</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
     Yingnan Wang, <strong>Yongpan Sheng</strong>*, Lirong He, and Gengjie Jia<br>
     <em>Under review</em>
@@ -351,6 +363,12 @@ redirect_from:
     - <strong>Temporal Knowledge Graph Reasoning via Jointly Modeling of Event Historical Evolution Context and Dynamic Subgraph Context</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
     Lingfang Chen, <strong>Yongpan Sheng</strong>*, and Tao Jia<br>
     <em>Under review</em>
+    </div>
+
+    <div class="entry">
+    - <strong>RG-ASATL: Document-Level Relation Extraction with Relation-Guided Encoding and Asymmetric Adaptive Threshold Loss</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    Cong Jin, <strong>Yongpan Sheng</strong>*, and Lirong He<br>
+    <em>Expert Systems With Applications</em><span class="cas-badge">中科院一区</span>
     </div>
 
     <div class="entry">
