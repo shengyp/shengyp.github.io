@@ -11,7 +11,7 @@ redirect_from:
 ## 📜 About {#about}
 
 <p style="text-align: justify;">
-  <span style="font-size:16px">I am currently a lecturer at the College of Computer and Information Science, <a href="https://www.swu.edu.cn/" target="_blank">Southwest University (SU)</a>. Prior to that, I am a Research Assistant at School of Big Data and Software Engineering, <a href="https://www.cqu.edu.cn/" target="_blank">Chongqing University (CQU)</a> from Sep. 2020 to Aug. 2023. In educationally, I obtained my Ph.D. Degree in Computer Architecture from the School of Computer Science and Engineering, <a href="https://https://www.uestc.edu.cn/" target="_blank">University of Electronic Science and Technology of China (UESTC)</a> on Aug. 2020, under the supervisor of Prof. <a href="https://scholar.google.com/citations?hl=en&user=gF0H9nEAAAAJ" target="_blank">Zenglin Xu</a>. During my Ph.D. degree pursuing, I joined the Research Practicum Program of <a href="https://www.unsw.edu.au/" target="_blank">University of New South Wales (UNSW)</a>, as a joint training Ph.D. candidate working with Prof. <a href="https://www.cse.ust.hk/~weiwcs/" target="_blank">Wei Wang</a> from Oct. 2017 to Oct. 2018. Prior to that, I received my Bachelor's Degree in Network Engineering from <a href="https://www.cuit.edu.cn/" target="_blank">Chengdu University of Information Technology (CUIT)</a>, and Master's Degree in Software Engineering from UESTC in 2011 and 2014, respectively. I have published more than 40 papers in major international conferences including ACL, IJCAI, ECML-PKDD, COLING, and journals like Information Sciences, WWW Journal, Cognitive Computation, Applied Intelligence. My research interest lies in <strong>knowledge graphs</strong>, <strong>knowledge-enhanced LLM</strong>, <strong>agricultural-aware data mining and computation</strong>, <strong>food computation</strong>, and <strong>code understanding and representation</strong>.</span>
+  <span style="font-size:16px">I am is currently a Lecturer at the College of Computer and Information Science, <a href="https://www.swu.edu.cn/" target="_blank">Southwest University (SU)</a>. Previously, he served as a Research Assistant at the School of Big Data and Software Engineering. In educationally, I obtained my Ph.D. degree in Computer Architecture from the School of Computer Science and Engineering at the <a href="https://www.uestc.edu.cn/" target="_blank">University of Electronic Science and Technology of China (UESTC)</a>, under the supervisor of Prof. <a href="https://scholar.google.com/citations?hl=en&user=gF0H9nEAAAAJ" target="_blank">Zenglin Xu</a>. During my Ph.D. degree pursuing, I joined the Research Practicum Program of <a href="https://www.unsw.edu.au/" target="_blank">University of New South Wales (UNSW)</a>, as a joint training Ph.D. candidate working with Prof. <a href="https://www.cse.ust.hk/~weiwcs/" target="_blank">Wei Wang</a>. Prior to that, I obtained my Bachelor's degree in Network Engineering from <a href="https://www.cuit.edu.cn/" target="_blank">Chengdu University of Information Technology (CUIT)</a> and the Master's degree in Software Engineerng from UESTC in 2011 and 2014, respectively. My research interest lies in <strong>textual data mining</strong>, <strong>knowledge graphs</strong>, <strong>knowledge-enhanced LLMs</strong>, <strong>agricultural-aware data mining and computation</strong>, <strong>food computation</strong>, and <strong>code understanding and representation</strong>. I have published over 50 papers in leading journals and conferences such as WWW Journal, Cognitive Computation, Expert Systems with Applications, ACL, COLING, and ECML-PKDD, with over 767 citations to date. He has also served as an Area Chair for CCKS 2026 and IJCNN (2025–2027).</span>
 </p>
 
  
@@ -55,7 +55,7 @@ redirect_from:
 <table id="news-table" style="border-collapse: collapse; width: 100%; border: none; font-size: 14px;">
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2026.06</td>
-    <td style="border: none; padding: 8px;">Three papers, including one paper <a href="https://ieeexplore.ieee.org/document/11219081" target="_blank" style="text-decoration: none">Agri-RelEx</a> about agricultural relation extraction, one paper <a href="https://ieeexplore.ieee.org/document/11219081" target="_blank" style="text-decoration: none">AgriREval</a> is about LLMs' reasoning capability on Chinese agricultural-aware QA datasets, and one paper <a href="https://ieeexplore.ieee.org/document/11219081" target="_blank" style="text-decoration: none">Agri</a> is about suicide risk detection integrating Emoji analysis, are accepted by <strong>BlockSys 2026</strong>.</td>
+    <td style="border: none; padding: 8px;">Two papers, including one paper <a href="https://ieeexplore.ieee.org/document/11219081" target="_blank" style="text-decoration: none">RCEval-AgriQA</a> is about LLMs' reasoning capability on Chinese agricultural-aware QA datasets, and one paper <a href="https://ieeexplore.ieee.org/document/11219081" target="_blank" style="text-decoration: none">Agri</a> is about suicide risk detection integrating Emoji analysis, are accepted by <strong>BlockSys 2026</strong>.</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2026.06</td>
@@ -340,6 +340,37 @@ redirect_from:
     </div>
 
     <strong>2026</strong>
+<!--     <div class="entry">
+    - <strong>Agri-RelExIns: A Comprehensive Schema-Based Instruction Dataset for Agricultural-Aware Relation Extraction</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    Jianglin Dai, Sha Hu*, Lirong He, Hui Zhang, and <strong>Yongpan Sheng</strong>*<br>
+    <em>Under review</em>
+    </div>
+     -->
+
+<!-- <div class="entry">    
+    - <strong>AKG-Builder 1.0: A Carbon-Assessed Agricultural Knowledge Graph Management System and Its Applications</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    <strong>Yongpan Sheng</strong>*, and Lirong He<br>
+    <em>Under review</em>
+    </div>
+
+    <div class="entry">
+    - <strong>PerRec. </strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    Yingnan Wang, <strong>Yongpan Sheng</strong>*, and Lirong He<br>
+    <em>Under review</em>
+    </div>
+
+    <div class="entry">
+    - <strong>Retrieval-Augmented Evidence Reranking for Temporal Knowledge Graph Reasoning</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    Lizhu Xiong, <strong>Yongpan Sheng</strong>*, and Lirong He<br>
+    <em>Under review</em>
+    </div>
+
+    <div class="entry">
+    - <strong>Uncertainty-Aware Knowledge Graph Representation Learning via BERT Enhancement and Clustering-Driven Knowledge Compensation</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    Yujie Song, <strong>Yongpan Sheng</strong>*, and Lirong He<br>
+    <em>Under review</em>
+    </div>
+
     <div class="entry">
     - <strong>Special Issue of Information Network Mining and Applications</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
     <strong>Yongpan Sheng</strong>, Hao Wang, and Yixiang Fang<br>
@@ -353,26 +384,104 @@ redirect_from:
     </div>
 
     <div class="entry">
+    - <strong>Geo: Knowledge Graph System for Forest Protection Scenario</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    <strong>Yongpan Sheng</strong>*, and Lirong He<br>
+    <em>IEEE International Conference on Data Mining (ICDM)</em>
+    </div>
+
+    <div class="entry">
+    - <strong>A Cross-Modal Recipe Retrieval Model Using Quaternion Embeddings in the Complex Plane</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    Yingnan Wang, <strong>Yongpan Sheng</strong>*, and Lirong He<br>
+    <em>Under review</em>
+    </div>
+
+    <div class="entry">
+    - <strong>PR-Generator: An End-To-End Framework Fusing Historical User Preferences for Personalized Recipe Generation with Advanced Decoder Design and Supervised Contrastive Learning</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    Yingnan Wang, <strong>Yongpan Sheng</strong>*, Lirong He, and Gengjie Jia<br>
+    <em>Under review</em>
+    </div>
+
+    <div class="entry">
+    - <strong>CAKG: A Novel Carbon-Assessed Crop Knowledge Graph Construction in Agricultural Domain for Carbon Effects Analytics</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    <strong>Yongpan Sheng</strong>*, and Lirong He<br>
+    <em>The 4th Workshop on Knowledge Graphs and Model-driven Systems Engineering</em>
+    </div>
+
+    <div class="entry">
+    - <strong>GSTData-Viz: Visualizing Geographic Spatio-Temporal Data Semantics from Knowledge Graph in Forest Protection Scenarios</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    <strong>Yongpan Sheng</strong>*, and Lirong He<br>
+    <em>The 4th Workshop on Knowledge Graphs and Model-driven Systems Engineering</em>
+    </div>
+
+    <div class="entry">
+    - <strong>Agri-RelExIns: A Comprehensive Schema-Based Instruction Dataset for Agricultural-Aware Relation Extraction</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    Sha Hu, Zhu Dai, and <strong>Yongpan Sheng</strong>*<br>
+    <em>Under review</em>
+    </div>
+
+    <div class="entry">
+    - <strong>A Rigorously Designed Framework for Legal Hallucination Classification and Evaluation in Large Language Models: A Contradiction Perspective</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    Jiajian Dai, <strong>Yongpan Sheng</strong>*, and Lirong He<br>
+    <em>Under review</em>
+    </div>
+
+    <div class="entry">
+    - <strong>Enhancing Temporal Knowledge Graph Reasoning by Incorporating Transformer Hawkes Process and Temporal Logic Rules in the Representation Learning Framework</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    Zhuping Ding, <strong>Yongpan Sheng</strong>*, and Lirong He<br>
+    <em>Under review</em>
+    </div>
+
+    <div class="entry">
+    - <strong>Agri-RelEx: A Sentence-Level Relation Extraction Framework from Agricultural Text with Attention-Guided and Multi-Scale Graph Convolutional Network</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    Tangyunzhi Jiang, <strong>Yongpan Sheng</strong>*, Yiting Wang, and Ming Liu<br>
+    <em>The 8th International Conference on Blockchain, Artificial Intelligence, and Trustworthy Systems (BlockSys). Chengdu, China, July 29-31, 2026</em><span class="ccf-badge">CCF-C</span>
+    </div>
+
+    <div class="entry">
+    - <strong>VIS4SRD: A Visual Interactive System with Sentiment Analysis for Suicide Risk Detection</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    Haobo Zhang, Haowen Gan, Xingliang Wang, Jianqiang Zhu, Ming Liu, and <strong>Yongpan Sheng</strong>*<br>
+    <em>Under review</em>
+    </div>
+
+    <div class="entry">
+    - <strong>AgriREV: An Agricultural Relation Extraction and Verification System by Integrating Large Language Models and Human-in-the-Loop</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    Jianglin Dai, <strong>Yongpan Sheng</strong>*, Zhongdong Huang, and Sha Hu<br>
+    <em>The 5th Asia-Pacific Chapter of the Association for Computational Linguistics & the 15th International Joint Conference on Natural Language Processing (AACL-IJCNLP)</em>
+    </div> -->
+
+    <div class="entry">
     - <strong>FeaLearner 2.0: Enhancing Suicide Risk Detection with Dual Cross-Attention Transformer Networks and Mixture of Experts</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
     Qiuyue Fan, <strong>Yongpan Sheng</strong>*, Jianqiang Zhu, Xingliang Wang, and Ming Liu<br>
     <em>Under review</em>
     </div>
 
     <div class="entry">
-    - <strong>PerRec-Generator: An End-To-End Framework Fusing Historical User Preferences for Personalized Recipe Generation with Advanced Decoder Design and Supervised Contrastive Learning</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
-    Yingnan Wang, <strong>Yongpan Sheng</strong>*, Lirong He, and Gengjie Jia<br>
+    - <strong>Temporal Knowledge Graph Completion by Modeling Transitivity with Relation Rules in Knowledge Graph Embedding</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    Lizhu Xiong, <strong>Yongpan Sheng</strong>*, and Lirong He<br>
     <em>Under review</em>
     </div>
 
     <div class="entry">
     - <strong>Temporal Knowledge Graph Reasoning via Jointly Modeling of Event Historical Evolution Context and Dynamic Subgraph Context</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
-    Lingfang Chen, <strong>Yongpan Sheng</strong>*, and Tao Jia<br>
+    Lingfang Chen, <strong>Yongpan Sheng</strong>*, Hongyan Ouyang, Lirong He, and Ming Liu<br>
     <em>Under review</em>
     </div>
 
     <div class="entry">
-    - <strong>RG-ASATL: Document-Level Relation Extraction with Relation-Guided Encoding and Asymmetric Adaptive Threshold Loss</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
-    Cong Jin, <strong>Yongpan Sheng</strong>*, and Lirong He<br>
+    - <strong>Nutr20K: A Nutrition-Centric Question Answering Dataset for Personalized Recipe Generation</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    Yiting Wang, <strong>Yongpan Sheng</strong>*, Tangyunzhi Jiang, and Yan Zhang<br>
+    <em>The 23rd CCF China Conference on Web Information Systems and Applications (WISA 2026), August 7-9, 2026</em><span class="ccf-badge">CCF-C</span>
+    </div>
+
+    <div class="entry">
+    - <strong>TemporalEHR-QA: A Benchmark for Temporally Grounded Question Answering over Longitudinal Clinical Notes</strong> [<strong><a href="https://openreview.net/forum?id=OzLtC2oOsg#discussion" target="_blank">Link</a></strong>][<strong><a href="https://openreview.net/forum?id=OzLtC2oOsg#discussion" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    Quang An Quoc Tran, Huy Quoc To, <strong>Yongpan Sheng</strong>, Rongsheng Li, and Ming Liu*<br>
+    <em>Under review</em>
+    </div>
+
+    <div class="entry">
+    - <strong>RG-ASATL: Document-Level Relation Extraction with Relation-Guided Encoding and Asymmetric Adaptive Threshold Loss</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href=" https://github.com/HermitAuditora/RG-ASATL" target="_blank">CODE</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    Cong Jin, <strong>Yongpan Sheng</strong>*, Lirong He, and Ya Li<br>
     <em>Expert Systems With Applications</em><span class="cas-badge">中科院一区</span>
     </div>
 
@@ -383,14 +492,8 @@ redirect_from:
     </div>
 
     <div class="entry">
-    - <strong>AgriREval: Evaluating Reasoning Capability of Large Language Models on Chinese Agricultural-Aware QA Datasets: An Empirical Study</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
-    Jiaying Du, <strong>Yongpan Sheng</strong>*, Yujie Song, Xiangwei Lai<br>
-    <em>The 8th International Conference on Blockchain, Artificial Intelligence, and Trustworthy Systems (BlockSys). Chengdu, China, July 29-31, 2026</em><span class="ccf-badge">CCF-C</span>
-    </div>
-
-    <div class="entry">
-    - <strong>Agri-RelEx: A Sentence-Level Relation Extraction Framework from Agricultural Text with Attention-Guided and Multi-Scale Graph Convolutional Network</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
-    Tangyunzhi Jiang, <strong>Yongpan Sheng</strong>*, Yiting Wang, and Ming Liu<br>
+    - <strong>RCEval-AgriQA: Evaluating Reasoning Capability of Large Language Models on Chinese Agricultural-Aware QA Datasets: An Empirical Study</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    Jiaying Du, <strong>Yongpan Sheng</strong>*, Ying Wang, Yujie Song, and Xiangwei Lai<br>
     <em>The 8th International Conference on Blockchain, Artificial Intelligence, and Trustworthy Systems (BlockSys). Chengdu, China, July 29-31, 2026</em><span class="ccf-badge">CCF-C</span>
     </div>
 
@@ -405,12 +508,6 @@ redirect_from:
       Tao Xie, Yan Li, <strong>Yongpan Sheng</strong>, and Jian Liao<br> 
       <em>Under review</em>
     </div>
-<!--     <div class="entry">
-    - <strong>Agri-RelExIns: A Comprehensive Schema-Based Instruction Dataset for Agricultural-Aware Relation Extraction</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
-    Jianglin Dai, Sha Hu*, Lirong He, Hui Zhang, and <strong>Yongpan Sheng</strong>*<br>
-    <em>Under review</em>
-    </div>
-     -->
 
 <!-- 2025 -->
     <strong>2025</strong>
@@ -541,7 +638,7 @@ redirect_from:
     <div class="entry">
     - <strong>A Qos-driven Approach for Cloud Service Addressing Attribute of Security</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
     Han Xu*, Xiwei Qiu, <strong>Yongpan Sheng</strong>, Liang Luo, and Yanping Xiang*<br>
-    <em>IEEE Access (IEEE Access)</em><span class="cas-badge">IF = 3.557, JCR Q1, 中科院 Q2</span>
+    <em>IEEE Access (IEEE Access)</em><span class="ccf-badge">中科院三区</span>
     </div>
 
  
