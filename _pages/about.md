@@ -55,7 +55,7 @@ redirect_from:
 <table id="news-table" style="border-collapse: collapse; width: 100%; border: none; font-size: 14px;">
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2026.08</td>
-    <td style="border: none; padding: 8px;">Two papers, including one paper <a href="https://ieeexplore.ieee.org/document/11219081" target="_blank" style="text-decoration: none">MCEval-AgriQA</a> is about LLMs' multi-faceted capability on the Chinese agricultural-aware QA dataset is about suicide risk detection integrating emoji analysis, is accepted by <strong>ICONIP 2026</strong>.</td>
+    <td style="border: none; padding: 8px;">One papers <a href="https://ieeexplore.ieee.org/document/11219081" target="_blank" style="text-decoration: none">HEDSC-TKGR</a> is about jointly modeling of event historical evolution context and dynamic subgraph context for temporal knowledge graph reasoning is accepted by <strong>ICONIP 2026</strong>.</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2026.07</td>
@@ -462,7 +462,7 @@ redirect_from:
     </div>  
 
     <div class="entry">
-    - <strong>Temporal Knowledge Graph Reasoning via Jointly Modeling of Event Historical Evolution Context and Dynamic Subgraph Context</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    - <strong>HEDSC-TKGR: A Novel Method for Temporal Knowledge Graph Reasoning through Jointly Modeling of Event Historical Evolution Context and Dynamic Subgraph Context</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
     Lingfang Chen, <strong>Yongpan Sheng</strong>*, Hongyan Ouyang, Lirong He, and Ming Liu<br>
     <em>The 33rd International Conference on Neural Information Processing (ICONIP 2026), Melbourne, Australia, Nov 23-27, 2026</em><span class="ccf-badge">CCF-C</span>
     </div>
