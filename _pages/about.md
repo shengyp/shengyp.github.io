@@ -340,15 +340,8 @@ redirect_from:
     </div>
 
     <strong>2026</strong>
-<!--     <div class="entry">
-    - <strong>Agri-RelExIns: A Comprehensive Schema-Based Instruction Dataset for Agricultural-Aware Relation Extraction</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
-    Jianglin Dai, Sha Hu*, Lirong He, Hui Zhang, and <strong>Yongpan Sheng</strong>*<br>
-    <em>Under review</em>
-    </div>
-     -->
-
 <!-- <div class="entry">    
-    - <strong>AKG-Builder 1.0: A Carbon-Assessed Agricultural Knowledge Graph Management System and Its Applications</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    - <strong>AKG-Builder-R1: A Carbon-Assessed Agricultural Knowledge Graph Management System and Its Applications</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
     <strong>Yongpan Sheng</strong>*, and Lirong He<br>
     <em>Under review</em>
     </div>
@@ -369,12 +362,6 @@ redirect_from:
     - <strong>Uncertainty-Aware Knowledge Graph Representation Learning via BERT Enhancement and Clustering-Driven Knowledge Compensation</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
     Yujie Song, <strong>Yongpan Sheng</strong>*, and Lirong He<br>
     <em>Under review</em>
-    </div>
-
-    <div class="entry">
-    - <strong>Special Issue of Information Network Mining and Applications</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
-    <strong>Yongpan Sheng</strong>, Hao Wang, and Yixiang Fang<br>
-    <em>Arxiv</em>
     </div>
 
     <div class="entry">
@@ -402,26 +389,44 @@ redirect_from:
     </div>
 
     <div class="entry">
-    - <strong>CAKG: A Novel Carbon-Assessed Crop Knowledge Graph Construction in Agricultural Domain for Carbon Effects Analytics</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
-    <strong>Yongpan Sheng</strong>*, and Lirong He<br>
-    <em>The 4th Workshop on Knowledge Graphs and Model-driven Systems Engineering</em>
-    </div>
-
-    <div class="entry">
-    - <strong>GSTData-Viz: Visualizing Geographic Spatio-Temporal Data Semantics from Knowledge Graph in Forest Protection Scenarios</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
-    <strong>Yongpan Sheng</strong>*, and Lirong He<br>
-    <em>The 4th Workshop on Knowledge Graphs and Model-driven Systems Engineering</em>
-    </div>
-
-    <div class="entry">
     - <strong>Agri-RelExIns: A Comprehensive Schema-Based Instruction Dataset for Agricultural-Aware Relation Extraction</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
     Sha Hu, Zhu Dai, and <strong>Yongpan Sheng</strong>*<br>
     <em>Under review</em>
     </div>
 
     <div class="entry">
+    - <strong>CAKG: A Novel Carbon-Assessed Crop Knowledge Graph Construction in Agricultural Domain for Carbon Effects Analytics</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    <strong>Yongpan Sheng</strong>*, and Lirong He<br>
+    <em>The 4th Workshop on Knowledge Graphs and Model-driven Systems Engineering</em>
+    </div>
+    
+    <div class="entry">
     - <strong>A Rigorously Designed Framework for Legal Hallucination Classification and Evaluation in Large Language Models: A Contradiction Perspective</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
     Jiajian Dai, <strong>Yongpan Sheng</strong>*, and Lirong He<br>
+    <em>Under review</em>
+    </div>-->
+
+    <div class="entry">
+    - <strong>Special Issue of Information Network Mining and Applications</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    <strong>Yongpan Sheng</strong>, Hao Wang, and Yixiang Fang<br>
+    <em>Arxiv</em>
+    </div>
+
+    <div class="entry">
+    - <strong>GSTData-Viz: Visualizing Geographic Spatio-Temporal Data Semantics from Knowledge Graph in Forest Protection Scenarios</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    <strong>Yongpan Sheng</strong>*, and Lirong He<br>
+    <em>Under review</em>
+    </div>
+
+    <div class="entry">
+    - <strong>Multi-View Contrastive Clustering via Cross-View Meta-Cluster Alignment for Explainable Educational Applications</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    Tao Xie, Jiazhen Yu, Fan Sun, <strong>Yongpan Sheng</strong>, and Geping Liu<br>
+    <em>Arxiv</em>
+    </div>
+
+    <div class="entry">
+    - <strong>Temporal Knowledge Graph Completion by Modeling Transitivity with Relation Rules in Knowledge Graph Embedding</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    Lizhu Xiong, <strong>Yongpan Sheng</strong>*, and Lirong He<br>
     <em>Under review</em>
     </div>
 
@@ -434,20 +439,20 @@ redirect_from:
     <div class="entry">
     - <strong>Agri-RelEx: A Sentence-Level Relation Extraction Framework from Agricultural Text with Attention-Guided and Multi-Scale Graph Convolutional Network</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
     Tangyunzhi Jiang, <strong>Yongpan Sheng</strong>*, Yiting Wang, and Ming Liu<br>
-    <em>The 8th International Conference on Blockchain, Artificial Intelligence, and Trustworthy Systems (BlockSys). Chengdu, China, July 29-31, 2026</em><span class="ccf-badge">CCF-C</span>
-    </div>
+    <em>The 8th International . Chengdu, China, July 29-31, 2026</em>
+    </div>  
 
     <div class="entry">
     - <strong>VIS4SRD: A Visual Interactive System with Sentiment Analysis for Suicide Risk Detection</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
-    Haobo Zhang, Haowen Gan, Xingliang Wang, Jianqiang Zhu, Ming Liu, and <strong>Yongpan Sheng</strong>*<br>
+    Haobo Zhang, Xingliang Wang, Jianqiang Zhu, Ming Liu, and <strong>Yongpan Sheng</strong>*<br>
     <em>Under review</em>
     </div>
 
     <div class="entry">
     - <strong>AgriREV: An Agricultural Relation Extraction and Verification System by Integrating Large Language Models and Human-in-the-Loop</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
-    Jianglin Dai, <strong>Yongpan Sheng</strong>*, Zhongdong Huang, and Sha Hu<br>
-    <em>The 5th Asia-Pacific Chapter of the Association for Computational Linguistics & the 15th International Joint Conference on Natural Language Processing (AACL-IJCNLP)</em>
-    </div> -->
+    Jianglin Dai, <strong>Yongpan Sheng</strong>*, Sha Hu, Jianqiang Zhu, and Haobo Zhang<br>
+    <em>Under review</em>
+    </div>
 
     <div class="entry">
     - <strong>FeaLearner 2.0: Enhancing Suicide Risk Detection with Dual Cross-Attention Transformer Networks and Mixture of Experts</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
@@ -456,21 +461,15 @@ redirect_from:
     </div>
 
     <div class="entry">
-    - <strong>Temporal Knowledge Graph Completion by Modeling Transitivity with Relation Rules in Knowledge Graph Embedding</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
-    Lizhu Xiong, <strong>Yongpan Sheng</strong>*, and Lirong He<br>
-    <em>Under review</em>
-    </div>
-
-    <div class="entry">
     - <strong>Temporal Knowledge Graph Reasoning via Jointly Modeling of Event Historical Evolution Context and Dynamic Subgraph Context</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
     Lingfang Chen, <strong>Yongpan Sheng</strong>*, Hongyan Ouyang, Lirong He, and Ming Liu<br>
-    <em>Under review</em>
+    <em>The 33rd International Conference on Neural Information Processing (ICONIP 2026), Melbourne, Australia, Nov 23-27, 2026</em><span class="ccf-badge">CCF-C</span>
     </div>
 
     <div class="entry">
     - <strong>Nutr20K: A Nutrition-Centric Question Answering Dataset for Personalized Recipe Generation</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
     Yiting Wang, <strong>Yongpan Sheng</strong>*, Tangyunzhi Jiang, and Yan Zhang<br>
-    <em>The 23rd CCF China Conference on Web Information Systems and Applications (WISA 2026), August 7-9, 2026</em><span class="ccf-badge">CCF-C</span>
+    <em>The 23rd CCF China Conference on Web Information Systems and Applications (WISA 2026).  Kunming, Yunnan, China, August 7-9, 2026</em><span class="ccf-badge">CCF-C</span>
     </div>
 
     <div class="entry">
@@ -486,13 +485,13 @@ redirect_from:
     </div>
 
     <div class="entry">
-    - <strong>Integrating Emoji Analysis: A Novel Suicide Risk Detection Framework with Historical Emotional Context and Emoji-Enhanced Cues in Understanding Users’ Posts</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    - <strong>Integrating Emoji Analysis: A Novel Suicide Risk Detection Framework via Jointly Modeling of Emoji-Enhanced Long-Term and Dynamic Short-Term Emotional Contexts in Understanding Users’ Posts</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
     Xingliang Wang, <strong>Yongpan Sheng</strong>*, Haobo Zhang, Qiuyue Fan, and Xiangwei Lai<br>
     <em>The 8th International Conference on Blockchain, Artificial Intelligence, and Trustworthy Systems (BlockSys). Chengdu, China, July 29-31, 2026</em><span class="ccf-badge">CCF-C</span>
     </div>
 
     <div class="entry">
-    - <strong>RCEval-AgriQA: Evaluating Reasoning Capability of Large Language Models on Chinese Agricultural-Aware QA Datasets: An Empirical Study</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    - <strong>MCEval-AgriQA: Evaluating Multi-Faceted Capability of Large Language Models on the Chinese Agricultural-Aware Question Answering Dataset: A Preliminary Study</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
     Jiaying Du, <strong>Yongpan Sheng</strong>*, Ying Wang, Yujie Song, and Xiangwei Lai<br>
     <em>The 8th International Conference on Blockchain, Artificial Intelligence, and Trustworthy Systems (BlockSys). Chengdu, China, July 29-31, 2026</em><span class="ccf-badge">CCF-C</span>
     </div>
