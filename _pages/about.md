@@ -54,8 +54,16 @@ redirect_from:
 
 <table id="news-table" style="border-collapse: collapse; width: 100%; border: none; font-size: 14px;">
   <tr style="border: none;">
+    <td style="border: none; padding: 8px;">🎉 2026.08</td>
+    <td style="border: none; padding: 8px;">Two papers, including one paper <a href="https://ieeexplore.ieee.org/document/11219081" target="_blank" style="text-decoration: none">MCEval-AgriQA</a> is about LLMs' multi-faceted capability on the Chinese agricultural-aware QA dataset is about suicide risk detection integrating emoji analysis, is accepted by <strong>ICONIP 2026</strong>.</td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none; padding: 8px;">🎉 2026.07</td>
+    <td style="border: none; padding: 8px;">One paper <a href="https://ieeexplore.ieee.org/document/11219081" target="_blank" style="text-decoration: none">Nutri20K</a> is about nutrition-Centric question answering dataset for personalized recipe generation is accepted by <strong>WISA 2026</strong>.</td>
+  </tr>
+  <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2026.06</td>
-    <td style="border: none; padding: 8px;">Two papers, including one paper <a href="https://ieeexplore.ieee.org/document/11219081" target="_blank" style="text-decoration: none">RCEval-AgriQA</a> is about LLMs' reasoning capability on Chinese agricultural-aware QA datasets, and one paper <a href="https://ieeexplore.ieee.org/document/11219081" target="_blank" style="text-decoration: none">Agri</a> is about suicide risk detection integrating Emoji analysis, are accepted by <strong>BlockSys 2026</strong>.</td>
+    <td style="border: none; padding: 8px;">Two papers, including one paper <a href="https://ieeexplore.ieee.org/document/11219081" target="_blank" style="text-decoration: none">MCEval-AgriQA</a> is about LLMs' multi-faceted capability on the Chinese agricultural-aware QA dataset, and one paper <a href="https://ieeexplore.ieee.org/document/11219081" target="_blank" style="text-decoration: none">EmoCC</a> is about suicide risk detection integrating emoji analysis, are accepted by <strong>BlockSys 2026</strong>.</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2026.06</td>
@@ -347,12 +355,6 @@ redirect_from:
     </div>
 
     <div class="entry">
-    - <strong>PerRec. </strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
-    Yingnan Wang, <strong>Yongpan Sheng</strong>*, and Lirong He<br>
-    <em>Under review</em>
-    </div>
-
-    <div class="entry">
     - <strong>Retrieval-Augmented Evidence Reranking for Temporal Knowledge Graph Reasoning</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
     Lizhu Xiong, <strong>Yongpan Sheng</strong>*, and Lirong He<br>
     <em>Under review</em>
@@ -431,18 +433,6 @@ redirect_from:
     </div>
 
     <div class="entry">
-    - <strong>Enhancing Temporal Knowledge Graph Reasoning by Incorporating Transformer Hawkes Process and Temporal Logic Rules in the Representation Learning Framework</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
-    Zhuping Ding, <strong>Yongpan Sheng</strong>*, and Lirong He<br>
-    <em>Under review</em>
-    </div>
-
-    <div class="entry">
-    - <strong>Agri-RelEx: A Sentence-Level Relation Extraction Framework from Agricultural Text with Attention-Guided and Multi-Scale Graph Convolutional Network</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
-    Tangyunzhi Jiang, <strong>Yongpan Sheng</strong>*, Yiting Wang, and Ming Liu<br>
-    <em>The 8th International . Chengdu, China, July 29-31, 2026</em>
-    </div>  
-
-    <div class="entry">
     - <strong>VIS4SRD: A Visual Interactive System with Sentiment Analysis for Suicide Risk Detection</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
     Haobo Zhang, Xingliang Wang, Jianqiang Zhu, Ming Liu, and <strong>Yongpan Sheng</strong>*<br>
     <em>Under review</em>
@@ -461,13 +451,24 @@ redirect_from:
     </div>
 
     <div class="entry">
+    - <strong>Enhancing Temporal Knowledge Graph Reasoning by Incorporating Transformer Hawkes Process and Temporal Logic Rules in the Representation Learning Framework</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    Zhuping Ding, <strong>Yongpan Sheng</strong>*, and Lirong He<br>
+    <em>Under review</em>
+    </div>
+
+    <div class="entry">
+    - <strong>Agri-RelEx: A Sentence-Level Relation Extraction Framework from Agricultural Text with Attention-Guided and Multi-Scale Graph Convolutional Network</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    Tangyunzhi Jiang, <strong>Yongpan Sheng</strong>*, Yiting Wang, and Ming Liu<br>
+    </div>  
+
+    <div class="entry">
     - <strong>Temporal Knowledge Graph Reasoning via Jointly Modeling of Event Historical Evolution Context and Dynamic Subgraph Context</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
     Lingfang Chen, <strong>Yongpan Sheng</strong>*, Hongyan Ouyang, Lirong He, and Ming Liu<br>
     <em>The 33rd International Conference on Neural Information Processing (ICONIP 2026), Melbourne, Australia, Nov 23-27, 2026</em><span class="ccf-badge">CCF-C</span>
     </div>
 
     <div class="entry">
-    - <strong>Nutr20K: A Nutrition-Centric Question Answering Dataset for Personalized Recipe Generation</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    - <strong>Nutri20K: A Nutrition-Centric Question Answering Dataset for Personalized Recipe Generation</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
     Yiting Wang, <strong>Yongpan Sheng</strong>*, Tangyunzhi Jiang, and Yan Zhang<br>
     <em>The 23rd CCF China Conference on Web Information Systems and Applications (WISA 2026).  Kunming, Yunnan, China, August 7-9, 2026</em><span class="ccf-badge">CCF-C</span>
     </div>
@@ -754,7 +755,7 @@ redirect_from:
 <div style="text-align: justify; text-indent: -1.25em;">
   <ul style="list-style-position: inside;">
     <li><span style="font-size:16px">重庆市教育委员会, 2024年度市教委科学技术研究计划 (重点项目), 低碳效视域下的农作物知识图谱构建关键技术研究, 2024-06-01 至 2027-06-30. </span></li>
-    <li><span style="font-size:16px">重庆市科学技术局, 2022年度重庆市自然科学基金 (面上项目), 面向开放环境的知识图谱构建方法研究, 2022-09-01 至 2026-07-30. </span></li>
+    <li><span style="font-size:16px">重庆市科学技术局, 2022年度重庆市自然科学基金 (面上项目), 面向开放环境的知识图谱构建方法研究, 2022-09-01 至 2026-07-30.<span class="cas-badge">已结题</span></span></li>
     <li><span style="font-size:16px">国家自然科学基金委员会, 青年科学基金项目 (C类)[原青年科学基金项目], 面向非结构化文本数据的开放域知识图谱构建方法研究, 2023-01-01 至 2025-12-31.<span class="cas-badge">已结题</span></span></li>
   <!-- 隐藏部分 -->
     <li class="extra-grants-hosted" style="display:none;"><span style="font-size:16px">河南省农业科学院农业信息技术研究所, 农田碳效知识图谱数据整理及软件开发, 2025-11-01 至 2026-12-31.</span></li>
