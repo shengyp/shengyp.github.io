@@ -55,11 +55,11 @@ redirect_from:
 <table id="news-table" style="border-collapse: collapse; width: 100%; border: none; font-size: 14px;">
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2026.08</td>
-    <td style="border: none; padding: 8px;">One papers <a href="https://ieeexplore.ieee.org/document/11219081" target="_blank" style="text-decoration: none">HEDSC-TKGR</a> is about jointly modeling of event historical evolution context and dynamic subgraph context for temporal knowledge graph reasoning is accepted by <strong>ICONIP 2026</strong>.</td>
+    <td style="border: none; padding: 8px;">One papers <a href="https://ieeexplore.ieee.org/document/11219081" target="_blank" style="text-decoration: none">HEDSC-TKGR</a> is about temporal knowledge graph reasoning via contextual learning accepted by <strong>ICONIP 2026</strong>.</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2026.07</td>
-    <td style="border: none; padding: 8px;">One paper <a href="https://ieeexplore.ieee.org/document/11219081" target="_blank" style="text-decoration: none">Nutri20K</a> is about nutrition-Centric question answering dataset for personalized recipe generation is accepted by <strong>WISA 2026</strong>.</td>
+    <td style="border: none; padding: 8px;">One paper <a href="https://ieeexplore.ieee.org/document/11219081" target="_blank" style="text-decoration: none">Nutri20K</a> is about nutrition-centric QA dataset accepted by <strong>WISA 2026</strong>.</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2026.06</td>
@@ -300,10 +300,9 @@ redirect_from:
 
     <div class="entry">
     - <strong>Can Language Models Capture Human Writing Preferences on Text Summarization?</strong> [<strong><a href="https://aclanthology.org/2025.findings-acl.315/" target="_blank">Link</a></strong>][<strong><a href="https://shengyp.github.io/files/Can_Language_Models_Capture_Human_Writing_Preferences_for_Domain-Specific_Text_Summarization.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://scholar.googleusercontent.com/scholar.bib?q=info:3EBxl7R6szYJ:scholar.google.com/&output=citation&scisdr=Cl-bHryGEOe77y8ZtPA:AFtJQiwAAAAAaZUfrPCOXgb0wRwq0sVBmxG2Fb4&scisig=AFtJQiwAAAAAaZUfrFxYrkcEpAKzJ4xkr-qH_Ok&scisf=4&ct=citation&cd=-1&hl=zh-CN" target="_blank">BIB</a></strong>]<br>
-      Jingbao Luo, Ming Liu, Ran Liu, <strong>Yongpan Sheng</strong>, Xin Hu, Gang Li, WupengNjust<br>
+    Jingbao Luo, Ming Liu, Ran Liu, <strong>Yongpan Sheng</strong>, Xin Hu, Gang Li, WupengNjust<br>
       <em>The 63th Annual Meeting of the Association for Computional Linguistics (Findings of ACL-25). Vienna, Austria, July 27th-August 1st, 2025</em><span class="ccf-badge">CCF-A</span>
     </div>
-    
 
     <div class="entry">
     - <strong>A Novel Suicide Risk Detection Method via Graph Context-Based Encoding and Adaptive Aggregation</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
@@ -314,10 +313,9 @@ redirect_from:
 
     <div class="entry">
     - <strong>CEGRL-TKGR: A Causal Enhanced Graph Representation Learning Framework for Temporal Knowledge Graph Reasoning</strong> [<strong><a href="https://aclanthology.org/2025.neusymbridge-1.2/" target="_blank">Link</a></strong>][<strong><a href="https://shengyp.github.io/files/CEGRL-TKGR_A_Causal_Enhanced_Graph_Representation_Learning_Framework_for_Temporal_Knowledge_Graph_Reasoning.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://scholar.googleusercontent.com/scholar.bib?q=info:ZVpu79zbDsgJ:scholar.google.com/&output=citation&scisdr=Cl9khsBPEOe77y8lnJQ:AFtJQiwAAAAAaZUjhJVn_IgNEZYkHulO09VBSbQ&scisig=AFtJQiwAAAAAaZUjhDp0_Ynwp7SGJYP1czPtpZY&scisf=4&ct=citation&cd=-1&hl=zh-CN" target="_blank">BIB</a></strong>]<br>
-      Jinze Sun, <strong>Yongpan Sheng</strong>*, Lirong He, Yongbin Qin, Ming Liu, and Tao Jia<br>
-      <em>Bridging Neurons and Symbols for Natural Language Processing and Knowledge Graphs Reasoning@COLING (COLING NeusymBridge Workshop-25). Abu Dhabi, UAE from January 19th to 24th, 2025</em><span class="ccf-badge">CCF-B</span>
+    Jinze Sun, <strong>Yongpan Sheng</strong>*, Lirong He, Yongbin Qin, Ming Liu, and Tao Jia<br>
+    <em>Bridging Neurons and Symbols for Natural Language Processing and Knowledge Graphs Reasoning@COLING (COLING NeusymBridge Workshop-25). Abu Dhabi, UAE from January 19th to 24th, 2025</em><span class="ccf-badge">CCF-B</span>
     </div>
-
 
     <div class="entry">
     - <strong>Multi-document semantic relation extraction for news analytics</strong> [<strong><a href="https://link.springer.com/content/pdf/10.1007/s11280-020-00790-2.pdf" target="_blank">Link</a></strong>][<strong><a href="https://shengyp.github.io/files/Multi-document_semantic_relation_extraction_for_news_analytics.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://scholar.googleusercontent.com/scholar.bib?q=info:5BarsBPGR3wJ:scholar.google.com/&output=citation&scisdr=Cn0tIthPEOe77zazs2U:AHkA5jQAAAAAaYy1q2UsoNvoBDRaE_sm4ahRfgg&scisig=AHkA5jQAAAAAaYy1q4V3BMckjDkPVq1H9AeMylI&scisf=4&ct=citation&cd=-1&hl=zh-CN" target="_blank">BIB</a></strong>]<br>
@@ -406,6 +404,12 @@ redirect_from:
     - <strong>A Rigorously Designed Framework for Legal Hallucination Classification and Evaluation in Large Language Models: A Contradiction Perspective</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
     Jiajian Dai, <strong>Yongpan Sheng</strong>*, and Lirong He<br>
     <em>Under review</em>
+
+    <div class="entry">
+    - <strong>Semantic-Path Guided Graph Neural Network for Heterogeneous Graph Embedding</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    Lirong He, <strong>Yongpan Sheng</strong>*, Hekai Zhang, and Meng Chen<br>
+    <em>Entropy (Entropy)</em>
+    </div>
     </div>-->
 
     <div class="entry">
@@ -471,7 +475,7 @@ redirect_from:
     <div class="entry">
     - <strong>HEDSC-TKGR: A Novel Method for Temporal Knowledge Graph Reasoning through Jointly Modeling of Event Historical Evolution Context and Dynamic Subgraph Context</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
     Lingfang Chen, <strong>Yongpan Sheng</strong>*, Hongyan Ouyang, Lirong He, and Ming Liu<br>
-    <em>The 33rd International Conference on Neural Information Processing (ICONIP 2026), Melbourne, Australia, Nov 23-27, 2026</em><span class="ccf-badge">CCF-C</span>
+    <em>The 33rd International Conference on Neural Information Processing (ICONIP 2026), Melbourne, Australia, November 23rd-27th, 2026</em><span class="ccf-badge">CCF-C</span>
     </div>
 
     <div class="entry">
@@ -487,7 +491,7 @@ redirect_from:
     </div>
 
     <div class="entry">
-    - <strong>RG-ASATL: Document-Level Relation Extraction with Relation-Guided Encoding and Asymmetric Adaptive Threshold Loss</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href=" https://github.com/HermitAuditora/RG-ASATL" target="_blank">CODE</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    - <strong>RG-ASATL: Document-Level Relation Extraction with Relation-Guided Encoding and Asymmetric Adaptive Threshold Loss</strong> [<strong><a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417426023134" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href=" https://github.com/HermitAuditora/RG-ASATL" target="_blank">CODE</a></strong>][<strong><a href="https://scholar.googleusercontent.com/scholar.bib?q=info:eiwUXLJvdWIJ:scholar.google.com/&output=citation&scisdr=CoE_eQPTEMDazlXOqHs:AIVdB-wAAAAAaofIsHu99wetvfR7an_74aDFtGY&scisig=AIVdB-wAAAAAaofIsKsB4ZI2A0Ka38ZFQ-aVRt8&scisf=4&ct=citation&cd=-1&hl=zh-CN" target="_blank">BIB</a></strong>]<br>
     Cong Jin, <strong>Yongpan Sheng</strong>*, Lirong He, and Ya Li<br>
     <em>Expert Systems With Applications</em><span class="cas-badge">中科院一区</span>
     </div>
@@ -524,45 +528,45 @@ redirect_from:
     <em>Under review</em>
     </div> -->
 
-
     <div class="entry">
-    - <strong>An LLM-based Framework for Domain-Specific Information Extraction: A Case Study in Computer Science and Chemistry</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="https://alta2025.alta.asn.au/assets/papers/8.pdf" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    - <strong>An LLM-based Framework for Domain-Specific Information Extraction: A Case Study in Computer Science and Chemistry</strong> [<strong><a href="https://aclanthology.org/2025.alta-main.8/" target="_blank">Link</a></strong>][<strong><a href="https://alta2025.alta.asn.au/assets/papers/8.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://scholar.googleusercontent.com/scholar.bib?q=info:Dfv1hjLubOUJ:scholar.google.com/&output=citation&scisdr=CoE_eQPTEMDazlXW0zA:AIVdB-wAAAAAaofQyzBLJbaF7T4Uit_Z8e1xPBI&scisig=AIVdB-wAAAAAaofQy4PKkORZ8BDW8ANtQCbb3yc&scisf=4&ct=citation&cd=-1&hl=zh-CN" target="_blank">BIB</a></strong>]<br>
     Xungang Gu, Yangjie Tian, Li Ning, Meng Liu, Ruohua Xu, He Zhang*, Hanqiu Liu, <strong>Yongpan Sheng</strong>, Ming Liu<br>
-    <em>The 23rd Annual Workshop of the Australasian Language Technology Association (ALTA-25). Sydney, Australia, November 26nd-28th, 2025</em>
+    <em>The 23rd Annual Workshop of the Australasian Language Technology Association (ALTA-25). Sydney, Australia, November 26th-28th, 2025</em>
     </div>
 
-
     <div class="entry">
-    - <strong>FeaLearner: A Novel Framework of Self-Adaptive Feature Learning and Selection for Suicide Risk Detection from Users’ Social Media Posts</strong> [<strong><a href="https://link.springer.com/chapter/10.1007/978-981-95-3456-2_15" target="_blank">Link</a></strong>][<strong><a href="https://github.com/shengyp/files/FeaLearner_A_Novel_Framework_of_Self-Adaptive_Feature_Learning_and_Selection_for_Suicide_Risk_Detection_from_Users’_Social_Media_Posts.pdf" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    - <strong>FeaLearner: A Novel Framework of Self-Adaptive Feature Learning and Selection for Suicide Risk Detection from Users’ Social Media Posts</strong> [<strong><a href="https://link.springer.com/chapter/10.1007/978-981-95-3456-2_15" target="_blank">Link</a></strong>][<strong><a href="https://github.com/shengyp/files/FeaLearner_A_Novel_Framework_of_Self-Adaptive_Feature_Learning_and_Selection_for_Suicide_Risk_Detection_from_Users’_Social_Media_Posts.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://scholar.googleusercontent.com/scholar.bib?q=info:gyZ9rTAm55YJ:scholar.google.com/&output=citation&scisdr=CoE_eQPTEMDazlXWmX4:AIVdB-wAAAAAaofQgX4H5zhGrngBnxjkIvaevwA&scisig=AIVdB-wAAAAAaofQgYgRSCXnO6i_f24IaKR23HQ&scisf=4&ct=citation&cd=-1&hl=zh-CN" target="_blank">BIB</a></strong>]<br>
     Xianming Zhang, <strong>Yongpan Sheng</strong>*, Lirong He, Ming Liu, and Xiangwei Lai<br>
     <em>The 21st International Conference on Advanced Data Mining and Applications (ADMA-25). Kyoto, Japan, October 22nd-24th, 2025</em><span class="ccf-badge">CCF-C</span>
     </div>
 
+    <div class="entry">
+    - <strong>Can Language Models Capture Human Writing Preferences on Text Summarization?</strong> [<strong><a href="https://aclanthology.org/2025.findings-acl.315/" target="_blank">Link</a></strong>][<strong><a href="https://shengyp.github.io/files/Can_Language_Models_Capture_Human_Writing_Preferences_for_Domain-Specific_Text_Summarization.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://scholar.googleusercontent.com/scholar.bib?q=info:3EBxl7R6szYJ:scholar.google.com/&output=citation&scisdr=CoE_eQPTEMDazlXenr4:AIVdB-wAAAAAaofYhr5SelxPG8QtkiU_qfLYHlc&scisig=AIVdB-wAAAAAaofYhjWhWNVdbiyZ_ryw0TQ356A&scisf=4&ct=citation&cd=-1&hl=zh-CN" target="_blank">BIB</a></strong>]<br>
+    Jingbao Luo, Ming Liu, Ran Liu, <strong>Yongpan Sheng</strong>, Xin Hu, Gang Li, WupengNjust<br>
+    <em>The 63th Annual Meeting of the Association for Computional Linguistics (Findings of ACL-25). Vienna, Austria, July 27th-August 1st, 2025</em><span class="ccf-badge">CCF-A</span>
+    </div>
 
     <div class="entry">
-    - <strong>Semantic-Path Guided Graph Neural Network for Heterogeneous Graph Embedding</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
-    Lirong He, <strong>Yongpan Sheng</strong>*, Hekai Zhang, and Meng Chen<br>
-    <em>Entropy (Entropy)</em>
+    - <strong>CEGRL-TKGR: A Causal Enhanced Graph Representation Learning Framework for Temporal Knowledge Graph Reasoning</strong> [<strong><a href="https://aclanthology.org/2025.neusymbridge-1.2/" target="_blank">Link</a></strong>][<strong><a href="https://shengyp.github.io/files/CEGRL-TKGR_A_Causal_Enhanced_Graph_Representation_Learning_Framework_for_Temporal_Knowledge_Graph_Reasoning.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://scholar.googleusercontent.com/scholar.bib?q=info:ZVpu79zbDsgJ:scholar.google.com/&output=citation&scisdr=CoE_eQPTEMDazlXVKUE:AIVdB-wAAAAAaofTMUH9davSUPPN6zcQtGnDFa0&scisig=AIVdB-wAAAAAaofTMaY2c-YDf8MQl2LooEVTxCo&scisf=4&ct=citation&cd=-1&hl=zh-CN" target="_blank">BIB</a></strong>]<br>
+    Jinze Sun, <strong>Yongpan Sheng</strong>*, Lirong He, Yongbin Qin, Ming Liu, and Tao Jia<br>
+    <em>Bridging Neurons and Symbols for Natural Language Processing and Knowledge Graphs Reasoning@COLING (COLING NeusymBridge Workshop-25). Abu Dhabi, UAE from January 19th to 24th, 2025</em><span class="ccf-badge">CCF-B</span>
     </div>
 
 
  <!-- 2024 -->
     <strong>2024</strong>
     <div class="entry">
-    - <strong>A Survey on the Real Power of ChatGPT</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    - <strong>A Survey on the Real Power of ChatGPT</strong> [<strong><a href="https://arxiv.org/abs/2405.00704" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="https://scholar.googleusercontent.com/scholar.bib?q=info:xPgP2OvBCvEJ:scholar.google.com/&output=citation&scisdr=CoE_eQPTEMDazlXSKhA:AIVdB-wAAAAAaofUMhBuWDLDEKSroUHVNY8fg6Y&scisig=AIVdB-wAAAAAaofUMpsCmBhhNuFSjb4QZAYfh9M&scisf=4&ct=citation&cd=-1&hl=zh-CN" target="_blank">BIB</a></strong>]<br>
     Ming Liu*, Ran Liu, Ye Zhu, Hua Wang, Youyang Qu, Rongsheng Li, <strong>Yongpan Sheng</strong>, and Wray Buntine<br>
     <em>Arxiv</em>
     </div>
 
-
-        
     <div class="entry">
-    - <strong>TKGR-GPRSCL: Enhance Temporal Knowledge Graph Reasoning with Graph Structure-Aware Path Representation and Supervised Contrastive Learning</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    - <strong>TKGR-GPRSCL: Enhance Temporal Knowledge Graph Reasoning with Graph Structure-Aware Path Representation and Supervised Contrastive Learning</strong> [<strong><a href="https://link.springer.com/chapter/10.1007/978-981-97-9434-8_16" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="https://scholar.googleusercontent.com/scholar.bib?q=info:oXrLXPbEv80J:scholar.google.com/&output=citation&scisdr=CoE_eQPTEMDazlXV13o:AIVdB-wAAAAAaofTz3od8-jabC7f5UtWmVVdI5s&scisig=AIVdB-wAAAAAaofTzxb3sjn31OlY44BtuEHK_r0&scisf=4&ct=citation&cd=-1&hl=zh-CN" target="_blank">BIB</a></strong>]<br>
     Lizhu Xiong, <strong>Yongpan Sheng</strong>*, and Lirong He<br>
-    <em>The 13th CCF International Conference on Natural Language Processing and Chinese Computing (NLPCC-24). Hangzhou, China, November 1-3, 2024</em><span class="ccf-badge">CCF-C</span>
+    <em>The 13th CCF International Conference on Natural Language Processing and Chinese Computing (NLPCC-24). Hangzhou, China, November 1st-3th, 2024</em><span class="ccf-badge">CCF-C</span>
     </div>
 
-    
 
 <!-- 2023 -->
     <strong>2023</strong>
@@ -577,56 +581,55 @@ redirect_from:
  <!-- 2022 --> 
     <strong>2022</strong>
     <div class="entry">
-    - <strong>Physical-priors-guided DehazeFormer</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    - <strong>Physical-priors-guided DehazeFormer</strong> [<strong><a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705123001600" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="https://scholar.googleusercontent.com/scholar.bib?q=info:hqkq-RLonTYJ:scholar.google.com/&output=citation&scisdr=CoE_eQPTEMDazlXUMuw:AIVdB-wAAAAAaofSKuyMCIi4OsyviyBpDb1YcyI&scisig=AIVdB-wAAAAAaofSKjVdx1i3t0JBXGYWfXlNU1o&scisf=4&ct=citation&cd=-1&hl=zh-CN" target="_blank">BIB</a></strong>]<br>
     Hao Zhou, Zekai Chen, Yun Liu, <strong>Yongpan Sheng</strong>, Wenqi Ren, and Hailing Xiong<br>
     <em>Knowledge-Based Systems (KBS)</em><span class="cas-badge">中科院一区</span>
     </div>
 
- 
-    <strong>2021</strong>
     <div class="entry">
-    - <strong>An advanced NMF-based approach for single cell data clustering</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    - <strong>An advanced NMF-based approach for single cell data clustering</strong> [<strong><a href="https://ieeexplore.ieee.org/document/9828919" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="https://scholar.googleusercontent.com/scholar.bib?q=info:GWEcK9NHuLYJ:scholar.google.com/&output=citation&scisdr=CoE_eQPTEMDazlXTiEA:AIVdB-wAAAAAaofVkEDwVmSoXsVQyTcfQhVWdd0&scisig=AIVdB-wAAAAAaofVkBFOz1c5TZnnN70GlNI6Oeo&scisf=4&ct=citation&cd=-1&hl=zh-CN" target="_blank">BIB</a></strong>]<br>
     Peng Zhao, <strong>Yongpan Sheng</strong>, and Xiaohui Zhan*<br>
-    <em>The 2022 2nd International Conference on Information Communication and Software Engineering (ICICSE-22). Chongqing, China, March 18-20 2022</em>
+    <em>The 2022 2nd International Conference on Information Communication and Software Engineering (ICICSE-22). Chongqing, China, March 18th-20th, 2022</em>
     </div>
 
-
+ 
+ <!-- 2021 --> 
+    <strong>2021</strong>
     <div class="entry">
-    - <strong>Temporal knowledge graph representation learning with local and global evolutions</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    - <strong>Temporal knowledge graph representation learning with local and global evolutions</strong> [<strong><a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705122006141" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="https://scholar.googleusercontent.com/scholar.bib?q=info:Pzk7EshMHSwJ:scholar.google.com/&output=citation&scisdr=CoE_eQPTEMDazlXQEhY:AIVdB-wAAAAAaofWCha4mHj_PQlGK8Bk2-CT3PY&scisig=AIVdB-wAAAAAaofWCl2MuTWcNTklqLR6g7-k1cM&scisf=4&ct=citation&cd=-1&hl=zh-CN" target="_blank">BIB</a></strong>]<br>
     Jiasheng Zhang, Shuang Liang, <strong>Yongpan Sheng</strong>, and Jie Shao*<br>
     <em>Knowledge-Based Systems (KBS)</em><span class="cas-badge">中科院一区</span>
     </div>
 
-
     <div class="entry">
-    - <strong>HA-D3QN: Embedding Virtual Private Cloud in Cloud Data Centers with Heuristic Assisted Deep Reinforcement Learning</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="https://www.sciencedirect.com/science/article/pii/S0167739X2300208X" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    - <strong>HA-D3QN: Embedding Virtual Private Cloud in Cloud Data Centers with Heuristic Assisted Deep Reinforcement Learning</strong> [<strong><a href="https://www.sciencedirect.com/science/article/abs/pii/S0167739X2300208X" target="_blank">Link</a></strong>][<strong><a href="https://www.sciencedirect.com/science/article/pii/S0167739X2300208X" target="_blank">PDF</a></strong>][<strong><a href="https://scholar.googleusercontent.com/scholar.bib?q=info:daa6VCK8UfAJ:scholar.google.com/&output=citation&scisdr=CoE_eQPTEMDazlXQVU4:AIVdB-wAAAAAaofWTU5DR3A1gttKAFv1UzilPFE&scisig=AIVdB-wAAAAAaofWTabjqxBIbJ5GUzpE5iswogc&scisf=4&ct=citation&cd=-1&hl=zh-CN" target="_blank">BIB</a></strong>]<br>
     Meng Chen, Jiaxin Hou, <strong>Yongpan Sheng</strong>, Yingbo Wu*, Sen Wang, Jianyuan Lu, and Qilin Fan<br>
     <em>Future Generation Computer Systems (FGCS)</em><span class="cas-badge">中科院二区</span>
     </div>
 
 
+ <!-- 2020 --> 
     <strong>2020</strong> 
     <div class="entry">
-    - <strong>TKGFrame: A Two-Phase Framework for Temporal-Aware Knowledge Graph Completion</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    - <strong>TKGFrame: A Two-Phase Framework for Temporal-Aware Knowledge Graph Completion</strong> [<strong><a href="https://link.springer.com/chapter/10.1007/978-3-030-60259-8_16" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="https://scholar.googleusercontent.com/scholar.bib?q=info:l-hexQGB79gJ:scholar.google.com/&output=citation&scisdr=CoE_eQPTEMDazlXMW04:AIVdB-wAAAAAaofKQ07ZWhPJfw-S2icPpiIkI0w&scisig=AIVdB-wAAAAAaofKQ05RFpxwtLwFuOABb07hV_A&scisf=4&ct=citation&cd=-1&hl=zh-CN" target="_blank">BIB</a></strong>]<br>
     Jiasheng Zhang, <strong>Yongpan Sheng</strong>*, Zheng Wang, and Jie Shao<br>
     <em>The 4th Asia Pacific Web and Web-Age Information Management Joint Conference on Web and Big Data (APWeb-WAIM-20). Tianjin, China, August 12-14, 2020</em>
     </div>
 
-
     <div class="entry">
-    - <strong>面向知识图谱的学习算法研究与应用</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CDFD&dbname=CDFDLAST2021&filename=1020354617.nh&v=oMy0dWvtjcXNyI6akpSHi6ok3oycZvF%25mmd2FjmzfZewldyCwyzhAnnfFpjzJFiCSS1oQ" target="_blank">PDF</a></strong>]<br>
+    - <strong>面向知识图谱的学习算法研究与应用</strong> [<strong><a href="https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CDFD&dbname=CDFDLAST2021&filename=1020354617.nh&v=oMy0dWvtjcXNyI6akpSHi6ok3oycZvF%25mmd2FjmzfZewldyCwyzhAnnfFpjzJFiCSS1oQ" target="_blank">Link</a></strong>][<strong><a href="" target="_blank">PDF</a></strong>]<br>
     <strong>盛泳潘</strong><br>
     <em>电子科技大学</em><span class="cas-badge">博士学位论文</span>
     </div>
 
 
+ <!-- Before 2020 -->
     <strong>Before 2020</strong> 
     <div class="entry">
-    - <strong>Coherence and Salience-Based Multi-Document Relationship Mining</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    - <strong>Coherence and Salience-Based Multi-Document Relationship Mining</strong> [<strong><a href="https://link.springer.com/chapter/10.1007/978-3-030-26072-9_30" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="https://scholar.googleusercontent.com/scholar.bib?q=info:Z946tO3-2zYJ:scholar.google.com/&output=citation&scisdr=CoE_eQPTEMDazlXMbpk:AIVdB-wAAAAAaofKdpl7Adr9rt4p-NSF7c1AXuQ&scisig=AIVdB-wAAAAAaofKdqItDPh0l3LYQkk5MiqvXFQ&scisf=4&ct=citation&cd=-1&hl=zh-CN" target="_blank">BIB</a></strong>]<br>
     <strong>Yongpan Sheng</strong>, and Zenglin Xu<br>
-    <em>The 3rd Asia Pacific Web and Web-Age Information Management Joint Conference on Web and Big Data (APWeb-WAIM-19). Chengdu, China, August 1-3 2019</em><span class="ccf-badge">CCF-C</span>
+    <em>The 3rd Asia Pacific Web and Web-Age Information Management Joint Conference on Web and Big Data (APWeb-WAIM-19). Chengdu, China, August 1-3, 2019</em><span class="ccf-badge">CCF-C</span>
     </div>
-
  
     <div class="entry">
     - <strong>Adaptive Local Learning Regularized Nonnegative Matrix Factorization for Data Clustering</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
@@ -634,27 +637,23 @@ redirect_from:
     <em>Applied Intelligence (AI)</em><span class="cas-badge">中科院二区</span>
     </div>
 
- 
     <div class="entry">
     - <strong>A Framework for Graph-based Multi-Document Relation Exploration: A Case Study on the News Datasets</strong> [<strong><a href="https://conference.cipsc.org.cn/smp2019/accepted-papers.html" target="_blank">PDF</a></strong>]<br>
     <strong>Yongpan Sheng</strong>, and Haojie Huang<br>
-    <em>The Annual Conference of the 8th National Conference on Social Media Processing (SMP-19). Shenzhen, China, August 16-18 2019</em>
+    <em>The Annual Conference of the 8th National Conference on Social Media Processing (SMP-19). Shenzhen, China, August 16th-18th, 2019</em>
     </div>
-
 
     <div class="entry">
     - <strong>A Qos-driven Approach for Cloud Service Addressing Attribute of Security</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
     Han Xu*, Xiwei Qiu, <strong>Yongpan Sheng</strong>, Liang Luo, and Yanping Xiang*<br>
     <em>IEEE Access (IEEE Access)</em><span class="ccf-badge">中科院三区</span>
     </div>
-
  
     <div class="entry">
     - <strong>Knowledge Base Completion by Variational Bayesian Neural Tensor Decomposition</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
     Lirong He, Bin Liu, Guangxi Li, <strong>Yongpan Sheng</strong>, Yafang Wang, and Zenglin Xu<br>
     <em>Cognitive Computation</em><span class="cas-badge">中科院二区</span>
     </div>
-
  
     <div class="entry">
     - <strong>Multi-document conceptual graph construction research based on open domain extraction</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
@@ -662,32 +661,29 @@ redirect_from:
     <em>Application Research of Computers (ARC)</em><span class="cas-badge">In Chinese</span>
     </div>
 
- 
     <div class="entry">
     - <strong>A Robust Softmax Regression for Multi-class Classification with Self-Paced Learning</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
     Yazhou Ren, Peng Zhao, <strong>Yongpan Sheng</strong>, Dezhong Yao, and Zenglin Xu<br>
     <em>The 26th International Joint Conference on Artificial Intelligence (IJCAI-17). Melbourne, Australia, August 19-25 2017</em><span class="ccf-badge">CCF-A</span>
     </div>
-
  
     <div class="entry">
     - <strong>A comparison of learning rules in pulse-based neural networks</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
     <strong>Yongpan Sheng</strong>, Yangyang Wang, Lu Wang, and Gaofeng Zhao<br>
-    <em>The 13th International Computer Conference on Wavelet Active Media Technology and Information Processing (ICCWAMTIP-16). Chengdu, China, December 16-18 2016</em>
+    <em>The 13th International Computer Conference on Wavelet Active Media Technology and Information Processing (ICCWAMTIP-16). Chengdu, China, December 16th-18th, 2016</em>
     </div>
 
- 
     <div class="entry">
     - <strong>Ant colony Optimization of Virtual Machine Placement for Data Latency Minimization in Cloud Systems</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
     Xiaojia Pan, Lei Wu, Dean Wu, and <strong>Yongpan Sheng</strong><br>
-    <em>The 12nd International Computer Conference on Wavelet Active Media Technology and Information Processing (ICCWAMTIP-15). Chengdu, China, December 18-20 2016</em>
+    <em>The 12nd International Computer Conference on Wavelet Active Media Technology and Information Processing (ICCWAMTIP-15). Chengdu, China, December 18th-20th, 2016</em>
     </div>
 
  
     <div class="entry">
     - <strong>Incorporating Term Definitions for Taxonomic Relation Identification</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
     <strong>Yongpan Sheng</strong>, Tianxing Wu, and Xin Wang<br>
-    <em>The 9th Joint International Semantic Technology Conference (JIST-19). Hangzhou, China, November 25-27 2019</em>
+    <em>The 9th Joint International Semantic Technology Conference (JIST-19). Hangzhou, China, November 25th-27th, 2019</em>
     </div>
   </div>
 
@@ -908,14 +904,19 @@ redirect_from:
       </li>
       <li class="extra-services" style="display:none;"><strong>PC Member</strong>, The 2023 International Conference on Images, Signals, and Computing (<a href="http://icisc-conf.org/" target="_blank" style="text-decoration: none">ICISC 2023</a>), Chengdu, China, April 15-17, 2023
       </li>
+
       <li class="extra-services" style="display:none;"><strong>PC Member</strong>, International Conference Advanced Data Mining and Applications (<a href="https://adma2022.uqcloud.net/index.html" target="_blank" style="text-decoration: none">ADMA 2022</a>), Brisbane, Australia, 30th November-2nd December, 2022
       </li>
+
       <li class="extra-services" style="display:none;"><strong>PC Member</strong>, The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (<a href="https://2022.ecmlpkdd.org/" target="_blank" style="text-decoration: none">ECML-PKDD 2022</a>), Grenoble, France, September 19-23, 2022
       </li>
+
       <li class="extra-services" style="display:none;"><strong>PC Member</strong>, The 5th Asia Pacific Web and Web-Age Information Management Joint Conference on Web and Big Data (<a href="http://139.159.245.147/program_committee" target="_blank" style="text-decoration: none">APWeb-WAIM 2021</a>), Guangzhou, China, August 23-25, 2021
       </li>
+
       <li class="extra-services" style="display:none;"><strong>PC Member</strong>, The 4th Asia Pacific Web and Web-Age Information Management Joint Conference on Web and Big Data (<a href="http://www.tjudb.cn/apwebwaim2020/node/20" target="_blank" style="text-decoration: none">APWeb-WAIM 2020</a>), Tianjin, China, August 12-14, 2020
       </li>
+
       <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, The 34th ACM International Conference on Multimedia (<a href="https://2026.acmmm.org/index.html" target="_blank" style="text-decoration: none">ACMMM 2026</a>), Rio de Janeiro, Brazil, November 10th-14th, 2026.</li>
       <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, China Conference on Knowledge Graph and Semantic Computing (<a href="https://sigkg.cn/ccks2026/" target="_blank" style="text-decoration: none">CCKS 2026</a>), Xian, China, August 21st-23rd, 2026
       </li>
@@ -943,10 +944,13 @@ redirect_from:
       </li>
       <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, The 14th International Joint Conference on Knowledge Graphs (<a href="https://ijckg2025.github.io/" target="_blank" style="text-decoration: none">IJCKG 2025</a>), Heraklion, Grete, Greece, October 15-17, 2025
       </li>
+
       <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, The 9th APWeb-WAIM International Joint Conference on Web and Big Data (<a href="https://apweb2025.sau.edu.cn/" target="_blank" style="text-decoration: none">APWeb-WAIM 2025</a>), Shenyang, China, August 28-30, 2025
       </li>
+      
       <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, IEEE International Conference on Multimedia & Expo 2025 (<a href="https://2025.ijcnn.org/" target="_blank" style="text-decoration: none">ICME 2025</a>), Nantes, France, June 30-July 4, 2025
       </li>
+
       <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, The 2025 International Joint Conference on Neural Networks (<a href="https://2025.ijcnn.org/" target="_blank" style="text-decoration: none">IJCNN 2025</a>), Rome, Italy, June 30-July 5, 2025
       </li>
       <li class="extra-services" style="display:none;"><strong>Invited Reviewer</strong>, The International World Wide Web Conference (<a href="https://www2025.thewebconf.org/" target="_blank" style="text-decoration: none">WWW 2025</a>), Australia, April 28-May 2, 2025
