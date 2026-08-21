@@ -63,7 +63,7 @@ redirect_from:
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2026.06</td>
-    <td style="border: none; padding: 8px;">Two papers, including one paper <a href="https://ieeexplore.ieee.org/document/11219081" target="_blank" style="text-decoration: none">MCEval-AgriQA</a> is about LLMs' multi-faceted capability on the Chinese agricultural-aware QA dataset, and one paper <a href="https://ieeexplore.ieee.org/document/11219081" target="_blank" style="text-decoration: none">EmoCC</a> is about suicide risk detection integrating emoji analysis, are accepted by <strong>BlockSys 2026</strong>.</td>
+    <td style="border: none; padding: 8px;">Two papers, including one paper <a href="https://ieeexplore.ieee.org/document/11219081" target="_blank" style="text-decoration: none">MCEval-AgriQA</a> is about LLMs' multi-faceted capabilities on the Chinese agricultural-aware QA dataset, and one paper <a href="https://ieeexplore.ieee.org/document/11219081" target="_blank" style="text-decoration: none">EmoCC</a> is about suicide risk detection integrating emoji analysis, are accepted by <strong>BlockSys 2026</strong>.</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2026.06</td>
@@ -459,6 +459,13 @@ redirect_from:
     <div class="entry">
     - <strong>Agri-RelEx: A Sentence-Level Relation Extraction Framework from Agricultural Text with Attention-Guided and Multi-Scale Graph Convolutional Network</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
     Tangyunzhi Jiang, <strong>Yongpan Sheng</strong>*, Yiting Wang, and Ming Liu<br>
+    <em>Under review</em>
+    </div>
+
+    <div class="entry">
+    - <strong>EHRForge: A Reproducible Workflow for Constructing an Evidence-Grounded Synthetic Temporal QA Benchmark from Longitudinal Clinical Notes</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="https://alta2025.alta.asn.au/assets/papers/8.pdf" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    Quang An Quoc Tran, Huy Quoc To, <strong>Yongpan Sheng</strong>, and Ming Liu<br>
+    <em>Under review</em>
     </div>  
 
     <div class="entry">
@@ -492,7 +499,7 @@ redirect_from:
     </div>
 
     <div class="entry">
-    - <strong>MCEval-AgriQA: Evaluating Multi-Faceted Capability of Large Language Models on the Chinese Agricultural-Aware Question Answering Dataset: A Preliminary Study</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    - <strong>MCEval-AgriQA: Evaluating Multi-Faceted Capabilities of Large Language Models on the Chinese Agricultural-Aware Question Answering Dataset: A Preliminary Study</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
     Jiaying Du, <strong>Yongpan Sheng</strong>*, Ying Wang, Yujie Song, and Xiangwei Lai<br>
     <em>The 8th International Conference on Blockchain, Artificial Intelligence, and Trustworthy Systems (BlockSys). Chengdu, China, July 29-31, 2026</em><span class="ccf-badge">CCF-C</span>
     </div>
