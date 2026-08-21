@@ -45,7 +45,28 @@ layout: default
       {% endunless %}
 
       <section class="page__content" itemprop="text">
-        {{ content }}
+        {% if page.url == "/" %}
+          {% assign homepage_content = content %}
+          {% assign homepage_content = homepage_content | replace: 'class="ccf-badge">CCF-A', 'class="ccf-badge ccf-a-badge">CCF-A' %}
+          {% assign homepage_content = homepage_content | replace: 'class="ccf-badge">CCF-B', 'class="ccf-badge ccf-b-badge">CCF-B' %}
+          {% assign homepage_content = homepage_content | replace: 'class="ccf-badge">CCF-C', 'class="ccf-badge ccf-c-badge">CCF-C' %}
+          {% assign homepage_content = homepage_content | replace: 'class="ccf-badge">Best Paper', 'class="ccf-badge best-paper-badge">Best Paper' %}
+          {% assign homepage_content = homepage_content | replace: '<h2 id="services">💼 Services</h2>', '<h2 id="services">💬 Services</h2>' %}
+          {% assign homepage_parts = homepage_content | split: '<p>&nbsp;</p>' %}
+          {% if homepage_parts.size > 1 %}
+            {{ homepage_parts[0] }}
+            {% include homepage-internships.html %}
+            <p>&nbsp;</p>
+            {% for homepage_part in homepage_parts offset:1 %}
+              {{ homepage_part }}{% unless forloop.last %}<p>&nbsp;</p>{% endunless %}
+            {% endfor %}
+          {% else %}
+            {{ homepage_content }}
+            {% include homepage-internships.html %}
+          {% endif %}
+        {% else %}
+          {{ content }}
+        {% endif %}
 
         {% if page.citation and page.paperurl and page.slidesurl %}
           <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br /><a href="{{ page.paperurl }}">Download Paper</a> | <a href="{{ page.slidesurl }}">Download Slides</a></p>

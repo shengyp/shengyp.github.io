@@ -39,3 +39,121 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* ==========================================================================
+   Homepage adjustments requested 2026-08-21
+   Keep the original theme intact; only override the requested homepage areas.
+   ========================================================================== */
+
+#main {
+  max-width: 925px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 1em;
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
+@media (min-width: 80em) {
+  #main {
+    max-width: 1280px;
+  }
+}
+
+@media (min-width: 57.8125em) {
+  .page {
+    box-sizing: border-box;
+    width: 83.0508474576%;
+    float: right;
+    margin-right: 0;
+    padding-left: 4.2372881356%;
+    padding-right: 0;
+  }
+}
+
+/* Preserve existing badge dimensions/typography; only add requested semantic
+ * colors and prevent inherited indentation from clipping whole badges.
+ */
+.entry .ccf-badge,
+.entry .cas-badge {
+  display: inline-block;
+  white-space: nowrap;
+  text-indent: 0 !important;
+}
+
+.ccf-badge.ccf-a-badge {
+  background-color: #F44336 !important;
+  color: #fff !important;
+}
+
+.ccf-badge.ccf-b-badge {
+  background-color: #FF9800 !important;
+  color: #fff !important;
+}
+
+.ccf-badge.ccf-c-badge {
+  background-color: #4CAF50 !important;
+  color: #fff !important;
+}
+
+.ccf-badge.best-paper-badge {
+  background-color: #F28C28 !important;
+  color: #fff !important;
+}
+
+/* Preserve News content/links/emoji; only tighten cell spacing and align dates. */
+#news-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 14px;
+}
+
+#news-table td {
+  padding: 3px 0 5px !important;
+  vertical-align: top;
+  line-height: 1.4;
+}
+
+#news-table td:first-child {
+  width: 92px;
+  padding-right: 14px !important;
+  white-space: nowrap;
+}
+
+.homepage-internships {
+  box-sizing: border-box;
+  padding-left: 1.8em;
+  margin-top: 0.45em;
+  margin-bottom: 0.5em;
+  font-size: 14px;
+  line-height: 1.5;
+  text-align: justify;
+}
+
+.homepage-internships > li {
+  margin-bottom: 0.42em;
+}
+
+.homepage-internships li ul {
+  margin-top: 0.35em;
+  margin-bottom: 0;
+  padding-left: 1.6em;
+  font-size: inherit;
+}
+
+.homepage-internships li ul li {
+  margin-bottom: 0.28em;
+}
+
+@media (max-width: 57.8124em) {
+  #main {
+    max-width: none;
+    padding-left: 1em;
+    padding-right: 1em;
+  }
+
+  #news-table td:first-child {
+    width: 82px;
+    padding-right: 8px !important;
+  }
+}
