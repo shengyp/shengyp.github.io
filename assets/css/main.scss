@@ -45,7 +45,7 @@
    Keep the original theme intact; only override the requested homepage areas.
    ========================================================================== */
 
-#main {
+#main.homepage-main {
   max-width: 925px;
   margin-left: auto;
   margin-right: auto;
@@ -55,13 +55,13 @@
 }
 
 @media (min-width: 80em) {
-  #main {
+  #main.homepage-main {
     max-width: 1280px;
   }
 }
 
 @media (min-width: 57.8125em) {
-  .page {
+  #main.homepage-main .page {
     box-sizing: border-box;
     width: 83.0508474576%;
     float: right;
@@ -74,8 +74,8 @@
 /* Keep every homepage badge intact as one unit, including Grants status tags.
  * The original page uses .cas-badge outside .entry as well, so this must be global.
  */
-.ccf-badge,
-.cas-badge {
+#main.homepage-main .ccf-badge,
+#main.homepage-main .cas-badge {
   display: inline-block !important;
   white-space: nowrap !important;
   word-break: keep-all !important;
@@ -85,40 +85,40 @@
   vertical-align: baseline;
 }
 
-.ccf-badge.ccf-a-badge {
+#main.homepage-main .ccf-badge.ccf-a-badge {
   background-color: #F44336 !important;
   color: #fff !important;
 }
 
-.ccf-badge.ccf-b-badge {
+#main.homepage-main .ccf-badge.ccf-b-badge {
   background-color: #FF9800 !important;
   color: #fff !important;
 }
 
-.ccf-badge.ccf-c-badge {
+#main.homepage-main .ccf-badge.ccf-c-badge {
   background-color: #4CAF50 !important;
   color: #fff !important;
 }
 
-.ccf-badge.best-paper-badge {
-  background-color: #4CAF50 !important;
+#main.homepage-main .ccf-badge.best-paper-badge {
+  background-color: #2196F3 !important;
   color: #fff !important;
 }
 
 /* Preserve News content/links/emoji; only tighten cell spacing and align dates. */
-#news-table {
+#main.homepage-main #news-table {
   width: 100%;
   border-collapse: collapse;
   font-size: 14px;
 }
 
-#news-table td {
+#main.homepage-main #news-table td {
   padding: 3px 0 5px !important;
   vertical-align: top;
   line-height: 1.4;
 }
 
-#news-table td:first-child {
+#main.homepage-main #news-table td:first-child {
   width: 92px;
   padding-right: 14px !important;
   white-space: nowrap;
@@ -128,14 +128,22 @@
  * source contains an inner list with custom negative indentation; override only
  * the list geometry so both sections share one vertical marker line.
  */
-#internships {
+#main.homepage-main #internships {
   text-indent: 0 !important;
 }
 
-#services-list > ul,
-.homepage-internships {
+#main.homepage-main #services-list {
+  margin-left: 0 !important;
+  padding-left: 0 !important;
+  text-indent: 0 !important;
+  list-style: none !important;
+}
+
+#main.homepage-main #services-list > ul,
+#main.homepage-main .homepage-internships {
   box-sizing: border-box;
   padding-left: 2em !important;
+  margin-left: 7px !important;
   margin-top: 0.5em;
   margin-bottom: 0.5em;
   font-size: 14px;
@@ -146,14 +154,14 @@
   list-style-position: outside !important;
 }
 
-#services-list > ul > li,
-.homepage-internships > li {
+#main.homepage-main #services-list > ul > li,
+#main.homepage-main .homepage-internships > li {
   margin-bottom: 0.5em;
   padding-left: 0 !important;
   text-indent: 0 !important;
 }
 
-.homepage-internships li ul {
+#main.homepage-main .homepage-internships li ul {
   margin-top: 0.35em;
   margin-bottom: 0;
   padding-left: 2em !important;
@@ -163,20 +171,20 @@
   list-style-position: outside !important;
 }
 
-.homepage-internships li ul li {
+#main.homepage-main .homepage-internships li ul li {
   margin-bottom: 0.28em;
   padding-left: 0 !important;
   text-indent: 0 !important;
 }
 
 @media (max-width: 57.8124em) {
-  #main {
+  #main.homepage-main {
     max-width: none;
     padding-left: 1em;
     padding-right: 1em;
   }
 
-  #news-table td:first-child {
+  #main.homepage-main #news-table td:first-child {
     width: 82px;
     padding-right: 8px !important;
   }
