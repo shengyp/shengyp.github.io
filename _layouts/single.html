@@ -55,6 +55,7 @@ layout: default
           {% assign homepage_parts = homepage_content | split: '<p>&nbsp;</p>' %}
           {% if homepage_parts.size > 1 %}
             {{ homepage_parts[0] }}
+            </ul>
             {% include homepage-internships.html %}
             <p>&nbsp;</p>
             {% for homepage_part in homepage_parts offset:1 %}

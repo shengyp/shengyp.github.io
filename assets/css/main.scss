@@ -71,14 +71,17 @@
   }
 }
 
-/* Preserve existing badge dimensions/typography; only add requested semantic
- * colors and prevent inherited indentation from clipping whole badges.
+/* Keep every homepage badge intact as one unit, including Grants status tags.
+ * The original page uses .cas-badge outside .entry as well, so this must be global.
  */
-.entry .ccf-badge,
-.entry .cas-badge {
-  display: inline-block;
-  white-space: nowrap;
+.ccf-badge,
+.cas-badge {
+  display: inline-block !important;
+  white-space: nowrap !important;
+  word-break: keep-all !important;
+  overflow-wrap: normal !important;
   text-indent: 0 !important;
+  vertical-align: baseline;
 }
 
 .ccf-badge.ccf-a-badge {
@@ -120,29 +123,47 @@
   white-space: nowrap;
 }
 
+/* The teacher's Services source contains an outer list with negative text-indent.
+ * Internships is inserted immediately after it, so explicitly reset all inherited
+ * list indentation and match the reference homepage's compact list rhythm.
+ */
+#internships {
+  text-indent: 0 !important;
+}
+
 .homepage-internships {
   box-sizing: border-box;
-  padding-left: 1.8em;
-  margin-top: 0.45em;
+  padding-left: 2em !important;
+  margin-top: 0.5em;
   margin-bottom: 0.5em;
   font-size: 14px;
   line-height: 1.5;
   text-align: justify;
+  text-indent: 0 !important;
+  list-style-type: disc !important;
+  list-style-position: outside !important;
 }
 
 .homepage-internships > li {
-  margin-bottom: 0.42em;
+  margin-bottom: 0.5em;
+  padding-left: 0 !important;
+  text-indent: 0 !important;
 }
 
 .homepage-internships li ul {
   margin-top: 0.35em;
   margin-bottom: 0;
-  padding-left: 1.6em;
+  padding-left: 2em !important;
   font-size: inherit;
+  text-indent: 0 !important;
+  list-style-type: circle !important;
+  list-style-position: outside !important;
 }
 
 .homepage-internships li ul li {
   margin-bottom: 0.28em;
+  padding-left: 0 !important;
+  text-indent: 0 !important;
 }
 
 @media (max-width: 57.8124em) {
