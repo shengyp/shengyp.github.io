@@ -81,6 +81,7 @@
   word-break: keep-all !important;
   overflow-wrap: normal !important;
   text-indent: 0 !important;
+  break-inside: avoid !important;
   vertical-align: baseline;
 }
 
@@ -100,7 +101,7 @@
 }
 
 .ccf-badge.best-paper-badge {
-  background-color: #F28C28 !important;
+  background-color: #4CAF50 !important;
   color: #fff !important;
 }
 
@@ -123,14 +124,15 @@
   white-space: nowrap;
 }
 
-/* The teacher's Services source contains an outer list with negative text-indent.
- * Internships is inserted immediately after it, so explicitly reset all inherited
- * list indentation and match the reference homepage's compact list rhythm.
+/* Align Services and Internships to the same list grid. The teacher's Services
+ * source contains an inner list with custom negative indentation; override only
+ * the list geometry so both sections share one vertical marker line.
  */
 #internships {
   text-indent: 0 !important;
 }
 
+#services-list > ul,
 .homepage-internships {
   box-sizing: border-box;
   padding-left: 2em !important;
@@ -144,6 +146,7 @@
   list-style-position: outside !important;
 }
 
+#services-list > ul > li,
 .homepage-internships > li {
   margin-bottom: 0.5em;
   padding-left: 0 !important;
