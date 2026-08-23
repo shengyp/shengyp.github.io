@@ -453,7 +453,7 @@ redirect_from:
 
     <div class="entry">
     - <strong>FeaLearner 2.0: Enhancing Suicide Risk Detection with Dual Cross-Attention Transformer Networks and Mixture of Experts</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
-    Qiuyue Fan, <strong>Yongpan Sheng</strong>*, Jianqiang Zhu, Xingliang Wang, and Ming Liu<br>
+    Qiuyue Fan (大三), <strong>Yongpan Sheng</strong>*, Jianqiang Zhu, Xingliang Wang, and Ming Liu<br>
     <em>Under review</em>
     </div>
 
@@ -465,13 +465,13 @@ redirect_from:
 
     <div class="entry">
     - <strong>Agri-RelEx: A Sentence-Level Relation Extraction Framework from Agricultural Text with Attention-Guided and Multi-Scale Graph Convolutional Network</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
-    Tangyunzhi Jiang, <strong>Yongpan Sheng</strong>*, Yiting Wang, and Ming Liu<br>
+    Tangyunzhi Jiang (大三), <strong>Yongpan Sheng</strong>*, Yiting Wang, and Ming Liu<br>
     <em>Under review</em>
     </div>
 
     <div class="entry">
-    - <strong>EHRForge: A Reproducible Workflow for Constructing an Evidence-Grounded Synthetic Temporal QA Benchmark from Longitudinal Clinical Notes</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="https://alta2025.alta.asn.au/assets/papers/8.pdf" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
-    Quang An Quoc Tran, Huy Quoc To, <strong>Yongpan Sheng</strong>, and Ming Liu<br>
+    - <strong>EHRForge: A Reproducible Workflow for Constructing an Evidence-Grounded Synthetic Temporal QA Benchmark from Longitudinal Clinical Notes</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="https://alta2025.alta.asn.au/assets/papers/8.pdf" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]
+    <br>Quang An Quoc Tran, Huy Quoc To, <strong>Yongpan Sheng</strong>, and Ming Liu<br>
     <em>Under review</em>
     </div>  
 
@@ -504,14 +504,14 @@ redirect_from:
 
     <div class="entry">
     - <strong>Integrating Emoji Analysis: A Novel Suicide Risk Detection Framework via Jointly Modeling of Emoji-Enhanced Long-Term and Dynamic Short-Term Emotional Contexts in Understanding Users’ Posts</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
-    Xingliang Wang, <strong>Yongpan Sheng</strong>*, Haobo Zhang, Qiuyue Fan, and Xiangwei Lai<br>
+    Xingliang Wang (大三), <strong>Yongpan Sheng</strong>*, Haobo Zhang, Qiuyue Fan, and Xiangwei Lai<br>
     <em>The 8th International Conference on Blockchain, Artificial Intelligence, and Trustworthy Systems (BlockSys). Chengdu, China, July 29-31, 2026</em>
     <span class="ccf-badge">CCF-C类会议</span>
     </div>
 
     <div class="entry">
     - <strong>MCEval-AgriQA: Evaluating Multi-Faceted Capabilities of Large Language Models on the Chinese Agricultural-Aware Question Answering Dataset: A Preliminary Study</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
-    Jiaying Du, <strong>Yongpan Sheng</strong>*, Ying Wang, Yujie Song, and Xiangwei Lai<br>
+    Jiaying Du (大三), <strong>Yongpan Sheng</strong>*, Ying Wang, Yujie Song, and Xiangwei Lai<br>
     <em>The 8th International Conference on Blockchain, Artificial Intelligence, and Trustworthy Systems (BlockSys). Chengdu, China, July 29-31, 2026</em><span class="ccf-badge">CCF-C类会议</span>
     </div>
 
