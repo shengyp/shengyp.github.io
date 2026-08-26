@@ -441,7 +441,7 @@ redirect_from:
 
     <div class="entry">
     - <strong>VIS4SRD: A Visual Interactive System with Sentiment Analysis for Suicide Risk Detection</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
-    Haobo Zhang, Xingliang Wang, Jianqiang Zhu, Ming Liu, and <strong>Yongpan Sheng</strong>*<br>
+    Haobo Zhang (大三), Xingliang Wang, Jianqiang Zhu, Ming Liu, and <strong>Yongpan Sheng</strong>*<br>
     <em>Under review</em>
     </div>
 
@@ -476,7 +476,7 @@ redirect_from:
     </div>  
 
     <div class="entry">
-    - <strong>HEDSC-TKGR: A Novel Method for Temporal Knowledge Graph Reasoning through Jointly Modeling of Event Historical Evolution Context and Dynamic Subgraph Context</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    - <strong>HECDSC-TKGR: Enhancing Temporal Knowledge Graph Reasoning through Jointly Modeling of Historical Event Context and Query‑Oriented Dynamic Subgraph Context</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
     Lingfang Chen, <strong>Yongpan Sheng</strong>*, Hongyan Ouyang, Lirong He, and Ming Liu<br>
     <em>The 33rd International Conference on Neural Information Processing (ICONIP 2026), Melbourne, Australia, November 23rd-27th, 2026</em>
     <span class="ccf-badge">CCF-C类会议</span>
