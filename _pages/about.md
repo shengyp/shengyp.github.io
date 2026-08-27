@@ -293,10 +293,17 @@ redirect_from:
     </div>
 
     <div class="entry">
-    - <strong>Enhancing Uncertain Knowledge Graph Embedding by Learning Graph Structure-Aware Context and Fused-Triple Confidence Information with an Encoder-Decoder Framework</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
-      Yujie Song, <strong>Yongpan Sheng</strong>*, Lirong He, Tao Jia<br> 
+    - <strong>RG-ASATL: Document-Level Relation Extraction with Relation-Guided Encoding and Asymmetric Adaptive Threshold Loss</strong> [<strong><a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417426023134" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href=" https://github.com/HermitAuditora/RG-ASATL" target="_blank">CODE</a></strong>][<strong><a href="https://scholar.googleusercontent.com/scholar.bib?q=info:eiwUXLJvdWIJ:scholar.google.com/&output=citation&scisdr=CoE_eQPTEMDazlXOqHs:AIVdB-wAAAAAaofIsHu99wetvfR7an_74aDFtGY&scisig=AIVdB-wAAAAAaofIsKsB4ZI2A0Ka38ZFQ-aVRt8&scisf=4&ct=citation&cd=-1&hl=zh-CN" target="_blank">BIB</a></strong>]<br>
+    Cong Jin, <strong>Yongpan Sheng</strong>*, Lirong He, and Ya Li<br>
+    <em>Expert Systems With Applications</em>
+    <span class="cas-badge">中科院一区期刊</span>
+    </div>
+
+    <div class="entry">
+    - <strong>Enhancing Uncertain Knowledge Graph Embedding via Graph Structure-Aware Context and Fused-Triple Confidence Information Learning within an Encoder-Decoder Framework</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    Yujie Song, <strong>Yongpan Sheng</strong>*, Lirong He, and Tao Jia<br> 
     <em>Data Intelligence (DI), 2026</em>
-    <span class="cas-badge">中科院二区</span>
+    <span class="cas-badge">中科院二区期刊</span>
     </div>
 
     <div class="entry">
@@ -312,13 +319,6 @@ redirect_from:
     <em>The 7th International Conference on Natural Language Processing (ICNLP-25). Guangzhou, China, March 21th-23th, 2025</em>
     <span class="ccf-badge">Best Paper Award</span>
     </div>  
-
-    <div class="entry">
-    - <strong>CEGRL-TKGR: A Causal Enhanced Graph Representation Learning Framework for Temporal Knowledge Graph Reasoning</strong> [<strong><a href="https://aclanthology.org/2025.neusymbridge-1.2/" target="_blank">Link</a></strong>][<strong><a href="https://shengyp.github.io/files/CEGRL-TKGR_A_Causal_Enhanced_Graph_Representation_Learning_Framework_for_Temporal_Knowledge_Graph_Reasoning.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://scholar.googleusercontent.com/scholar.bib?q=info:ZVpu79zbDsgJ:scholar.google.com/&output=citation&scisdr=Cl9khsBPEOe77y8lnJQ:AFtJQiwAAAAAaZUjhJVn_IgNEZYkHulO09VBSbQ&scisig=AFtJQiwAAAAAaZUjhDp0_Ynwp7SGJYP1czPtpZY&scisf=4&ct=citation&cd=-1&hl=zh-CN" target="_blank">BIB</a></strong>]<br>
-    Jinze Sun, <strong>Yongpan Sheng</strong>*, Lirong He, Yongbin Qin, Ming Liu, and Tao Jia<br>
-    <em>Bridging Neurons and Symbols for Natural Language Processing and Knowledge Graphs Reasoning@COLING (COLING NeusymBridge Workshop-25). Abu Dhabi, UAE from January 19th to 24th, 2025</em>
-    <span class="ccf-badge">CCF-B类会议研讨会</span>
-    </div>
 
     <div class="entry">
     - <strong>Multi-document semantic relation extraction for news analytics</strong> [<strong><a href="https://link.springer.com/content/pdf/10.1007/s11280-020-00790-2.pdf" target="_blank">Link</a></strong>][<strong><a href="https://shengyp.github.io/files/Multi-document_semantic_relation_extraction_for_news_analytics.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://scholar.googleusercontent.com/scholar.bib?q=info:5BarsBPGR3wJ:scholar.google.com/&output=citation&scisdr=Cn0tIthPEOe77zazs2U:AHkA5jQAAAAAaYy1q2UsoNvoBDRaE_sm4ahRfgg&scisig=AHkA5jQAAAAAaYy1q4V3BMckjDkPVq1H9AeMylI&scisf=4&ct=citation&cd=-1&hl=zh-CN" target="_blank">BIB</a></strong>]<br>
