@@ -386,18 +386,6 @@ redirect_from:
     </div>
 
     <div class="entry">
-    - <strong>PR-Generator: An End-To-End Framework Fusing Historical User Preferences for Personalized Recipe Generation with Advanced Decoder Design and Supervised Contrastive Learning</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
-    Yingnan Wang, <strong>Yongpan Sheng</strong>*, Lirong He, and Gengjie Jia<br>
-    <em>Under review</em>
-    </div>
-
-    <div class="entry">
-    - <strong>Agri-RelExIns: A Comprehensive Schema-Based Instruction Dataset for Agricultural-Aware Relation Extraction</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
-    Sha Hu, Zhu Dai, and <strong>Yongpan Sheng</strong>*<br>
-    <em>Under review</em>
-    </div>
-
-    <div class="entry">
     - <strong>CAKG: A Novel Carbon-Assessed Crop Knowledge Graph Construction in Agricultural Domain for Carbon Effects Analytics</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
     <strong>Yongpan Sheng</strong>*, and Lirong He<br>
     <em>The 4th Workshop on Knowledge Graphs and Model-driven Systems Engineering</em>
@@ -415,10 +403,22 @@ redirect_from:
     </div>
     </div>-->
 
+<!--     <div class="entry">
+    - <strong>Evaluating Understanding and Relation Extraction Capability of Large Language Models: A Case Study on Chinese Agricultural-Aware Datasets</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    Sha Hu, Jianglin Dai, Lirong He, Hui Zhang, and <strong>Yongpan Sheng</strong>*<br>
+    <em>Under review</em>
+    </div> -->
+
     <div class="entry">
     - <strong>Special Issue of Information Network Mining and Applications</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
     <strong>Yongpan Sheng</strong>, Hao Wang, and Yixiang Fang<br>
     <em>Arxiv</em>
+    </div>
+
+    <div class="entry">
+    - <strong>PR-Generator: An End-To-End Framework Fusing Historical User Preferences for Personalized Recipe Generation with Advanced Decoder Design and Supervised Contrastive Learning</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    Yingnan Wang, <strong>Yongpan Sheng</strong>*, and Lirong He<br>
+    <em>Under review</em>
     </div>
 
     <div class="entry">
@@ -436,6 +436,18 @@ redirect_from:
     <div class="entry">
     - <strong>Temporal Knowledge Graph Completion by Modeling Transitivity with Relation Rules in Knowledge Graph Embedding</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
     Lizhu Xiong, <strong>Yongpan Sheng</strong>*, and Lirong He<br>
+    <em>Under review</em>
+    </div>
+
+    <div class="entry">
+    - <strong>Agri-RelEx: A Sentence-Level Relation Extraction Framework from Agricultural Text with Attention-Guided and Multi-Scale Graph Convolutional Network</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    Tangyunzhi Jiang (大三), <strong>Yongpan Sheng</strong>*, Yiting Wang, and Ming Liu<br>
+    <em>Under review</em>
+    </div>
+
+    <div class="entry">
+    - <strong>Agri-RelExIns: A Comprehensive Schema-Based Instruction Dataset for Agricultural-Aware Relation Extraction</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    Jianglin Dai, Sha Hu, and <strong>Yongpan Sheng</strong>*<br>
     <em>Under review</em>
     </div>
 
@@ -458,22 +470,17 @@ redirect_from:
     </div>
 
     <div class="entry">
-    - <strong>Enhancing Temporal Knowledge Graph Reasoning by Incorporating Transformer Hawkes Process and Temporal Logic Rules in the Representation Learning Framework</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
-    Zhuping Ding, <strong>Yongpan Sheng</strong>*, and Lirong He<br>
-    <em>Under review</em>
-    </div>
-
-    <div class="entry">
-    - <strong>Agri-RelEx: A Sentence-Level Relation Extraction Framework from Agricultural Text with Attention-Guided and Multi-Scale Graph Convolutional Network</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
-    Tangyunzhi Jiang (大三), <strong>Yongpan Sheng</strong>*, Yiting Wang, and Ming Liu<br>
-    <em>Under review</em>
-    </div>
-
-    <div class="entry">
     - <strong>EHRForge: A Reproducible Workflow for Constructing an Evidence-Grounded Synthetic Temporal QA Benchmark from Longitudinal Clinical Notes</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="https://alta2025.alta.asn.au/assets/papers/8.pdf" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]
     <br>Quang An Quoc Tran, Huy Quoc To, <strong>Yongpan Sheng</strong>, and Ming Liu<br>
     <em>Under review</em>
     </div>  
+
+    <div class="entry">
+    - <strong>Enhancing Temporal Knowledge Graph Reasoning by Incorporating Transformer Hawkes Process and Temporal Logic Rules in the Representation Learning Framework</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
+    Zhuping Ding, <strong>Yongpan Sheng</strong>*, Lirong He, and Ming Liu<br>
+    <em>The 22nd International Conference on Advanced Data Mining and Applications (ADMA 2026), Hong Kong, China, November 13th-15th, 2026</em>
+    <span class="ccf-badge">CCF-C类会议</span>
+    </div>
 
     <div class="entry">
     - <strong>HECDSC-TKGR: Enhancing Temporal Knowledge Graph Reasoning through Jointly Modeling of Historical Event Context and Query‑Oriented Dynamic Subgraph Context</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
@@ -530,12 +537,6 @@ redirect_from:
 
 <!-- 2025 -->
     <strong>2025</strong>
-<!--     <div class="entry">
-    - <strong>Evaluating Understanding and Relation Extraction Capability of Large Language Models: A Case Study on Chinese Agricultural-Aware Datasets</strong> [<strong><a href="#" target="_blank">Link</a></strong>][<strong><a href="#" target="_blank">PDF</a></strong>][<strong><a href="#" target="_blank">BIB</a></strong>]<br>
-    Sha Hu, Jianglin Dai, Lirong He, Hui Zhang, and <strong>Yongpan Sheng</strong>*<br>
-    <em>Under review</em>
-    </div> -->
-
     <div class="entry">
     - <strong>An LLM-based Framework for Domain-Specific Information Extraction: A Case Study in Computer Science and Chemistry</strong> [<strong><a href="https://aclanthology.org/2025.alta-main.8/" target="_blank">Link</a></strong>][<strong><a href="https://alta2025.alta.asn.au/assets/papers/8.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://scholar.googleusercontent.com/scholar.bib?q=info:Dfv1hjLubOUJ:scholar.google.com/&output=citation&scisdr=CoE_eQPTEMDazlXW0zA:AIVdB-wAAAAAaofQyzBLJbaF7T4Uit_Z8e1xPBI&scisig=AIVdB-wAAAAAaofQy4PKkORZ8BDW8ANtQCbb3yc&scisf=4&ct=citation&cd=-1&hl=zh-CN" target="_blank">BIB</a></strong>]<br>
     Xungang Gu, Yangjie Tian, Li Ning, Meng Liu, Ruohua Xu, He Zhang*, Hanqiu Liu, <strong>Yongpan Sheng</strong>, Ming Liu<br>
